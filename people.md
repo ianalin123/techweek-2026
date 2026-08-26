@@ -12,6 +12,21 @@ Current as of 2026-08-26.
 
 ---
 
+## Venues
+
+### AGI House — Alexa Orent
+- **Contact:** alexa@agihouse.org
+- **First contact:** 2026-08-26 — Iana sent the invite, Alexa accepted same day
+- **SF:** contacted — 30 min call 2026-08-26, 2:10–2:40pm, at 1868 Floribunda Ave,
+  Hillsborough
+- **LA:** not contacted
+- **Why they matter:** AGI House runs its own hackathon programming out of the SF house
+  and has hosted events like the Self Improving AI Agents emergency hackathon. Iana is
+  on their newsletter. Best standing lead for an INTERFACE venue.
+- **Next step:** capture what was agreed in this call — nothing is recorded yet
+
+---
+
 ## Sponsors
 
 ### fal
