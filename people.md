@@ -243,16 +243,21 @@ makes every other conversation easier. Nothing is locked.
 - **Next step:** Sissi to reach out
 
 ### a16z portfolio speaker (unassigned)
-- **SF:** not contacted
+- **SF / LA:** not contacted
 - **Notes:** Alexa suggested asking the Tech Week grant team to supply a portfolio
-  company speaker. Fil is the obvious person to ask.
-- **Next step:** fold this into the reply Fil is already waiting on
+  company speaker. Named targets for both events are in `a16z-portfolio.md` — the ask
+  converts better when it names companies than when it asks open-endedly.
+- **Next step:** pick two or three per event and send the ask
 
-### Austin BCI company (unnamed)
+### Echo Neurotechnologies — was "the Austin BCI company"
 - **SF:** not contacted — Alexa offered to reach out to the founder for us
-- **Notes:** a16z portfolio, actively recruiting, which is why Alexa flagged them as a
-  strong SF fit
-- **Next step:** ask Alexa to make the intro
+- **Contact:** Dr. Edward Chang, founder and CEO; chairs neurosurgery at UCSF
+- **Notes:** a16z's first BCI investment, ~$50M led Jan 2025. Actively recruiting.
+  Alexa described this one as being in Austin, but Echo is in San Francisco — the
+  Austin BCI company is Paradromics, which is not a16z. See `a16z-portfolio.md`.
+- **Next step:** ask Alexa whether she is more confident about the city or the investor,
+  then ask for the intro. If she really meant Austin, the grant team cannot route us
+  there and the intro has to come from her.
 
 ### Sam Altman
 - **SF:** not contacted

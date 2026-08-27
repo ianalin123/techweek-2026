@@ -100,6 +100,7 @@ Cross-cutting registries live at the top level. Event-specific material lives un
 ```
 README.md                     this file
 people.md                     everyone contacted, per-event status
+a16z-portfolio.md             portfolio companies to name in the speaker/sponsor ask
 events/sf/brief.md            INTERFACE as submitted and approved
 events/sf/runbook.md          INTERFACE day-of schedule
 events/la/brief.md            MOLTEN as submitted and approved
@@ -145,6 +146,13 @@ Files not yet created because they have no content: `budget.md` and per-event
   Berkeley or another free space.
 - **Neither event has a venue, and that gates everything else.** Alexa's advice was to
   lock a venue before scaling sponsor outreach, and a named speaker before that.
+- **No speaker is locked for either event.** Targets are researched and ranked in
+  `a16z-portfolio.md`; none have been contacted. NEURAL is the thinnest track — Echo
+  Neurotechnologies is the only serious a16z BCI company, and it is also the track with
+  no hardware committed.
+- **The a16z portfolio does not solve the MOLTEN hardware bench.** No portfolio company
+  manufactures a spatial headset. USC ICT, Snap, and Meta still have to be asked
+  directly; the portfolio only offers warm routes in.
 - **The MOLTEN venue one-pager asks for the wrong hours** — Sat 12pm to Sun 12pm,
   6.5 hours short of the approved schedule. Fix before sending again.
 - INTERFACE has no one-pagers.
