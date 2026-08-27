@@ -17,7 +17,7 @@ all of them.
 | speaking at a spatial hackathon in la | `nathan@refactorgames.com` | — |
 | speaking at an interfaces hackathon in sf | `chloe@valencevibrations.com` | — |
 | sponsoring two tech week hackathons | `wayne@convex.dev` | — |
-| sponsoring two student hackathons during tech week | `raghu.viswanathan@mongodb.com` | `aaron.becker@mongodb.com` |
+| sponsoring two student hackathons during tech week | `steffan.mejia@mongodb.com`, `shelby.carpenter@mongodb.com` | `emily.mcbride@mongodb.com` |
 
 Eight are MOLTEN or the grant team. Chloe Duckworth is the only INTERFACE-only draft,
 because every other INTERFACE target is an a16z portfolio company and should go through
@@ -25,30 +25,44 @@ Fil first rather than cold. Convex and MongoDB are pitched on both events at onc
 
 ## Infrastructure sponsors, a different pitch
 
-Convex and MongoDB are not thematically related to interfaces or spatial creation. They
-are horizontal developer tools, which is fine, because horizontal tools are who actually
-pay for hackathons. But the pitch has to change. For a thematic partner like Metastage
-we argue relevance. For these two we argue **reach**: roughly 200 student builders across
-two weekends, from Berkeley, Stanford, USC, UCLA, ArtCenter, and Caltech, every team
-shipping a demo.
+Convex and MongoDB are horizontal developer tools rather than thematic partners, which is
+fine, because horizontal tools are who actually pay for hackathons. The pitch changes
+accordingly. For a thematic partner like Metastage we argue relevance. For these two we
+argue **reach**: roughly 200 student builders across two weekends, from Berkeley,
+Stanford, USC, UCLA, ArtCenter, and Caltech, every team shipping a demo.
 
 | Target | Best contact | Check | Why that person |
 |---|---|---|---|
 | **Convex** | `wayne@convex.dev` — Wayne Sutton, Community Manager | **valid** 100 | community owns hackathon sponsorship, and Convex runs its own hackathon series so the motion already exists |
 | Convex, escalation | `jamie@convex.dev` (co-founder), `liz@convex.dev` (Marketing) | valid | if Wayne does not answer |
-| **MongoDB** | `raghu.viswanathan@mongodb.com` — VP of Education | **valid** 100 | student programs live in the education org |
-| MongoDB, cc | `aaron.becker@mongodb.com` — Educational Technologist | **valid** 100 | more likely to actually reply and route it |
-| MongoDB, MOLTEN angle | `andrew.fenby@mongodb.com` — **Head of Media and Gaming** | **valid** 100 | the closest thing to a spatial or gaming fit if the education route stalls |
+| **MongoDB** | `steffan.mejia@mongodb.com` and `shelby.carpenter@mongodb.com` — both **Director of Developer Relations** | **valid** 100 | DevRel owns the hackathon spend, not the education org |
+| MongoDB, cc | `emily.mcbride@mongodb.com` — Manager, Strategic Event Operations | **valid** 91 | whoever actually books the event |
+| MongoDB, MOLTEN angle | `andrew.fenby@mongodb.com` — **Head of Media and Gaming** | **valid** 100 | the spatial and gaming fit if DevRel stalls |
+| MongoDB, student angle | `raghu.viswanathan@mongodb.com` — VP of Education, `aaron.becker@mongodb.com` — Educational Technologist | **valid** 100 | fallback only, and it is the slower door |
 
-**Convex is the stronger of the two, and there is a real specific argument for it.** Much
-of what people try to build at MOLTEN is shared and spatial, meaning two or more people
-in one world at once. Realtime sync is what kills those projects around hour 18, and that
-is precisely what Convex removes. That is in the draft.
+**Convex has a specific technical argument.** Much of what people try to build at MOLTEN
+is shared and spatial, meaning two or more people in one world at once. Realtime sync is
+what kills those projects around hour 18, and that is precisely what Convex removes. That
+is in the draft.
 
-**MongoDB has no hackathon sponsorship form.** `MongoDB for Startups` is a different
-programme, for companies under seven years old at Series A or earlier, so it does not
-apply to us as an event. The route has to be a person, which is why the draft ends by
-asking who the right person is rather than assuming.
+**MongoDB is not a generic sponsor and I had this wrong at first.** They sponsor a lot of
+hackathons, heavily in SF. Confirmed: an **Agentic Memory and Context Engineering
+hackathon run for SF Tech Week**, a Build Fest mini-hackathon at MongoDB.local in SF on
+Aug 13, a Jan 10 2026 hackathon at Shack15, and a **residency program whose flagship
+partner is AGI House**. AGI House is Alexa's venue, so this is a warm route, not a cold
+one. The single highest-value move here is asking Alexa for the intro before the email
+goes out.
+
+Two consequences for the ask:
+
+- **Route to DevRel, not Education.** They fund these out of developer relations. The
+  education org is a slower door for the same money.
+- **Lead with MOLTEN.** MongoDB ran their own SF Tech Week hackathon, so INTERFACE is in
+  the same city in the same week and may compete with something of theirs. MOLTEN is in
+  LA and does not. The draft says this outright rather than pretending not to notice.
+
+`MongoDB for Startups` is still not the route. It is for companies under seven years old
+at Series A or earlier, so it does not apply to us as an event.
 
 **`community@convex.dev` and `hackathons@convex.dev` do not exist** — both came back
 invalid, so do not guess generic inboxes there.

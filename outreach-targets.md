@@ -44,7 +44,7 @@ relevance, and asked for both events at once.
 | Target | Ask | Why | Confidence |
 |---|---|---|---|
 | **Convex** | Sponsor + credits + mentors | Runs its own hackathon series (TanStack, Modern Stack, Resend), so the sponsorship motion already exists. Real technical fit for MOLTEN: shared spatial builds die on realtime sync around hour 18, which is the problem Convex removes. `wayne@convex.dev` (Community Manager) confirmed. | verified |
-| **MongoDB** | Sponsor + Atlas credits | Generic but reliable hackathon sponsor. No sponsorship form exists and `MongoDB for Startups` does not apply to events, so the route is the education org. `raghu.viswanathan@mongodb.com` (VP of Education) confirmed. | verified |
+| **MongoDB** | Sponsor + Atlas credits | Active SF hackathon sponsor, not a generic one: ran their own **SF Tech Week hackathon**, a Build Fest at MongoDB.local, and a residency program whose flagship partner is **AGI House**. AGI House is Alexa's venue, so ask her for the intro first. Route to DevRel: `steffan.mejia@mongodb.com` and `shelby.carpenter@mongodb.com`, both Director of Developer Relations. | verified |
 
 **TOUCH is the weak track.** Only XDOF and Ultraleap surfaced and both need verification.
 If XDOF does not check out, consider Ultraleap for hardware rather than a speaker.
@@ -126,7 +126,8 @@ grant team cannot route us there, and the intro has to come from her.
 - Speedrun's current cohort SR007 demos Oct 6 and contains nothing spatial. If the grant
   team offers the current cohort, it is the wrong cohort — the spatial companies are
   SR001–SR004.
-- **We have no working contact-finding tool.** There is no Hunter key on this machine,
-  MillionVerifier has no key, and Exa is out of credits. Every address we have came from
-  a hand lookup, which works for universities and not for companies. See
-  `outreach-drafts.md`.
+- Contact finding is **not** a blocker. Hunter works, keyed from
+  `~/fieldlabs-pipeline/credentials/enrich_keys.env`. Exa is out of credits and
+  MillionVerifier has no key, but Hunter's own verifier covers that. Read `valid` as
+  confirmed and `accept_all` as plausible but unproven, which is normal for universities.
+  Addresses and confidence are in `outreach-drafts.md`.
