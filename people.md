@@ -8,11 +8,18 @@ Everyone contacted about INTERFACE (SF) or MOLTEN (LA), and where each stands.
 Each organization gets one entry with a separate line per event, because a sponsor is
 one relationship with two possible answers.
 
+**Provenance matters.** Entries sourced from meeting notes are marked *(meeting notes)*.
+Those have no email trail and should be verified before anyone relies on them. Entries
+with a date and an address come from sent mail and are solid.
+
 Current as of 2026-08-26.
 
 ---
 
 ## Venues
+
+Neither event has a venue. This is the top blocker for both, and Alexa's advice was to
+lock a venue before scaling sponsor outreach.
 
 ### AGI House — Alexa Orent
 - **Contact:** alexa@agihouse.org
@@ -20,10 +27,69 @@ Current as of 2026-08-26.
 - **SF:** contacted — 30 min call 2026-08-26, 2:10–2:40pm, at 1868 Floribunda Ave,
   Hillsborough
 - **LA:** not contacted
-- **Why they matter:** AGI House runs its own hackathon programming out of the SF house
-  and has hosted events like the Self Improving AI Agents emergency hackathon. Iana is
-  on their newsletter. Best standing lead for an INTERFACE venue.
-- **Next step:** capture what was agreed in this call — nothing is recorded yet
+- **What she offered:** an intro to Bright Data as a venue sponsor, an intro to an
+  Austin BCI portfolio company founder, and a volunteer slot for our team at the Living
+  Internet build day on 2026-09-19 to learn event ops
+- **Her advice:** lock a compelling speaker first, because credibility makes sponsor
+  conversations easier; ask the a16z grant team for a portfolio company speaker; skip
+  mass tier sheets early and start with conversations; Wi-Fi and venue quality are what
+  derail events
+- **Next step:** take her up on the Bright Data and BCI founder intros
+
+### Kindred Ventures
+- **SF:** contacted *(meeting notes)* — Sissi reached out; they said they would check
+  with the team and reply in a day or two. Contacted on a Friday, no reply recorded.
+- **LA:** not contacted
+- **Notes:** top SF venue candidate as of the 2026-08-12 planning call. Sissi owns the
+  relationship.
+- **Next step:** Sissi to chase — the reply window has passed
+
+### Iconic VC
+- **SF:** contacted *(meeting notes)* — Sissi reached the executive director of the
+  office. They said it was very likely they could not accommodate us, but would check.
+- **LA:** not contacted
+- **Notes:** hosted the 11 Laps hackathon, which is why they came up.
+- **Next step:** treat as a soft no unless they come back
+
+### Soma Protolab
+- **SF:** not contacted
+- **LA:** not contacted
+- **Notes:** free SF fallback, described as workable but not great. Sissi planned a site
+  visit.
+- **Next step:** site visit
+
+### SF Tech (venue)
+- **SF:** contacted *(meeting notes)* — quoted roughly **$20K for 30–38 hours**. Second
+  and third floors each hold 100–120 people.
+- **LA:** not contacted
+- **Notes:** $20K against a $5K reimbursement makes this unaffordable without a venue
+  sponsor.
+- **Next step:** Sissi to send event details to arrange a team call and site visit
+
+### UC Berkeley (campus)
+- **SF:** not contacted
+- **LA:** not contacted
+- **Notes:** Iana's preference on the 2026-08-24 call — host at Berkeley and put the
+  saved money into prizes. Sissi agreed. No specific room or department approached yet.
+- **Next step:** identify which space and who books it
+
+### Bright Data
+- **SF:** not contacted — Alexa offered to make the intro
+- **LA:** not contacted
+- **Why they matter:** they host events and provide their product in the tech stack, so
+  this is a venue ask and a sponsor ask in one. Alexa says they are actively looking for
+  more events to host.
+- **Next step:** ask Alexa for the intro
+
+### Daniel — Call House Ventures
+- **LA:** not contacted — Sissi offered to connect
+- **Notes:** runs events in LA. Company name is from meeting notes and unverified.
+- **Next step:** ask Sissi for the intro
+
+### Cal Hacks contact
+- **SF:** not contacted
+- **Notes:** someone Iana met at a prior hackathon. No name recorded.
+- **Next step:** Iana to dig up the name
 
 ---
 
@@ -73,6 +139,51 @@ Current as of 2026-08-26.
 - **LA:** not contacted
 - **Next step:** find a valid contact or drop
 
+### Motive
+- **SF / LA:** not contacted
+- **We want:** free EEG headsets for the Neural track, plus sponsorship
+- **Notes:** consumer neurotech headsets. Sissi owns this outreach. Named across the
+  2026-08-12 and 2026-08-24 planning calls as the natural Neural track sponsor.
+- **Next step:** Sissi to send
+
+### Reactor
+- **SF / LA:** not contacted
+- **We want:** sponsorship
+- **Warm angle available:** Sissi knows the CEO directly — their office was below
+  Berkeley's. She said she can just reach out.
+- **Next step:** Sissi to send
+
+### Anthropic
+- **SF / LA:** not contacted
+- **We want:** API credits for participants
+- **Warm angle available:** Sissi has a contact who can route a credits request. Name
+  recorded in notes as "Shriss" — spelling unverified.
+- **Next step:** confirm the contact's real name, then send
+
+### OpenAI
+- **SF / LA:** not contacted
+- **We want:** API credits
+- **Next step:** find a named contact
+
+### Nvidia
+- **SF / LA:** not contacted
+- **We want:** GPU prizes, and engineers as judges
+- **Warm angle available:** Iana has contacts in engineering, unnamed so far
+- **Next step:** Iana to name the contact
+
+### Eno Technologies
+- **SF / LA:** not contacted
+- **We want:** Neural track sponsorship
+- **Next step:** find a contact
+
+### Apple — Vision Pro units
+- **SF / LA:** not contacted directly
+- **We want:** Apple Vision Pro sets at cost, for the MOLTEN grand prize
+- **Status:** an unnamed contact of Sissi's was negotiating bulk pricing with Apple as
+  of 2026-08-12. **No confirmation exists.** The sponsor one-pager already claims the
+  Vision Pro grand prize is locked — see the README open questions.
+- **Next step:** get a yes or no from that contact before the one-pager goes out again
+
 ### Roboflow
 - **SF / LA:** not contacted
 - **Notes:** named as an open sponsor conversation in the MOLTEN sponsor one-pager, but
@@ -89,6 +200,59 @@ Current as of 2026-08-26.
 ### Brilliant Labs
 - **SF / LA:** not contacted
 - **Notes:** as above — named in the one-pager, no outreach sent
+
+---
+
+## Judges
+
+Target is roughly 15: about 5 industry, 5–7 VCs, the rest researchers. Five or six
+people had already expressed inbound interest as of 2026-08-24. None have been sent
+anything yet.
+
+### David Bloom
+- **SF:** interested *(meeting notes)* — reached out to us
+- **Next step:** Sissi to send the one-pager
+
+### Una
+- **SF:** interested *(meeting notes)* — reached out to us
+- **Next step:** send the one-pager
+
+### Ian
+- **SF:** interested *(meeting notes)* — reached out to us
+- **Next step:** send the one-pager
+
+### DeepChecks contact
+- **SF:** interested *(meeting notes)* — reached out to us. No name recorded.
+- **Next step:** get the name from Sissi
+
+---
+
+## Speakers
+
+Alexa's advice was to lock a speaker before pushing on sponsors, because a named speaker
+makes every other conversation easier. Nothing is locked.
+
+### Andrew — a16z
+- **SF:** not contacted
+- **Notes:** Sissi said she can get him. No outreach sent.
+- **Next step:** Sissi to reach out
+
+### a16z portfolio speaker (unassigned)
+- **SF:** not contacted
+- **Notes:** Alexa suggested asking the Tech Week grant team to supply a portfolio
+  company speaker. Fil is the obvious person to ask.
+- **Next step:** fold this into the reply Fil is already waiting on
+
+### Austin BCI company (unnamed)
+- **SF:** not contacted — Alexa offered to reach out to the founder for us
+- **Notes:** a16z portfolio, actively recruiting, which is why Alexa flagged them as a
+  strong SF fit
+- **Next step:** ask Alexa to make the intro
+
+### Sam Altman
+- **SF:** not contacted
+- **Notes:** floated on the 2026-08-12 call as a long shot. Panel format was suggested
+  as the realistic framing.
 
 ---
 
@@ -119,8 +283,8 @@ No outreach email exists for any of them, so treat that phrasing as aspirational
 - **Contact:** fil@tech-week.com
 - **Role:** host lead; sent the grant approval and runs host office hours
 - **Status:** active — approved MOLTEN for up to $5K reimbursement on 2026-08-20
-- **Next step:** he asked for a reply once the Partiful page is created and the event
-  is submitted
+- **Next step:** he asked for a reply once the Partiful page is created and the event is
+  submitted. Add the portfolio-speaker ask to that reply.
 
 ### Tracy — Tech Week
 - **Contact:** tracy@tech-week.com
@@ -143,10 +307,34 @@ No outreach email exists for any of them, so treat that phrasing as aspirational
 ## Community partners
 
 ### Gen Gems / Machine Cinema
-- **LA:** contacted — from meeting notes, not email; verify before relying on this
-- **We asked for:** venue help for LA and community cross-promotion. Our team keeps all
-  operations.
-- **Notes:** 200+ events across 40 countries. Intro came through SF Film Club. The
-  physical-plus-digital format modeled on their jewelry jam was the reference for the
-  MOLTEN format.
-- **Next step:** confirm current status — no email trail exists
+- **Contact:** their partnerships co-founder handles this. Emails were to be texted to
+  Iana and are not recorded here yet.
+- **LA:** contacted *(meeting notes)* — call 2026-08-25. They need to check internally
+  before committing.
+- **We asked for:** LA venue connections, community cross-promotion, and a speaker or
+  rep at the event. Our team keeps all operations.
+- **Notes:** they run "Gen Jams," AI filmmaking hackathons — 200+ events across 40
+  countries, typically 60–80 attendees. A recent LA event used a 360 dome and a
+  volumetric stage; an upcoming SF one runs AI sketch to 3D print to runway show in
+  4–5 hours. They are exploring EEG headsets for future events and are working with
+  Michelle Phan and CapCut on a creator series. Intro came through SF Film Club. Their
+  jewelry jam was the reference for the MOLTEN format.
+- **Next step:** send event details to their email — we do not have the address yet
+
+### William Yu — The AGI Company
+- **Contact:** william.yu@theagi.company
+- **First contact:** call 2026-08-24, 4:30pm
+- **SF / LA:** contacted — mutual collaboration discussed, strong alignment, follow-up
+  agreed
+- **What was discussed:** AGI is running "Edge Cases" at SF Tech Week and a high-end
+  dinner and after-party at Samsung for LA Tech Week. He proposed Iana plug into AGI's
+  events short-term to learn event ops and trade networks. He offered vendor intros.
+- **Next step:** the agreed follow-up meeting — confirm whether it happened
+
+### Living Internet build day
+- **Date:** 2026-09-19
+- **Status:** open invitation from Alexa for our team to volunteer — check-in, team
+  formation, judging logistics
+- **Why it matters:** the cheapest way to learn event ops before running two of our own.
+  Alexa will not be there in person.
+- **Next step:** decide who goes

@@ -37,7 +37,8 @@ These come from Fil's approval email (2026-08-20) and apply to any approved even
 
 Tracked here until there is enough volume to justify a separate `commitments.md`.
 
-- Apple Vision Pro as grand prize (listed as secured)
+- Apple Vision Pro as grand prize — **claimed as secured, actually unconfirmed.** See
+  the open questions below.
 - Opt-in attendee resume book for sponsors — requires a consent field in the application
 - Logo placement on site, Partiful, and Notion
 - Post-event write-up featuring track winners
@@ -73,5 +74,14 @@ Add them when there is something real to put in.
 - **MOLTEN venue hours are inconsistent.** The venue one-pager asks for Sat 12pm →
   Sun 12pm. The schedule submitted to Tech Week runs Sat 9am check-in → Sun 3:30pm
   close. The venue ask is roughly 6.5 hours short of the actual event.
+- **The Vision Pro grand prize is not secured.** The sponsor one-pager says "Vision Pro
+  locked in as the grand prize." Meeting notes from 2026-08-12 say a contact of Sissi's
+  was still negotiating bulk at-cost pricing with Apple, and no confirmation exists.
+  Do not send the one-pager again until this resolves.
+- **The venue budget does not close.** SF Tech quoted roughly $20K for 30–38 hours
+  against a $5K reimbursement. Either a venue sponsor covers it, or the event moves to
+  Berkeley or another free space.
+- **Neither event has a venue, and that gates everything else.** Alexa's advice was to
+  lock a venue before scaling sponsor outreach, and a named speaker before that.
 - INTERFACE has no one-pagers yet and no separate grant confirmation.
 - LA Hacks (UCLA) is running an AI hackathon that collides with the MOLTEN date.
