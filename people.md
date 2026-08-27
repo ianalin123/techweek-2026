@@ -27,14 +27,14 @@ lock a venue before scaling sponsor outreach.
 - **SF:** contacted — 30 min call 2026-08-26, 2:10–2:40pm, at 1868 Floribunda Ave,
   Hillsborough
 - **LA:** not contacted
-- **What she offered:** an intro to Bright Data as a venue sponsor, an intro to an
-  Austin BCI portfolio company founder, and a volunteer slot for our team at the Living
-  Internet build day on 2026-09-19 to learn event ops
-- **Her advice:** lock a compelling speaker first, because credibility makes sponsor
-  conversations easier; ask the a16z grant team for a portfolio company speaker; skip
-  mass tier sheets early and start with conversations; Wi-Fi and venue quality are what
-  derail events
-- **Next step:** take her up on the Bright Data and BCI founder intros
+- **What she offered, all still unclaimed:** an intro to Bright Data as a venue sponsor,
+  an intro to the founder of an a16z BCI portfolio company in Austin, and volunteer
+  slots for our team at the Living Internet build day on 2026-09-19
+- **Her advice:** recorded in full in `decisions.md`. Short version — lock a speaker
+  before scaling sponsors, ask the a16z grant team for a portfolio speaker, announce as
+  early as possible, and interrogate venue Wi-Fi specifically.
+- **Next step:** reply and claim all three offers. This is the highest-value unanswered
+  thread we have.
 
 ### Kindred Ventures
 - **SF:** contacted *(meeting notes)* — Sissi reached out; they said they would check

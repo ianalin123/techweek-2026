@@ -100,10 +100,11 @@ events/sf/runbook.md          INTERFACE day-of schedule
 events/la/brief.md            MOLTEN as submitted and approved
 events/la/runbook.md          MOLTEN day-of schedule
 events/la/one-pagers/         MOLTEN venue and sponsor one-pagers
+decisions.md                  choices we are not relitigating, and operating advice
 ```
 
-Files not yet created because they have no content: `budget.md`, `decisions.md`, and
-per-event `venue.md`. Add them when there is something real to put in.
+Files not yet created because they have no content: `budget.md` and per-event
+`venue.md`. Add them when there is something real to put in.
 
 ## Conventions
 
