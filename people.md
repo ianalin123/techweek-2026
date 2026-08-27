@@ -327,16 +327,26 @@ No outreach email exists for any of them, so treat that phrasing as aspirational
 - **Next step:** confirm the arrangement and what they have agreed to do
 
 ### Daniel Suh — Gold House Ventures
-- **Contact:** `linkedin.com/in/d1suh`, Instagram `@d1suh`. **No email address yet.**
-- **LA:** interested — Iana messaged 2026-08-27 asking for a call today or tomorrow. He
-  replied: *"Would you mind sharing details over email for now? Happy to catch up early
-  next week."* So the details email is the next artifact, and the call is early week of
-  2026-08-31.
+- **Contact:** `daniel@goldhouse.org`. Also `linkedin.com/in/d1suh`, Instagram `@d1suh`.
+- **LA:** **interested, and already offering** — full thread 2026-08-27, subject
+  "LA tech week event".
+- **Intro came from Max Giammario, `max@daydream.inc`**, on 2026-08-27. Not Sissi. The old
+  *Sissi offered to connect* note was a separate, unused path.
+- **He offered two judges unprompted, both now on the thread:**
+  **Ted Wint `ted@goldhouse.org`** and **Vanessa Le `vanessa@goldhouse.org`**. Ted also
+  co-hosted the Women in AI x GHV event found in research, so he is an events person too.
+- **Daniel will be in Korea during Tech Week.** He cannot attend either event. His value is
+  as a door opener and a source of judges, not as a participant. Plan around Ted and
+  Vanessa from here.
+- **He asked two direct questions** that the next reply has to answer: *"Is MOLTEN also 120
+  builders?"* and *"Do you have a budget for LA?"*
+- **He invited us to a private Gold House event:** `partiful.com/e/2i2ezrcDZaa8Evezzzag`.
+  Cheap relationship building, worth attending.
+- **His read on fit, verbatim:** *"Pretty close to what we're focusing on."* The AI and
+  creativity thesis match is confirmed by him, not inferred.
 - **Was filed under Venues as "Daniel — Call House Ventures."** Both wrong. The company is
   **Gold House Ventures** and venue is not his lane — nothing in his record touches venues,
   hardware, XR, or spatial.
-- **Intro path is contested.** `people.md` recorded *Sissi offered to connect*. Iana says
-  her boyfriend made the intro. Pin down which before the email names anyone.
 - **Who he is (verified 2026-08-27, open-web):** LinkedIn headline says General Partner at
   Gold House Ventures; The Org says Partner; ContactOut still says Venture Scout since Feb
   2023. Gold House's own page (`goldhouse.org/people/daniel-suh`) lists him with no rank.
