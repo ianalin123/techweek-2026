@@ -1,7 +1,16 @@
 # Outreach drafts
 
-Written 2026-08-26. **Nothing here has been sent.** Every draft is text only until you
-read it and decide.
+Written 2026-08-26. **Nothing here has been sent.**
+
+Four of these are sitting in your Gmail drafts, ready to review and send. The rest are
+text only because there is no address to send them to.
+
+| Gmail draft | To | cc |
+|---|---|---|
+| Re: Your Tech Week 2026 event grant is approved! | `fil@tech-week.com` | `mchin@a16z.com`, Sissi — threaded onto the real approval email |
+| vision pro loaners for a spatial hackathon in la | `MxRLab@ict.usc.edu` | Sissi |
+| volumetric assets for a spatial hackathon in la | `team@metastage.com` | Sissi |
+| dma students at a spatial hackathon in la | `dmainfo@arts.ucla.edu` | Sissi |
 
 Who to ask and why is in `outreach-targets.md`. This file is the actual wording, plus
 what we know about how to reach each one.
