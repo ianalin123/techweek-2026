@@ -18,10 +18,27 @@ before reviving it.
 Sponsors, venues, and judges get a single entry in `people.md` with a separate line per
 event. A sponsor who says yes to SF has not said yes to LA.
 
-### The approved application text wins
-`events/<city>/brief.md` holds what was actually approved. Where a one-pager disagrees,
-the one-pager is wrong and gets fixed. This has already bitten us twice — the venue
-hours and the Vision Pro prize.
+### Partiful and the one-pagers are canonical, not the application
+`events/<city>/brief.md` records what a16z approved. It is history, not a spec, and
+details are allowed to drift from it — timing especially. The binding grant condition is
+the audience, not the agenda.
+
+Reversed 2026-08-26. The earlier version of this decision said the approved text wins and
+that disagreeing one-pagers were wrong. That was overcautious. One thing still needs
+fixing though, and it is not a drift problem: the **MOLTEN venue one-pager asks for less
+time than the event runs**, so a venue could agree to it and still not cover demos.
+
+### Outreach does not chase the NEURAL track
+Decided 2026-08-26. NEURAL stays a track at INTERFACE — it is in the approved
+application and on Partiful, and students can build in it on their own hardware. But we
+spend no outreach effort hunting a Neural speaker or sponsor. The research bore this out:
+Echo Neurotechnologies is the only serious a16z BCI company, so the pipeline is one name
+deep, and it is also the track with the largest unfunded hardware claim at ~15 EEG
+headsets. Effort goes to VOICE, TOUCH, VISION, and OPEN, where the field is deep and the
+companies have DevRel teams and credit programs.
+
+This does not resolve the EEG headsets. If no hardware lands, NEURAL runs software-only
+on whatever hackers bring.
 
 ---
 
@@ -41,9 +58,12 @@ the natural place to ask.
 
 She also flagged a specific portco: **a BCI company in Austin**, a16z portfolio, doing a
 lot of recruiting right now and, in her words, "just a good team." She did not name it
-and offered to reach out to the founder herself. The ask is twofold — a speaker or
-partner slot, plus recruiting access to a technical student crowd, which is what they
-want anyway. **Go through Alexa, not cold.**
+and offered to reach out to the founder herself. **Go through Alexa, not cold.**
+
+That company appears to be **Echo Neurotechnologies**, which is in San Francisco rather
+than Austin — see `a16z-portfolio.md` for how the two got conflated. Lower priority now
+that we are not chasing NEURAL, but the offer is free and Alexa made it unprompted, so
+it costs nothing to take.
 
 ### 3. Announce as early as possible
 Tech Week is a competitive week and attention is the scarce thing. Get on people's
@@ -84,7 +104,7 @@ All three are unclaimed. See `people.md`.
 
 - An intro to **Bright Data** — they host events and give their product free in the tech
   stack, so it is a venue ask and a sponsor ask at once
-- An intro to the **Austin BCI founder**
+- An intro to the **Austin BCI founder** — likely Echo Neurotechnologies, and in SF
 - **Volunteer slots at the Living Internet build day, 2026-09-19** (with Co-Frame and
   Almond Saloon). She will not be there in person, so help is genuinely needed:
   organized check-in, team formation — which she says is manual and needs a rework —
