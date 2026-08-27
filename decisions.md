@@ -61,7 +61,7 @@ lot of recruiting right now and, in her words, "just a good team." She did not n
 and offered to reach out to the founder herself. **Go through Alexa, not cold.**
 
 That company appears to be **Echo Neurotechnologies**, which is in San Francisco rather
-than Austin — see `a16z-portfolio.md` for how the two got conflated. Lower priority now
+than Austin — see `outreach-targets.md` for how the two got conflated. Lower priority now
 that we are not chasing NEURAL, but the offer is free and Alexa made it unprompted, so
 it costs nothing to take.
 

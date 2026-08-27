@@ -30,8 +30,10 @@ personal address on 2026-08-12, which is why it looked unconfirmed for a while. 
 reimbursement — we pay first and submit receipts.
 
 The approved text for each event, including the full schedule, is in
-`events/<city>/brief.md` and `events/<city>/runbook.md`. Those are the source of truth.
-The one-pagers are downstream and currently disagree with them in places.
+`events/<city>/brief.md` and `events/<city>/runbook.md`. Those record what a16z approved
+— they are history, not a spec. **The Partiful page and the one-pagers are canonical**
+when they disagree, except where a one-pager asks a venue for less time than the event
+actually runs. See `decisions.md`.
 
 ## Timeline
 
@@ -100,7 +102,8 @@ Cross-cutting registries live at the top level. Event-specific material lives un
 ```
 README.md                     this file
 people.md                     everyone contacted, per-event status
-a16z-portfolio.md             portfolio companies to name in the speaker/sponsor ask
+outreach-targets.md           ranked ask list: who to approach, for what, and how sure we are
+outreach-drafts.md            the actual email text for each ask, with contact status
 events/sf/brief.md            INTERFACE as submitted and approved
 events/sf/runbook.md          INTERFACE day-of schedule
 events/la/brief.md            MOLTEN as submitted and approved
@@ -147,7 +150,7 @@ Files not yet created because they have no content: `budget.md` and per-event
 - **Neither event has a venue, and that gates everything else.** Alexa's advice was to
   lock a venue before scaling sponsor outreach, and a named speaker before that.
 - **No speaker is locked for either event.** Targets are researched and ranked in
-  `a16z-portfolio.md`; none have been contacted. NEURAL is the thinnest track — Echo
+  `outreach-targets.md`; none have been contacted. NEURAL is the thinnest track — Echo
   Neurotechnologies is the only serious a16z BCI company, and it is also the track with
   no hardware committed.
 - **The a16z portfolio does not solve the MOLTEN hardware bench.** No portfolio company
