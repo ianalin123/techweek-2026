@@ -38,6 +38,7 @@ The one-pagers are downstream and currently disagree with them in places.
 | Date | What |
 |---|---|
 | 2026-09-08 | **Tech Week calendar launches.** Post on LinkedIn and X that day. |
+| 2026-10-02 | INTERFACE sponsorship locks (stated on the one-pager) |
 | 2026-09-19 | Living Internet build day — open volunteer slots for our team (via Alexa) |
 | 2026-10-05 | SF Tech Week begins |
 | 2026-10-10 to 10-11 | INTERFACE |
@@ -103,6 +104,7 @@ events/sf/brief.md            INTERFACE as submitted and approved
 events/sf/runbook.md          INTERFACE day-of schedule
 events/la/brief.md            MOLTEN as submitted and approved
 events/la/runbook.md          MOLTEN day-of schedule
+events/sf/one-pagers/         INTERFACE combined venue and sponsor one-pager
 events/la/one-pagers/         MOLTEN venue and sponsor one-pagers
 decisions.md                  choices we are not relitigating, and operating advice
 ```
@@ -116,16 +118,19 @@ Files not yet created because they have no content: `budget.md` and per-event
 - Pull before editing `people.md` — the file both of us touch most.
 - Draft in Google Docs while co-editing live; land it here once it settles.
 - Never commit signed contracts, the grant agreement, or API keys. Link to Drive.
-- `brief.md` holds approved text. If a one-pager disagrees with it, the one-pager is
-  wrong.
+- **The Partiful page and the one-pagers are canonical.** `brief.md` records what a16z
+  approved; it is history, not a spec. Details are allowed to drift from it — timing
+  especially. The binding grant condition is the audience, not the agenda.
 
 ## Open questions
 
-- **Three different sets of hours are published for MOLTEN, and two for INTERFACE.**
-  The approved schedules both run Sat 9:00 AM to Sun 3:30 PM. The MOLTEN Partiful says
-  Sat 9:30 AM to Sun 2:30 PM and the venue one-pager asks Sat 12 PM to Sun 12 PM. The
-  INTERFACE Partiful says Sat 11:00 AM to Sun 5:00 PM — two hours after check-in opens.
-  Attendees read Partiful and venues read the one-pager, so both errors bite.
+- **Should MOLTEN drop to one day?** Under discussion. It would ease the hardest part of
+  the venue search, but the event is named and calendared as a 24-hour hackathon and the
+  overnight is load-bearing in the pitch. Details in `events/la/brief.md`.
+- **The MOLTEN venue ask is narrower than the published event** — the one-pager asks for
+  Sat 12 PM to Sun 12 PM while Partiful runs to Sun 2:30 PM. A venue could say yes to
+  the one-pager and still not cover the event. The INTERFACE one-pager has the opposite
+  and correct shape: the ask is wider than the event.
 - **The Vision Pro grand prize is not confirmed in writing.** Being sourced through a
   personal contact and expected to land. Worth closing because "Prizes: Apple Vision Pro
   (secured)" is in the approved application — claimed to a16z, not just to sponsors.

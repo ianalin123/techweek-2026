@@ -1,9 +1,13 @@
 # INTERFACE — as submitted and approved
 
-**This is the approved text.** It comes verbatim from the Tech Week application form,
-quoted back in Fil's grant approval email of 2026-08-12. Changing any of it means
-re-submitting an approved event. Treat it as the source of truth and change the
-one-pagers to match, not the other way around.
+**This is the approved text, kept as a record of what a16z said yes to.** It comes
+verbatim from the Tech Week application form, quoted back in Fil's grant approval email
+of 2026-08-12.
+
+It is **not** the spec. The Partiful page and the one-pager are canonical and are
+allowed to drift from this — timing especially. What matters is that the event stays a
+technical student hackathon, which is the actual grant condition. Use this file to know
+what was promised, not to police what changed.
 
 The application was submitted under **Sissi's name** (sissiwang618@gmail.com), which is
 why the approval landed in her inbox rather than Iana's.
@@ -16,10 +20,17 @@ why the approval landed in her inbox rather than Iana's.
   "INTERFACE: Hack the Space Between - #SFTechWeek"
 - **Application form:** the shared Tech Week host form, `16PeSo-fGOG2R51YaeWtBy5Q29wIUWzpDAeIU1RKvMBU`
 
-> **The Partiful hours do not match this schedule.** Partiful says Saturday 11:00 AM to
-> Sunday 5:00 PM. The approved schedule runs Saturday 9:00 AM check-in to Sunday 3:30 PM
-> close. Attendees only ever see Partiful, so a hacker reading it would show up two hours
-> after check-in opens. Pick one and make the other match.
+**Published hours, for reference.** These differ by artifact and that is accepted — the
+Partiful page is what attendees act on.
+
+| Source | Hours |
+|---|---|
+| Partiful (canonical for attendees) | Sat 11:00 AM → Sun 5:00 PM |
+| One-pager venue ask | Sat ~8:00 AM → Sun ~7:00 PM |
+| This application | Sat 9:00 AM → Sun 3:30 PM |
+
+The one-pager's window is the widest, which is the right way round — the venue ask
+should cover more than the published event.
 
 ## Description
 

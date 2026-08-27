@@ -213,14 +213,14 @@ people had already expressed inbound interest as of 2026-08-24. None have been s
 anything yet.
 
 ### David Bloom — The House Fund
-- **Contact:** at The House Fund (Berkeley-affiliated VC). Address not confirmed —
-  Iana has it.
+- **Contact:** bloom@thehouse.fund
 - **SF:** interested — reached out to us
-- **Next step:** get the address into this file, then send the one-pager
+- **Next step:** send the one-pager
 
 ### Una
-- **SF:** interested *(meeting notes)* — reached out to us
-- **Next step:** Iana is supplying the contact details
+- **Contact:** unasiu8@gmail.com
+- **SF:** interested — reached out to us
+- **Next step:** send the one-pager
 
 ### Ian
 - **SF:** interested *(meeting notes)* — reached out to us
@@ -310,6 +310,21 @@ No outreach email exists for any of them, so treat that phrasing as aspirational
 ---
 
 ## Community partners
+
+### Neurotech @ Berkeley
+- **SF:** listed as a community partner on the INTERFACE one-pager
+- **Notes:** the natural pipeline for the Neural track. The one-pager also cites past
+  events with NVIDIA and OpenBCI, which likely came through this group.
+- **Next step:** confirm they have actually agreed to be named, and agree what they do —
+  promotion, volunteers, or hardware
+
+### Generative AI @ Berkeley
+- **SF:** listed as a community partner on the INTERFACE one-pager
+- **Next step:** confirm the arrangement and what they have agreed to do
+
+### Girls into VC @ Berkeley
+- **SF:** listed as a community partner on the INTERFACE one-pager
+- **Next step:** confirm the arrangement and what they have agreed to do
 
 ### Gen Gems / Machine Cinema
 - **Contact:** their partnerships co-founder handles this. Emails were to be texted to

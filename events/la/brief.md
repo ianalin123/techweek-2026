@@ -1,9 +1,14 @@
 # MOLTEN — as submitted and approved
 
-**This is the approved text.** It comes verbatim from the Tech Week application form,
-quoted back in Fil's grant approval email of 2026-08-20, and was approved for the
-#LATechWeek calendar on 2026-08-21. Changing any of it means re-submitting an approved
-event. Treat it as the source of truth and change the one-pagers to match.
+**This is the approved text, kept as a record of what a16z said yes to.** It comes
+verbatim from the Tech Week application form, quoted back in Fil's grant approval email
+of 2026-08-20, and was approved for the #LATechWeek calendar on 2026-08-21.
+
+It is **not** the spec. The Partiful page and the one-pagers are canonical and are
+allowed to drift from this — timing especially. Use this file to know what was promised.
+
+One caveat specific to MOLTEN: timing drift is cheap, but **dropping the overnight would
+not be** — see the open question about a one-day format below.
 
 - **Full title:** MOLTEN: a 24-hour hackathon for spatial creation
 - **Calendar title:** MOLTEN - hack spatial creation
@@ -14,10 +19,33 @@ event. Treat it as the source of truth and change the one-pagers to match.
 - **Partiful:** https://partiful.com/e/AgP5K9z8FR9TTWVMJIVC — live, titled
   "MOLTEN - hack spatial creation #LATechWeek"
 
-> **There are now three different sets of hours for this event.** The approved schedule
-> runs Saturday 9:00 AM to Sunday 3:30 PM. Partiful says Saturday 9:30 AM to Sunday
-> 2:30 PM. The venue one-pager asks for Saturday 12 PM to Sunday 12 PM. Attendees see
-> Partiful and venues see the one-pager, so both are wrong in ways that matter.
+**Published hours, for reference.** These differ by artifact and that is accepted.
+
+| Source | Hours |
+|---|---|
+| Partiful (canonical for attendees) | Sat 9:30 AM → Sun 2:30 PM |
+| Venue one-pager ask | Sat 12:00 PM → Sun 12:00 PM |
+| This application | Sat 9:00 AM → Sun 3:30 PM |
+
+Unlike SF, the venue ask here is **narrower** than the published event — it ends 2.5
+hours before Partiful does. That one is worth fixing, because a venue could agree to the
+one-pager window and still not cover the event.
+
+## Open question: one day instead of two
+
+Under discussion. Worth weighing before it moves:
+
+- The event is titled "MOLTEN: a 24-hour hackathon for spatial creation" on the approved
+  application, the Tech Week calendar, and Partiful. One day makes the name inaccurate.
+- The overnight is load-bearing in the pitch — "hackers stay on-site through the night"
+  is the venue one-pager's framing, and the midnight mentor check-in is in the schedule.
+- It would genuinely help the venue problem. Overnight occupancy is the hardest thing to
+  get and the most expensive, and no LA venue is secured.
+- Shifting hours is cheap with Tech Week. Changing the format of an event they approved
+  and calendared is a larger ask — worth a note to Fil rather than a silent edit.
+
+If it moves, the things to update are: Partiful, the calendar listing, both one-pagers,
+`runbook.md`, and the sponsor pitch, which currently sells a 24-hour sprint.
 
 ## Description
 
