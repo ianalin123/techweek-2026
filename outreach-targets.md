@@ -36,6 +36,16 @@ NEURAL is deliberately absent — see `decisions.md`. These are VOICE, TOUCH, VI
 | **XDOF** | TOUCH | Speaker | Robotics teleoperation, **founded by UC Berkeley PhD researchers**, reportedly a16z-backed at $70M. If it checks out, the Berkeley tie makes this the strongest TOUCH ask. | reported — verify first |
 | **Chloe Duckworth, Valence Vibrations** | VOICE + TOUCH | Speaker | Emotion AI translated into haptic feedback — bridges two tracks. Founded the company out of a hackathon as a USC student. Very public-facing. | reported |
 
+### Infrastructure sponsors (both events)
+
+Horizontal developer tools rather than thematic partners. Pitched on reach, not
+relevance, and asked for both events at once.
+
+| Target | Ask | Why | Confidence |
+|---|---|---|---|
+| **Convex** | Sponsor + credits + mentors | Runs its own hackathon series (TanStack, Modern Stack, Resend), so the sponsorship motion already exists. Real technical fit for MOLTEN: shared spatial builds die on realtime sync around hour 18, which is the problem Convex removes. `wayne@convex.dev` (Community Manager) confirmed. | verified |
+| **MongoDB** | Sponsor + Atlas credits | Generic but reliable hackathon sponsor. No sponsorship form exists and `MongoDB for Startups` does not apply to events, so the route is the education org. `raghu.viswanathan@mongodb.com` (VP of Education) confirmed. | verified |
+
 **TOUCH is the weak track.** Only XDOF and Ultraleap surfaced and both need verification.
 If XDOF does not check out, consider Ultraleap for hardware rather than a speaker.
 
