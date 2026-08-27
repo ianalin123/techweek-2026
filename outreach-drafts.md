@@ -17,7 +17,7 @@ all of them.
 | speaking at a spatial hackathon in la | `nathan@refactorgames.com` | — |
 | speaking at an interfaces hackathon in sf | `chloe@valencevibrations.com` | — |
 | sponsoring two tech week hackathons | `wayne@convex.dev` | — |
-| sponsoring two student hackathons during tech week | `steffan.mejia@mongodb.com`, `shelby.carpenter@mongodb.com` | `emily.mcbride@mongodb.com` |
+| a mongodb track at two tech week hackathons, october | `nina.lopatina@mongodb.com` | `chuck.freedman@mongodb.com` |
 
 Eight are MOLTEN or the grant team. Chloe Duckworth is the only INTERFACE-only draft,
 because every other INTERFACE target is an a16z portfolio company and should go through
@@ -35,10 +35,14 @@ Stanford, USC, UCLA, ArtCenter, and Caltech, every team shipping a demo.
 |---|---|---|---|
 | **Convex** | `wayne@convex.dev` — Wayne Sutton, Community Manager | **valid** 100 | community owns hackathon sponsorship, and Convex runs its own hackathon series so the motion already exists |
 | Convex, escalation | `jamie@convex.dev` (co-founder), `liz@convex.dev` (Marketing) | valid | if Wayne does not answer |
-| **MongoDB** | `steffan.mejia@mongodb.com` and `shelby.carpenter@mongodb.com` — both **Director of Developer Relations** | **valid** 100 | DevRel owns the hackathon spend, not the education org |
-| MongoDB, cc | `emily.mcbride@mongodb.com` — Manager, Strategic Event Operations | **valid** 91 | whoever actually books the event |
-| MongoDB, MOLTEN angle | `andrew.fenby@mongodb.com` — **Head of Media and Gaming** | **valid** 100 | the spatial and gaming fit if DevRel stalls |
+| **MongoDB** | `nina.lopatina@mongodb.com` — **Nina Lopatina, Staff AI Developer Advocate**, SF Bay Area | **valid** 98 | she built the **Build Lab at .local SF**, an agentic build environment for hackathon-style builders. Closest person at the company to what we are running |
+| MongoDB, cc | `chuck.freedman@mongodb.com` — **Senior Director of Developer Relations** | **valid** 95 | the person who can approve spend. Hunter gives this title, not the "Head of Builder Relations" a search result claimed |
+| MongoDB, alternates | `steffan.mejia@mongodb.com`, `shelby.carpenter@mongodb.com` — both Director of Developer Relations | **valid** 100 | if Nina and Chuck go quiet |
+| MongoDB, event ops | `emily.mcbride@mongodb.com` — Manager, Strategic Event Operations | **valid** 91 | whoever actually books the event, once there is a yes |
+| MongoDB, regional | `daniel.coupal@mongodb.com` — Developer Advocate, Santa Clara | **valid** 97 | US West regional contact |
+| MongoDB, MOLTEN angle | `andrew.fenby@mongodb.com` — Head of Media and Gaming | **valid** 100 | the spatial and gaming fit if DevRel stalls |
 | MongoDB, student angle | `raghu.viswanathan@mongodb.com` — VP of Education, `aaron.becker@mongodb.com` — Educational Technologist | **valid** 100 | fallback only, and it is the slower door |
+| MongoDB, **skip** | `nicolas.raboy@mongodb.com` — Nic Raboy, leads DevRel **Content** | valid 98 | still at MongoDB, but content and Developer Center strategy is the wrong function for sponsorship |
 
 **Convex has a specific technical argument.** Much of what people try to build at MOLTEN
 is shared and spatial, meaning two or more people in one world at once. Realtime sync is
@@ -53,16 +57,45 @@ partner is AGI House**. AGI House is Alexa's venue, so this is a warm route, not
 one. The single highest-value move here is asking Alexa for the intro before the email
 goes out.
 
-Two consequences for the ask:
+Consequences for the ask:
 
 - **Route to DevRel, not Education.** They fund these out of developer relations. The
   education org is a slower door for the same money.
-- **Lead with MOLTEN.** MongoDB ran their own SF Tech Week hackathon, so INTERFACE is in
-  the same city in the same week and may compete with something of theirs. MOLTEN is in
-  LA and does not. The draft says this outright rather than pretending not to notice.
+- **Offer a track, not a logo.** What MongoDB buys is Atlas activations. So the ask is
+  structured as a dedicated MongoDB prize track with an Atlas signup required for
+  eligibility, which gives their DevRel team a number to report upward. Sponsorship
+  conversations that ask for money in exchange for a logo go nowhere with DevRel.
+- **The technical hook differs per event.** MOLTEN: teams building 3D worlds need
+  embeddings for object and scene retrieval, which is Vector Search. INTERFACE: those
+  projects need persistent context and UI state across a session, which is the Atlas
+  operational data case. Both are in the draft.
+- **September 8 is leverage, so use it before it expires.** Both events go live on the
+  official Tech Week calendar that day. "Locking track sponsors before the public traffic
+  wave" is a real reason for them to move now, and it stops being true on Sept 8. That
+  gives this email a deadline the others do not have.
+
+**Open question for Iana: what tier are we asking for?** A track sponsor ask is normally
+somewhere around $3K to $5K. I left the number out of the draft deliberately, because the
+a16z grant is already $5K per event and reimbursement-based, and I do not know what you
+and Sissi want the sponsor tiers to be. The draft offers a call and a "full sponsorship
+breakdown" instead. That breakdown does not exist yet.
+
+**A hook I left out on purpose.** Nina Lopatina did a neuroscience PhD and a Berkeley
+postdoc applying machine learning to neural data before moving into DevRel. Given the EEG
+work that is a real point of contact, but I think naming it in a cold email reads as
+having researched her too closely. Better saved for the call, if there is one.
 
 `MongoDB for Startups` is still not the route. It is for companies under seven years old
 at Series A or earlier, so it does not apply to us as an event.
+
+**Two claims from the shared chat I would not act on.** It says MongoDB funnels student
+hackathon support through Major League Hacking and that MLH is the reliable path. Their
+own events contradict that, and joining an MLH season means an application, their
+branding, and their rules, which is a lot to take on for October. The genuinely useful
+piece of that thread is free either way: the **GitHub Student Developer Pack already
+bundles $50 of Atlas credits**, so hackers can have credits regardless of whether MongoDB
+ever replies. Worth putting in the participant guide, and it means the event is not
+blocked on this yes.
 
 **`community@convex.dev` and `hackathons@convex.dev` do not exist** — both came back
 invalid, so do not guess generic inboxes there.
