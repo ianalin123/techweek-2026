@@ -12,7 +12,7 @@ one relationship with two possible answers.
 Those have no email trail and should be verified before anyone relies on them. Entries
 with a date and an address come from sent mail and are solid.
 
-Current as of 2026-08-26.
+Current as of 2026-08-27.
 
 ---
 
@@ -80,11 +80,6 @@ lock a venue before scaling sponsor outreach.
   this is a venue ask and a sponsor ask in one. Alexa says they are actively looking for
   more events to host.
 - **Next step:** ask Alexa for the intro
-
-### Daniel — Call House Ventures
-- **LA:** not contacted — Sissi offered to connect
-- **Notes:** runs events in LA. Company name is from meeting notes and unverified.
-- **Next step:** ask Sissi for the intro
 
 ### Cal Hacks contact
 - **SF:** not contacted
@@ -330,6 +325,43 @@ No outreach email exists for any of them, so treat that phrasing as aspirational
 ### Girls into VC @ Berkeley
 - **SF:** listed as a community partner on the INTERFACE one-pager
 - **Next step:** confirm the arrangement and what they have agreed to do
+
+### Daniel Suh — Gold House Ventures
+- **Contact:** `linkedin.com/in/d1suh`, Instagram `@d1suh`. **No email address yet.**
+- **LA:** interested — Iana messaged 2026-08-27 asking for a call today or tomorrow. He
+  replied: *"Would you mind sharing details over email for now? Happy to catch up early
+  next week."* So the details email is the next artifact, and the call is early week of
+  2026-08-31.
+- **Was filed under Venues as "Daniel — Call House Ventures."** Both wrong. The company is
+  **Gold House Ventures** and venue is not his lane — nothing in his record touches venues,
+  hardware, XR, or spatial.
+- **Intro path is contested.** `people.md` recorded *Sissi offered to connect*. Iana says
+  her boyfriend made the intro. Pin down which before the email names anyone.
+- **Who he is (verified 2026-08-27, open-web):** LinkedIn headline says General Partner at
+  Gold House Ventures; The Org says Partner; ContactOut still says Venture Scout since Feb
+  2023. Gold House's own page (`goldhouse.org/people/daniel-suh`) lists him with no rank.
+  Path was UCSD → Booz Allen → TPG → Kirkland & Ellis → Northwestern JD-MBA. Left the Big
+  Law / PE track, which he talks about publicly on the BRAVE podcast (2026-07-16).
+- **GHV:** pre-seed to Series A, $100K–$1M, does not usually lead, ~$21M across two funds,
+  API founders, 100% of fund profits go back to the Gold House nonprofit. Portfolio
+  includes Genmo (generative video) and Corgi. His own framing is *"the cultural capital
+  fund backing founders at the intersection of AI and creativity."*
+- **He is a real events operator:** 27 events hosted and 89 attended on Luma since May
+  2023. But **no verified LA-hosted event** — the ones that could be confirmed are SF
+  (Women in AI x GHV at the Asian Art Museum) and a student fireside with Triton Ventures
+  at UCSD, co-hosted with the campus org he founded. Treat "runs events in LA" as the
+  original meeting-note claim, still unconfirmed.
+- **Gold House has no hackathon track record at all.** Nothing found on Devpost or their
+  own site. Their early-career surface is accelerator and fellowship shaped. MOLTEN is a
+  new format to them, so pitch it as one.
+- **Location unresolved:** San Diego (UCSD roots, ContactOut), SF (RocketReach), Walnut CA
+  (The Org). Gold House is LA-HQ'd but no source places him in LA personally. Ask.
+- **Watch for a conflict:** the GHV Accelerator runs a Fall demo day that could land near
+  Tech Week. Either a scheduling clash or a co-marketing hook.
+- **The realistic ask:** community distribution to API founders and students, a judge or
+  speaker slot, and warm intros (LA venue, AI-creative sponsor, other LA hosts). **Not**
+  venue and not hardware.
+- **Next step:** send the details email. Get his address from whoever made the intro.
 
 ### Gen Gems / Machine Cinema
 - **Contact:** their partnerships co-founder handles this. Emails were to be texted to
