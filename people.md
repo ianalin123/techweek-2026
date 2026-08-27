@@ -42,7 +42,7 @@ lock a venue before scaling sponsor outreach.
 - **LA:** not contacted
 - **Notes:** top SF venue candidate as of the 2026-08-12 planning call. Sissi owns the
   relationship.
-- **Next step:** Sissi to chase — the reply window has passed
+- **Next step:** Iana is chasing — the reply window has passed
 
 ### Iconic VC
 - **SF:** contacted *(meeting notes)* — Sissi reached the executive director of the
@@ -179,10 +179,13 @@ lock a venue before scaling sponsor outreach.
 ### Apple — Vision Pro units
 - **SF / LA:** not contacted directly
 - **We want:** Apple Vision Pro sets at cost, for the MOLTEN grand prize
-- **Status:** an unnamed contact of Sissi's was negotiating bulk pricing with Apple as
-  of 2026-08-12. **No confirmation exists.** The sponsor one-pager already claims the
-  Vision Pro grand prize is locked — see the README open questions.
-- **Next step:** get a yes or no from that contact before the one-pager goes out again
+- **Status:** Iana is confident this will land and is sourcing the units through a
+  personal contact — name is either **Shreyas or Max**, to be pinned down. Still no
+  written confirmation as of 2026-08-26.
+- **Why it stays flagged:** "Prizes: Apple Vision Pro (secured)" is in the approved
+  Tech Week application, so this was stated to a16z, not just to sponsors. It is the
+  single most attractive line in the MOLTEN pitch.
+- **Next step:** confirm which contact, then get a yes in writing
 
 ### Roboflow
 - **SF / LA:** not contacted
@@ -209,21 +212,23 @@ Target is roughly 15: about 5 industry, 5–7 VCs, the rest researchers. Five or
 people had already expressed inbound interest as of 2026-08-24. None have been sent
 anything yet.
 
-### David Bloom
-- **SF:** interested *(meeting notes)* — reached out to us
-- **Next step:** Sissi to send the one-pager
+### David Bloom — The House Fund
+- **Contact:** at The House Fund (Berkeley-affiliated VC). Address not confirmed —
+  Iana has it.
+- **SF:** interested — reached out to us
+- **Next step:** get the address into this file, then send the one-pager
 
 ### Una
 - **SF:** interested *(meeting notes)* — reached out to us
-- **Next step:** send the one-pager
+- **Next step:** Iana is supplying the contact details
 
 ### Ian
 - **SF:** interested *(meeting notes)* — reached out to us
-- **Next step:** send the one-pager
+- **Next step:** Iana is supplying the contact details
 
 ### DeepChecks contact
 - **SF:** interested *(meeting notes)* — reached out to us. No name recorded.
-- **Next step:** get the name from Sissi
+- **Next step:** Iana is supplying the contact details
 
 ---
 
@@ -319,7 +324,7 @@ No outreach email exists for any of them, so treat that phrasing as aspirational
   4–5 hours. They are exploring EEG headsets for future events and are working with
   Michelle Phan and CapCut on a creator series. Intro came through SF Film Club. Their
   jewelry jam was the reference for the MOLTEN format.
-- **Next step:** send event details to their email — we do not have the address yet
+- **Next step:** Iana is supplying the email, then send event details
 
 ### William Yu — The AGI Company
 - **Contact:** william.yu@theagi.company
@@ -329,7 +334,7 @@ No outreach email exists for any of them, so treat that phrasing as aspirational
 - **What was discussed:** AGI is running "Edge Cases" at SF Tech Week and a high-end
   dinner and after-party at Samsung for LA Tech Week. He proposed Iana plug into AGI's
   events short-term to learn event ops and trade networks. He offered vendor intros.
-- **Next step:** the agreed follow-up meeting — confirm whether it happened
+- **Next step:** he has not followed up. Iana is chasing.
 
 ### Living Internet build day
 - **Date:** 2026-09-19

@@ -22,6 +22,7 @@ Both are 24-hour hackathons with the same shape: Saturday 9am check-in through S
 | Submitted by | Sissi (sissiwang618@gmail.com) | Iana |
 | Grant | **Up to $5K, approved 2026-08-12** | Up to $5K, approved 2026-08-20 |
 | Calendar status | Submitted 2026-08-26, in review | Approved for #LATechWeek 2026-08-21 |
+| Partiful | [live](https://partiful.com/e/AkfcAYRQeMprRyPklVKe) | [live](https://partiful.com/e/AgP5K9z8FR9TTWVMJIVC) |
 | Venue | Not secured | Not secured |
 
 **The two grants are separate and stack to $10K.** INTERFACE's approval went to Sissi's
@@ -53,8 +54,9 @@ From Fil's two approval emails. Identical terms on both events.
 - **Reimbursement, not upfront cash.** Pay for the event yourself, submit receipts to
   the Tech Week finance team. Up to $5K each.
 - **Partiful only**, created via `partiful.com/create?techweek=true`. Events may not be
-  listed on other platforms. **Reply to Fil once the Partiful page is created and the
-  event submitted** — he asked for this on both events and is still waiting.
+  listed on other platforms. Both pages are live. Fil asked for a reply once the page
+  existed and the event was submitted — **that reply has not been sent**, and it is the
+  natural place to ask the grant team for a portfolio company speaker.
 - **Calendar launches Sept 8.** Post about the event on LinkedIn and X that day.
   Instagram, Snap, and newsletters encouraged. Handles: X `@techweek_`, LinkedIn
   "Tech Week by a16z", Instagram `@techweeka16z`.
@@ -71,12 +73,14 @@ Tracked here until there is enough volume to justify a separate `commitments.md`
 Promised to Tech Week and a16z **in the approved applications** — these are the binding
 ones:
 
-- **Apple Vision Pro as the MOLTEN grand prize, stated as "secured."** It is not. See
-  open questions.
+- **Apple Vision Pro as the MOLTEN grand prize, stated as "secured."** Being sourced
+  through a personal contact and expected to land, but not yet confirmed in writing.
 - A MOLTEN hardware bench "in confirmation" from USC ICT, Snap, and Meta. None contacted.
 - A pre-event onboarding kit for MOLTEN. Does not exist.
 - Three parallel onboarding workshops at each event. No leads, no materials.
 - ~15 EEG headsets and ~10 haptic kits for the INTERFACE hardware tracks. We own none.
+  The plan is to buy them or find another route **after** sponsors land, so the two
+  hardware tracks are downstream of sponsor outcomes.
 
 Promised in the MOLTEN sponsor one-pager:
 
@@ -117,12 +121,16 @@ Files not yet created because they have no content: `budget.md` and per-event
 
 ## Open questions
 
-- **The Vision Pro grand prize is not secured.** Both the sponsor one-pager and the
-  approved MOLTEN application call it secured. Meeting notes from 2026-08-12 say a
-  contact of Sissi's was still negotiating at-cost bulk pricing with Apple, and no
-  confirmation exists. This one was claimed to a16z, not just to sponsors.
-- **Does a Partiful page exist for either event?** Fil asked both of us to reply once
-  it was up. Nothing in the mail suggests we did. Sept 8 is the hard date.
+- **Three different sets of hours are published for MOLTEN, and two for INTERFACE.**
+  The approved schedules both run Sat 9:00 AM to Sun 3:30 PM. The MOLTEN Partiful says
+  Sat 9:30 AM to Sun 2:30 PM and the venue one-pager asks Sat 12 PM to Sun 12 PM. The
+  INTERFACE Partiful says Sat 11:00 AM to Sun 5:00 PM — two hours after check-in opens.
+  Attendees read Partiful and venues read the one-pager, so both errors bite.
+- **The Vision Pro grand prize is not confirmed in writing.** Being sourced through a
+  personal contact and expected to land. Worth closing because "Prizes: Apple Vision Pro
+  (secured)" is in the approved application — claimed to a16z, not just to sponsors.
+- **The reply to Fil has not been sent** on either event, even though both Partiful
+  pages are live. Ask for a portfolio company speaker in the same message.
 - **INTERFACE was submitted 5 days after the stated deadline.** Fil's emails set
   Friday 2026-08-21 for Partiful and submission. MOLTEN made it. INTERFACE went in on
   2026-08-26 and is still in review — Tracy said 2–3 business days, up to a week around

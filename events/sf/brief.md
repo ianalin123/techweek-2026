@@ -12,7 +12,14 @@ why the approval landed in her inbox rather than Iana's.
 - **City:** San Francisco
 - **Dates:** Saturday 2026-10-10 to Sunday 2026-10-11
 - **Grant:** approved 2026-08-12 for up to $5K reimbursement
+- **Partiful:** https://partiful.com/e/AkfcAYRQeMprRyPklVKe — live, titled
+  "INTERFACE: Hack the Space Between - #SFTechWeek"
 - **Application form:** the shared Tech Week host form, `16PeSo-fGOG2R51YaeWtBy5Q29wIUWzpDAeIU1RKvMBU`
+
+> **The Partiful hours do not match this schedule.** Partiful says Saturday 11:00 AM to
+> Sunday 5:00 PM. The approved schedule runs Saturday 9:00 AM check-in to Sunday 3:30 PM
+> close. Attendees only ever see Partiful, so a hacker reading it would show up two hours
+> after check-in opens. Pick one and make the other match.
 
 ## Description
 

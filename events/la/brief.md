@@ -11,6 +11,13 @@ event. Treat it as the source of truth and change the one-pagers to match.
 - **Dates:** Saturday 2026-10-17 to Sunday 2026-10-18
 - **Grant:** approved 2026-08-20 for up to $5K reimbursement
 - **Calendar:** approved 2026-08-21
+- **Partiful:** https://partiful.com/e/AgP5K9z8FR9TTWVMJIVC — live, titled
+  "MOLTEN - hack spatial creation #LATechWeek"
+
+> **There are now three different sets of hours for this event.** The approved schedule
+> runs Saturday 9:00 AM to Sunday 3:30 PM. Partiful says Saturday 9:30 AM to Sunday
+> 2:30 PM. The venue one-pager asks for Saturday 12 PM to Sunday 12 PM. Attendees see
+> Partiful and venues see the one-pager, so both are wrong in ways that matter.
 
 ## Description
 
