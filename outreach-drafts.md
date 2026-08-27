@@ -1,66 +1,94 @@
 # Outreach drafts
 
-Written 2026-08-26. **Nothing here has been sent.**
+Written 2026-08-26, addresses resolved 2026-08-27. **Nothing here has been sent.**
 
-Four of these are sitting in your Gmail drafts, ready to review and send. The rest are
-text only because there is no address to send them to.
+Nine emails are sitting in your Gmail drafts, ready to review and send. Sissi is cc'd on
+all of them.
 
-| Gmail draft | To | cc |
+| Gmail draft | To | Also cc'd |
 |---|---|---|
-| Re: Your Tech Week 2026 event grant is approved! | `fil@tech-week.com` | `mchin@a16z.com`, Sissi — threaded onto the real approval email |
-| vision pro loaners for a spatial hackathon in la | `MxRLab@ict.usc.edu` | Sissi |
-| volumetric assets for a spatial hackathon in la | `team@metastage.com` | Sissi |
-| dma students at a spatial hackathon in la | `dmainfo@arts.ucla.edu` | Sissi |
+| Re: Your Tech Week 2026 event grant is approved! | `fil@tech-week.com` | `mchin@a16z.com` — threaded onto the real approval email |
+| vision pro loaners for a spatial hackathon in la | `dnelson@ict.usc.edu`, `cobbins@ict.usc.edu` | `MxRLab@ict.usc.edu` |
+| volumetric assets for a spatial hackathon in la | `team@metastage.com` | — |
+| dma students at a spatial hackathon in la | `eddostern@arts.ucla.edu` | `dmainfo@arts.ucla.edu` |
+| our worldbuild track, and whether you would speak | `alex@worldbuilding.institute` | — |
+| immersion lab + a spatial hackathon in la | `jenny.rodenhouse@artcenter.edu` | — |
+| caltech students at a spatial hackathon in la | `slombeyda@caltech.edu` | `gdjorgovski@caltech.edu` |
+| speaking at a spatial hackathon in la | `nathan@refactorgames.com` | — |
+| speaking at an interfaces hackathon in sf | `chloe@valencevibrations.com` | — |
+
+Eight are MOLTEN or the grant team. The Chloe Duckworth one is the only INTERFACE draft,
+because every other INTERFACE target is an a16z portfolio company and should go through
+Fil first rather than cold.
 
 Who to ask and why is in `outreach-targets.md`. This file is the actual wording, plus
 what we know about how to reach each one.
 
-## Address status
+## Addresses
 
-Three states, and they decide whether a draft can become a Gmail draft.
+Resolved with Hunter on 2026-08-27 (Sissi's account, `credentials/enrich_keys.env`).
+Raw output is in `~/Desktop/projects/techweek-research/hunter_contacts.json`.
 
-- `verified` — the address is published on the org's own site and I read it there.
-  Safe to send.
-- `inferred` — it matches a pattern or came from a search snippet, and I could not find
-  it on a primary page. **Do not send.** Confirm first, or use the general address.
-- `none` — no public address. The route is a web form, a DM, or a warm intro.
+Two states worth keeping apart:
 
-| Target | Address | Status | Where it came from |
+- `valid` — Hunter confirmed the mailbox exists. Send freely.
+- `accept_all` — the domain accepts all mail, so the mailbox cannot be proven either
+  way. Normal for universities. Plausible, not confirmed. Fine to send, just do not be
+  surprised by a bounce.
+
+### People
+
+| Target | Address | Check | Score |
 |---|---|---|---|
-| USC ICT Mixed Reality Lab | `MxRLab@ict.usc.edu` | **verified** | `mxr.ict.usc.edu/contact/`, obfuscated in the page source and decoded |
-| Metastage | `team@metastage.com` | **verified** | Metastage site |
-| UCLA Design Media Arts | `dmainfo@arts.ucla.edu` | **verified** | `dma.ucla.edu` faculty page |
-| ArtCenter, Jenny Rodenhouse | `jenny.rodenhouse@artcenter.edu` | inferred | search snippet only, ZoomInfo masks it, ArtCenter faculty page 404s |
-| USC ICT, David Nelson | `nelson@ict.usc.edu` | inferred | ICT uses `Last@ict.usc.edu` most of the time, not confirmed for him |
-| USC ICT, David Cobbins | `cobbins@ict.usc.edu` | inferred | same pattern, same caveat |
-| Alex McDowell, USC WbML | — | none | `worldbuilding.usc.edu` refused connection |
-| Caltech CD3 (Lombeyda, Djorgovski) | — | none | Caltech directory lists office and title, no email |
-| LA ACM SIGGRAPH | — | none | officers named, no addresses, sign-up form only |
-| Snap AR | — | none | no public loaner route found |
-| Every company target | — | none | contact forms and DevRel, see the company section |
+| **Alex McDowell**, World Building | `alex@worldbuilding.institute` | **valid** | 83 |
+| **Eddo Stern**, UCLA DMA Chair | `eddostern@arts.ucla.edu` | **valid** | 99 |
+| **Tracy Fullerton**, USC Game Innovation Lab | `tfullerton@cinema.usc.edu` | **valid** | 98 |
+| **Nathan Burba**, Refactor Games | `nathan@refactorgames.com` | **valid** | 85 |
+| **Chloe Duckworth**, Valence Vibrations | `chloe@valencevibrations.com` | **valid** | 82 |
+| **David Cobbins**, USC ICT MxR | `cobbins@ict.usc.edu` | accept_all | 83 |
+| **David Nelson**, USC ICT MxR | `dnelson@ict.usc.edu` | accept_all | 82 |
+| **Santiago Lombeyda**, Caltech CD3 | `slombeyda@caltech.edu` | accept_all | 85 |
+| **George Djorgovski**, Caltech CD3 | `gdjorgovski@caltech.edu` | accept_all | 81 |
+| **Jenny Rodenhouse**, ArtCenter | `jenny.rodenhouse@artcenter.edu` | accept_all | 81 |
+| USC ICT MxR lab inbox | `MxRLab@ict.usc.edu` | accept_all | 74 |
+| Metastage general | `team@metastage.com` | **valid** | 100 |
+| UCLA DMA department | `dmainfo@arts.ucla.edu` | **valid** | 100 |
 
-**Use the lab address, not the personal one.** For USC ICT the verified `MxRLab@` inbox
-goes to the same small team (10 people, David Nelson and David Cobbins both on it), so
-there is no reason to gamble on a guessed personal address. Same logic for UCLA.
+**My hand-inferred guess was wrong.** I had written `nelson@ict.usc.edu`; the real one is
+`dnelson@`. That is the whole argument for not sending inferred addresses.
 
-## What I could not do
+Still unresolved: **Christina Heller** (Metastage has only `team@` and `support@`, so use
+`team@`), **Steve Anderson** (nothing at any UCLA domain), and **LA ACM SIGGRAPH** (no
+mail server we can query, so the sign-up form or Larry Rosenthal remain the route).
 
-You said we could use the Hunter API since we used it for Field Lab reach-outs. **There
-is no Hunter key anywhere on this machine.** I checked the Field Lab pipeline, and its
-CRM rows have emails literally written as "TBD (Hunter/Apollo)", so Hunter was a manual
-lookup you did in the browser, never something we integrated.
+### Companies
 
-The two APIs that do exist are both unavailable:
+Pick the person, not the generic inbox. a16z portfolio companies should still go through
+Fil first, so these are the fallback if the grant route stalls.
 
-- **Exa** returned `HTTP 402 Payment Required` on all 36 calls. Out of credits.
-- **MillionVerifier** is what the Field Lab verifier actually uses, and there is no key
-  set, so it returns `unverified` for everything.
+| Company | Best contact | Why that person |
+|---|---|---|
+| **ElevenLabs** | `yanek@elevenlabs.io` (GTM Director), `matt@` (Dir. GTM) | hackathon sponsorship sits with GTM, not eng |
+| **Deepgram** | `yannick.daly@deepgram.com` (**Partner Manager**) | literally the credits-and-partnerships role |
+| **Vercel** | `christian.elton@vercel.com` (**Director of Startups**) | the startup-programs door, exactly our ask |
+| **World Labs** | `mala@worldlabs.ai` (COO), `ben@` / `jjohnson@` (co-founders) | small team, no DevRel layer yet |
+| **Luma AI** | `adriantovalin@lumalabs.ai` (Dir. Strategy & Ops), `amit@` (CEO) | ops owns event partnerships |
+| **Cartesia** | `karan@cartesia.ai` (CEO), `brandon@` (co-founder) | they ran their own hackathon, so founders are close to it |
+| **Roboflow** | `nick@roboflow.com` (Head of Field Engineering) | field engineering is who they send to mentor |
+| **Hume AI** | `jeremy@hume.ai` (Head of Product), `alan@` (CEO) | — |
+| **Meshy** | `ethan@meshy.ai` (CEO) | — |
+| **Inworld** | `kylan@inworld.ai` (CEO), `michael@` (CTO) | — |
+| **Uthana** | `henry@uthana.com` (Head of Operations) | tiny team, ops is the door |
+| **Arcturus** | `steve.sullivan@arcturus.studio` (CEO) | VP BizDev scored only 42, so go to the CEO |
+| **Cursor / Anysphere** | `adam@cursor.com` (Cofounder), `michaelt@anysphere.co` (CEO) | no partnerships role exists publicly |
+| **Ultraleap** | `tom.carter@ultraleap.com` (CEO), `brett.sollers@` (Dir. Sales) | the TOUCH hardware fallback |
+| **Polycam** | `contact@polycam.ai` | no individuals published |
+| **Sesame AI** | `press@sesame.com` / `info@sesame.com` | **no individuals at all**, so the grant team route matters most here |
+| **Snap** | `nshah@snap.com` (Dir. Research), `russ@` (VP Comms) | still no DevRel or loaner contact, see below |
 
-So this ran on plain web lookups. That works fine for universities, since they publish
-addresses. It does not work for companies, which is why the whole company section below
-is forms and DMs rather than addresses. **Topping up Exa (or giving me a Hunter key)
-would unblock the company half of this list**, and that is the half with the sponsor
-money in it.
+**XDOF returned nothing at `xdof.ai`** — no mail server, no pattern, no addresses. That
+is a third strike against it (unconfirmed a16z claim, uncorroborated by two reports, and
+now no findable domain). Treat it as not real until proven otherwise.
 
 ## Corrections to the target list
 
@@ -216,15 +244,15 @@ distribution argument is real. Lead with the cheap ask.
 
 ---
 
-# Blocked on an address
+# Now unblocked (Hunter resolved the addresses)
 
 Drafts are ready. Each needs a route before it can go out.
 
 ## 5. ArtCenter Immersion Lab, Jenny Rodenhouse
 
-**Route:** `jenny.rodenhouse@artcenter.edu` is **inferred, do not send yet.** Her site is
-`jennyrodenhouse.com` and she is active publicly, so LinkedIn or her own site contact
-form is the safer first touch. ArtCenter's main line can also route you.
+**To:** `jenny.rodenhouse@artcenter.edu` — Hunter found the same address independently,
+`accept_all` at score 81. In Gmail drafts.
+**cc:** sissiwang@berkeley.edu
 
 **Subject:** immersion lab + a spatial hackathon in la, october 17 to 18
 
@@ -255,10 +283,9 @@ form is the safer first touch. ArtCenter's main line can also route you.
 
 ## 6. Caltech CD3
 
-**Route:** no published emails. Santiago Lombeyda is Senior Computational Scientist at
-CDDD, office 209 Powell-Booth. George Djorgovski directs it. Caltech's directory has
-office and phone but no address. Try the CD3 site contact form, or approach them jointly
-with Jenny Rodenhouse since they already collaborate.
+**To:** `slombeyda@caltech.edu`, cc `gdjorgovski@caltech.edu` — both `accept_all`.
+In Gmail drafts. They already collaborate with Jenny Rodenhouse, so if she replies first
+it is worth mentioning her by name here.
 
 **Subject:** caltech students at a spatial hackathon in la
 
@@ -281,9 +308,13 @@ with Jenny Rodenhouse since they already collaborate.
 
 ## 7. USC World Building Media Lab, Alex McDowell
 
-**Route:** `worldbuilding.usc.edu` refused connection when I tried it. Try
-`worldbuilding.institute`, or route through USC ICT once that thread is open, since both
-are USC and MxR will know him.
+**To:** `alex@worldbuilding.institute` — **valid**, confirmed mailbox, listed as Director.
+In Gmail drafts. This is the World Building Institute rather than the USC address, which
+is if anything the better door since it is his own organisation.
+**cc:** sissiwang@berkeley.edu
+
+**Also now reachable:** `tfullerton@cinema.usc.edu` (**valid**, score 98) for Tracy
+Fullerton at the USC Game Innovation Lab, who was on the target list but had no route.
 
 **Subject:** our worldbuild track, and whether you would speak
 
@@ -331,12 +362,13 @@ active and may be the easier first contact.
 
 ## 9. Snap AR
 
-**Route:** unresolved. There is no public Spectacles loaner request for organizers that I
-could find. What exists is the Spectacles Community Challenge and a $99/month developer
-program. Snap did provide loaners to MIT Reality Hack and to Reality Hack at AWE, so the
-route exists privately. Best angles: the developer relations team via
-`developers.snap.com`, or the USC Iovine and Young students who won ImmerseGT on
-Spectacles, since Snap already knows that group.
+**Route: still the weakest one.** Hunter surfaces `nshah@snap.com` (Director of Research)
+and `russ@snap.com` (VP Communications) but no developer relations or partnerships role,
+and there is no public Spectacles loaner request for organizers. Snap did loan to MIT
+Reality Hack and to Reality Hack at AWE, so the route exists privately. Best angles are
+still the USC Iovine and Young students who won ImmerseGT on Spectacles, since Snap
+already knows that group, or asking USC ICT for the introduction once that thread is
+warm. **Do not cold-email the Director of Research about hardware loans.**
 
 **Subject:** spectacles loaners for a spatial hackathon in la, october 17 to 18
 
@@ -479,7 +511,10 @@ DevRel, or DMs.
 2. **Send the USC ICT email.** Verified address, we already named them in the
    application, and they are the only real answer to the hardware bench.
 3. **Send Metastage and UCLA.** Both verified, both cheap asks.
-4. **Top up Exa or find a Hunter key.** Nine company targets are sitting here with
-   finished drafts and no address, and that is where the sponsor money is.
-5. **Verify XDOF** before anyone emails them, and do not email SLNG.ai at all until
-   someone can corroborate it exists as described.
+4. **Once Fil replies**, fire the company asks at the named people in the table above
+   rather than at generic inboxes. Deepgram's Partner Manager and Vercel's Director of
+   Startups are the two clearest doors on the list.
+5. **Drop XDOF** unless someone can produce a primary source. No a16z confirmation, no
+   corroboration across reports, and no findable mail domain. Same for SLNG.ai.
+6. **Snap still has no route.** It is the only remaining hardware ask with nobody to
+   email, so it probably has to come as an introduction from USC ICT.
