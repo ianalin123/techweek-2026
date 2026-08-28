@@ -17,7 +17,7 @@ all of them.
 | speaking at a spatial hackathon in la | `nathan@refactorgames.com` | — |
 | speaking at an interfaces hackathon in sf | `chloe@valencevibrations.com` | — |
 | sponsoring two tech week hackathons | `wayne@convex.dev` | — |
-| a mongodb track at two tech week hackathons, october | `nina.lopatina@mongodb.com` | `chuck.freedman@mongodb.com` |
+| the shack15 slot again, without you having to run it | `nina.lopatina@mongodb.com` | `chuck.freedman@mongodb.com` |
 
 Eight are MOLTEN or the grant team. Chloe Duckworth is the only INTERFACE-only draft,
 because every other INTERFACE target is an a16z portfolio company and should go through
@@ -57,22 +57,78 @@ partner is AGI House**. AGI House is Alexa's venue, so this is a warm route, not
 one. The single highest-value move here is asking Alexa for the intro before the email
 goes out.
 
-Consequences for the ask:
+### What MongoDB is actually trying to do right now
 
-- **Route to DevRel, not Education.** They fund these out of developer relations. The
-  education org is a slower door for the same money.
-- **Offer a track, not a logo.** What MongoDB buys is Atlas activations. So the ask is
-  structured as a dedicated MongoDB prize track with an Atlas signup required for
-  eligibility, which gives their DevRel team a number to report upward. Sponsorship
-  conversations that ask for money in exchange for a logo go nowhere with DevRel.
-- **The technical hook differs per event.** MOLTEN: teams building 3D worlds need
-  embeddings for object and scene retrieval, which is Vector Search. INTERFACE: those
-  projects need persistent context and UI state across a session, which is the Atlas
-  operational data case. Both are in the draft.
-- **September 8 is leverage, so use it before it expires.** Both events go live on the
-  official Tech Week calendar that day. "Locking track sponsors before the public traffic
-  wave" is a real reason for them to move now, and it stops being true on Sept 8. That
-  gives this email a deadline the others do not have.
+This is the part that makes the ask fundable. Researched 2026-08-27.
+
+**Their whole company is pointed at being the memory layer for AI agents.** They bought
+Voyage AI (embedding and reranking models) for **$220M in Feb 2025**, and it is not a side
+bet, it is the center of the messaging. Their own line is that Atlas is "the memory and
+context layer that agents are built on." The argument is that agent memory is nested,
+mutable JSON that you need to store, retrieve, update, and delete, and a document model
+with native vector search does that in one system instead of stitching Pinecone plus Redis
+plus Postgres together.
+
+**Automated Embeddings went GA on August 13, 2026, two weeks ago.** Atlas now generates and
+indexes embeddings on write. No embedding pipeline, no sync job. This is the single
+freshest thing they have and they need proof it gets adopted.
+
+**The pressure they are under.** CJ Desai replaced Dev Ittycheria as CEO on Nov 10, 2025,
+so do not name-drop Ittycheria. On the Q4 call Desai said plainly that AI contributions to
+revenue are still "nascent" and that enterprise agentic workloads are experimental rather
+than revenue-generating. Analysts pushed on it. Their AI-native and startup go-to-market
+was described as "a work in progress." That gap is the one a student hackathon fills.
+
+**Where they are losing, which is the real lever.** Postgres with pgvector is eating the
+"just use one database" argument, which used to be MongoDB's own argument. Postgres is well
+ahead of MongoDB on DB-Engines and posted the largest year-over-year adoption jump in
+Stack Overflow survey history while MongoDB went slightly negative. **Students are exactly
+the cohort defaulting to Postgres**, because that is what gets taught. So a room of 200
+students where the default agent-memory substrate is Atlas plus Voyage attacks precisely
+where they are losing. That is worth real money to them in a way that a logo is not.
+
+**The metric that matters.** Leadership quotes multi-feature attach on earnings calls:
+45% of $100K+ ARR customers now use two or more platform features, up from 37%, driven by
+vector and text search adoption. The recurring north-star phrase is "new workload
+acquisition." So the deliverable is **new clusters running a second feature**, not free
+tier signups. A track that requires Vector Search plus automated embeddings produces
+exactly that artifact. Put this number in the deck, not the cold email.
+
+**They already have the credit currency.** MongoDB for Startups hands out Atlas credits
+*and* Voyage tokens, so nothing new has to be invented to give hackers something.
+
+### Consequences for the ask
+
+- **Lead with INTERFACE, not MOLTEN. I had this backwards.** MongoDB ran the Agentic
+  Memory and Context Engineering hackathon at **Shack15 in SF on Oct 11 2025, explicitly
+  for SF Tech Week**, via Cerebral Valley. INTERFACE is Oct 10 to 11 2026, the same slot
+  one year later. I previously said INTERFACE would collide with something of theirs and
+  we should lead with MOLTEN. That was wrong. They chose that slot deliberately and the
+  precedent is the strongest card we have. The offer is their own slot back without them
+  having to run the event.
+- **Confirm they are not already running their own 2026 version.** They did a NYC
+  hackathon on Sept 26 2026 and The Persistent Context Sprint at Build Fest, so the
+  cadence is live. This is a question to ask on the call, not an assumption either way.
+- **Route to DevRel, not Education.** They fund these out of developer relations.
+- **Offer a track, not a logo.** Qualifying should require **Atlas Vector Search plus
+  automated Voyage embeddings**. That is the artifact their DevRel person reports upward.
+- **September 8 is leverage and it expires.** Both events go live on the official Tech
+  Week calendar that day. Locking track sponsors before the traffic wave is a real reason
+  for them to move now.
+- **Their Q2 FY2027 earnings land Sept 1 2026.** Any figure quoted in a deck should be
+  re-checked after that date.
+
+### Do not pitch these, they are dead
+
+**Atlas Device Sync, Atlas Device SDKs, App Services, Functions, Data API, and GraphQL all
+hit end of life on Sept 30 2025.** Database Triggers survive, the rest is gone. The shared
+chat recommended pitching "Atlas Device Sync and Triggers for syncing heavy assets in
+spatial computing," and half of that names a product MongoDB shut down. Data Federation and
+Online Archive still exist but get no marketing air and are effectively maintenance mode.
+
+**This makes Convex and MongoDB complementary rather than competing asks.** MongoDB
+deliberately exited realtime device sync. So the hour-18 realtime sync problem is Convex,
+and persistence, retrieval, and agent memory is MongoDB. Both events can take both.
 
 **Open question for Iana: what tier are we asking for?** A track sponsor ask is normally
 somewhere around $3K to $5K. I left the number out of the draft deliberately, because the
