@@ -772,6 +772,33 @@ name is the ask. Without it, deprioritize.
 | **Womp** | `gtrueba@womp.com` — Gabriela Trueba, CEO | **valid** 83 | About three people. Likely all they can give is license codes |
 | **Foundry** | `education@foundry.com` | **valid** 100 | Education page and nothing else. Low priority |
 
+## Drafted 2026-08-27, all in Gmail, none sent
+
+| Subject | To | Cc | The ask |
+|---|---|---|---|
+| a spline track at a spatial hackathon in la, october | `alejandro@spline.design` | — | prize for best Spline build + Pro codes |
+| houdini indie licenses for a student hackathon in la, october | `education@sidefx.com` | `rmagee@sidefx.com` | Indie licenses for 120 hackers + a mentor. **Explicitly says we are not asking for money** |
+| borrowing smartsuits for a spatial hackathon in la, october | `sam@rokoko.com` | `jakob@rokoko.com` | 2 to 4 Smartsuits on loan for the weekend |
+| judging a spatial hackathon in la, october 17 to 18 | `asim@nianticspatial.com` | — | judge on the Sunday + NSDK access for NAVIGATE |
+
+Three of these four are **in-kind**, which is why they could be written before we have a
+tier sheet. Only Spline involves prize money, and that draft does not name a number either.
+Each one leads with a specific thing that company actually did: Spline's Contra hackathon,
+SideFX's Global Game Jam licenses, Rokoko's Education Giveaway and LA staff, and Asim
+judging Worlds in Action in March. None of them opens with our own event.
+
+**Epic has no address.** The LA chapter organizers work at Fermata and CG Pro, and Hunter
+cannot resolve either domain, so there is nothing to write to. Two routes instead: go
+through USC to find Cameron Kostopoulos, who is USC-affiliated, or attend the LA chapter's
+next in-person meetup, which is how that group actually operates. `kevin.miller@epicgames.com`
+verifies but he is listed as an instructor, so he is a fallback rather than the door.
+This is the same problem Snap has.
+
+**Still needed before any cash ask goes out:** sponsor tiers and dollar amounts. MOD Tech
+Labs (`alex@modtechlabs.com`) and Volinga (`frivas@volinga.ai`) both verify and both put
+prize money into Unreal Jam LA last week, so they are the obvious first cash asks once
+there is a number to name.
+
 ## People who have left, do not use older lists
 
 - **Paul Ambrosiussen** has left **SideFX**, now at Bismuth Consultancy.
