@@ -17,7 +17,7 @@ all of them.
 | speaking at a spatial hackathon in la | `nathan@refactorgames.com` | — |
 | speaking at an interfaces hackathon in sf | `chloe@valencevibrations.com` | — |
 | sponsoring two tech week hackathons | `wayne@convex.dev` | — |
-| the shack15 slot again, without you having to run it | `nina.lopatina@mongodb.com` | `chuck.freedman@mongodb.com` |
+| sf tech week, the slot you have not claimed yet | `nina.lopatina@mongodb.com` | `chuck.freedman@mongodb.com` |
 
 Eight are MOLTEN or the grant team. Chloe Duckworth is the only INTERFACE-only draft,
 because every other INTERFACE target is an a16z portfolio company and should go through
@@ -36,7 +36,7 @@ Stanford, USC, UCLA, ArtCenter, and Caltech, every team shipping a demo.
 | **Convex** | `wayne@convex.dev` — Wayne Sutton, Community Manager | **valid** 100 | community owns hackathon sponsorship, and Convex runs its own hackathon series so the motion already exists |
 | Convex, escalation | `jamie@convex.dev` (co-founder), `liz@convex.dev` (Marketing) | valid | if Wayne does not answer |
 | **MongoDB** | `nina.lopatina@mongodb.com` — **Nina Lopatina, Staff AI Developer Advocate**, SF Bay Area | **valid** 98 | she built the **Build Lab at .local SF**, an agentic build environment for hackathon-style builders. Closest person at the company to what we are running |
-| MongoDB, cc | `chuck.freedman@mongodb.com` — **Senior Director of Developer Relations** | **valid** 95 | the person who can approve spend. Hunter gives this title, not the "Head of Builder Relations" a search result claimed |
+| MongoDB, cc | `chuck.freedman@mongodb.com` — **Head of Builder Relations** | **valid** 95 | the person who can approve spend. His LinkedIn now reads Head of Builder Relations. Hunter said Senior Director of Developer Relations and I repeated that as a correction, but Hunter's title data is the stale one here. Do not put a title in the email |
 | MongoDB, alternates | `steffan.mejia@mongodb.com`, `shelby.carpenter@mongodb.com` — both Director of Developer Relations | **valid** 100 | if Nina and Chuck go quiet |
 | MongoDB, event ops | `emily.mcbride@mongodb.com` — Manager, Strategic Event Operations | **valid** 91 | whoever actually books the event, once there is a yes |
 | MongoDB, regional | `daniel.coupal@mongodb.com` — Developer Advocate, Santa Clara | **valid** 97 | US West regional contact |
@@ -57,66 +57,103 @@ partner is AGI House**. AGI House is Alexa's venue, so this is a warm route, not
 one. The single highest-value move here is asking Alexa for the intro before the email
 goes out.
 
-### What MongoDB is actually trying to do right now
+### What MongoDB is saying right now
 
-This is the part that makes the ask fundable. Researched 2026-08-27.
+Everything below is from **May 27 to Aug 27 2026**. Anything older is noted as such,
+because pitching a company on their year-old news is how you look like you skimmed a blog
+post once. Researched 2026-08-27, so this decays fast.
 
-**Their whole company is pointed at being the memory layer for AI agents.** They bought
-Voyage AI (embedding and reranking models) for **$220M in Feb 2025**, and it is not a side
-bet, it is the center of the messaging. Their own line is that Atlas is "the memory and
-context layer that agents are built on." The argument is that agent memory is nested,
-mutable JSON that you need to store, retrieve, update, and delete, and a document model
-with native vector search does that in one system instead of stitching Pinecone plus Redis
-plus Postgres together.
+**The framing has moved from "memory and context layer" to "the agent harness."** This is
+the single most important thing to get right. The seed post is *The Agent Harness: Why the
+LLM Is the Smallest Part of Your Agent System* (Apr 30, just outside the window), but they
+are actively building on it: **"Agent Memory Inside the Harness" published Aug 18 2026**,
+and their next hackathon is named after it. Their line is "the model is the easy part."
+The current tagline is that Atlas is "the intelligent data platform built for both the
+humans creating software today and the AI agents building alongside them."
 
-**Automated Embeddings went GA on August 13, 2026, two weeks ago.** Atlas now generates and
-indexes embeddings on write. No embedding pipeline, no sync job. This is the single
-freshest thing they have and they need proof it gets adopted.
+**Aug 13 2026, MongoDB.local Build Fest at Pier 48 in SF, is the anchor event.** Two weeks
+ago. What went GA or shipped that day:
 
-**The pressure they are under.** CJ Desai replaced Dev Ittycheria as CEO on Nov 10, 2025,
-so do not name-drop Ittycheria. On the Q4 call Desai said plainly that AI contributions to
-revenue are still "nascent" and that enterprise agentic workloads are experimental rather
-than revenue-generating. Analysts pushed on it. Their AI-native and startup go-to-market
-was described as "a work in progress." That gap is the one a student hackathon fills.
+- **Automated Embeddings** in Atlas Vector Search. Atlas generates and indexes embeddings
+  on write. No pipeline, no sync job.
+- **Atlas Embedding and Reranking API**, and **vector search inside Atlas Stream
+  Processing**.
+- `voyage-code-4` for agentic code retrieval and `voyage-multimodal-3.5` for video.
+- **Atlas Managed MCP Server**, fully hosted, with native integrations across Claude,
+  Claude Code, ChatGPT, Codex, Cursor, Grok Build and Devin. The self-managed version was
+  already doing 30,000+ npm installs a week.
+- **Atlas App Connections**: OAuth 2.1 and per-user delegation replacing shared service
+  accounts.
+- A **Vercel v0 integration** that provisions Atlas clusters from Vercel.
 
-**Where they are losing, which is the real lever.** Postgres with pgvector is eating the
-"just use one database" argument, which used to be MongoDB's own argument. Postgres is well
-ahead of MongoDB on DB-Engines and posted the largest year-over-year adoption jump in
-Stack Overflow survey history while MongoDB went slightly negative. **Students are exactly
-the cohort defaulting to Postgres**, because that is what gets taught. So a room of 200
-students where the default agent-memory substrate is Atlas plus Voyage attacks precisely
-where they are losing. That is worth real money to them in a way that a logo is not.
+Earlier in the window, **June 30 at MongoDB.local Bengaluru**: Native Reranking in public
+preview, Hybrid Search GA, Search and Vector Search GA for Enterprise Advanced and
+Community.
 
-**The metric that matters.** Leadership quotes multi-feature attach on earnings calls:
-45% of $100K+ ARR customers now use two or more platform features, up from 37%, driven by
-vector and text search adoption. The recurring north-star phrase is "new workload
-acquisition." So the deliverable is **new clusters running a second feature**, not free
-tier signups. A track that requires Vector Search plus automated embeddings produces
-exactly that artifact. Put this number in the deck, not the cold email.
+**The quote that tells you their whole competitive posture**, CTO Jim Scharf on Aug 13:
+"Too many organizations are running AI in production with an operational database, a vector
+store, a search engine, and embedding and reranking models, all from different vendors,
+bolted together instead of built for it." They are selling *one integrated stack* against
+*stitched-together stacks*.
 
-**They already have the credit currency.** MongoDB for Startups hands out Atlas credits
-*and* Voyage tokens, so nothing new has to be invented to give hackers something.
+**CJ Desai, CEO since Nov 2025.** Q1 FY2027 on May 28: revenue $688M, up 25%, Atlas about
+75% of revenue, guidance raised. He splits the AI business into three segments, Frontier
+Labs, AI-natives, and enterprises, and said "MongoDB is starting to become a strategic
+platform decision." Voyage AI's customer base doubled quarter over quarter. At the RAISE
+Summit in Paris on **Aug 19** he said "data is the unsung hero and data is back," and
+called data the downstream winner of the AI cycle.
+
+**Q2 FY2027 reports Tuesday Sept 1 2026 at 5pm ET.** It has not happened yet. Re-check any
+figure in a deck after that.
+
+**Where they are losing.** Postgres with pgvector is taking the "just use one database"
+argument that used to be MongoDB's own, and sell-side notes still list re-emergent
+Postgres competition as the risk. I could not find a credible new benchmark fight inside
+the window, so do not quote adoption statistics at them. The durable point needs no
+statistic: **students default to Postgres because that is what gets taught**, so a room of
+200 students is exactly the cohort MongoDB is losing.
+
+**Their DevRel cadence in the window.** The **Persistent Context Sprint hackathon** ran
+with Cerebral Valley alongside Build Fest on Aug 13. The **Harness Engineering and Model
+Wrangling Hackathon** is Sept 26 in NYC, again with Cerebral Valley. MongoDB.local NYC is
+Sept 30. They announced 69 MongoDB Champions on July 8.
+
+**The opening: SF Tech Week 2026 appears unclaimed.** No public MongoDB announcement for
+Oct 5 to 11 as of Aug 27. They ran an SF Tech Week hackathon in **2025**, so the pattern is
+there but the 2026 slot is open. That gap is the pitch, and it is a live observation rather
+than a year-old reference.
 
 ### Consequences for the ask
 
-- **Lead with INTERFACE, not MOLTEN. I had this backwards.** MongoDB ran the Agentic
-  Memory and Context Engineering hackathon at **Shack15 in SF on Oct 11 2025, explicitly
-  for SF Tech Week**, via Cerebral Valley. INTERFACE is Oct 10 to 11 2026, the same slot
-  one year later. I previously said INTERFACE would collide with something of theirs and
-  we should lead with MOLTEN. That was wrong. They chose that slot deliberately and the
-  precedent is the strongest card we have. The offer is their own slot back without them
-  having to run the event.
-- **Confirm they are not already running their own 2026 version.** They did a NYC
-  hackathon on Sept 26 2026 and The Persistent Context Sprint at Build Fest, so the
-  cadence is live. This is a question to ask on the call, not an assumption either way.
-- **Route to DevRel, not Education.** They fund these out of developer relations.
+- **Lead with INTERFACE.** It sits inside SF Tech Week, which is the unclaimed slot, and
+  agents holding context across a session is a natural fit for a human-machine interface
+  hackathon. MOLTEN is the secondary offer.
+- **Use the harness vocabulary, not "memory layer."** Their own language moved in April
+  and they are still building on it as of Aug 18.
 - **Offer a track, not a logo.** Qualifying should require **Atlas Vector Search plus
-  automated Voyage embeddings**. That is the artifact their DevRel person reports upward.
+  automated Voyage embeddings**, or the **Managed MCP Server plus App Connections** for
+  agent-driven builds. Those are the things they shipped two weeks ago and need adoption
+  proof for.
+- **The deliverable is new clusters running a second feature**, not free tier signups.
+  Leadership tracks multi-feature attach, which was 37% to 45% of $100K+ ARR customers.
+  That number is deck material, not cold email material.
 - **September 8 is leverage and it expires.** Both events go live on the official Tech
-  Week calendar that day. Locking track sponsors before the traffic wave is a real reason
-  for them to move now.
-- **Their Q2 FY2027 earnings land Sept 1 2026.** Any figure quoted in a deck should be
-  re-checked after that date.
+  Week calendar that day.
+- **They already have the credit currency.** MongoDB for Startups hands out Atlas credits
+  and Voyage tokens, so nothing new has to be invented.
+
+### Personalizing to Nina
+
+All inside the window, all public professional output. She ran a MongoDB AMA on
+**r/ContextEngineering around July 7**, published **"Build an Agentic Event Venue Operator
+with MongoDB Atlas, Voyage, and LangGraph"** on MarkTechPost on **July 17** (persistent
+memory plus Langfuse tracing), and spoke at **Ai4 2026** in Las Vegas Aug 4 to 6. The
+tutorial is referenced in the draft because it is genuinely close to what hackathon teams
+build.
+
+Separately she did a neuroscience PhD and a Berkeley postdoc applying machine learning to
+neural data before moving into DevRel. Real overlap with the EEG work, but naming it in a
+cold email reads as having researched her too closely. Save it for the call.
 
 ### Do not pitch these, they are dead
 
