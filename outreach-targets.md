@@ -77,12 +77,31 @@ a16z — they solve venue, mentors, judges, hardware, and student recruitment at
 | **World Labs** | API partner + speaker | The **World API** generates explorable 3D worlds from text, images, or video, with a $5 credit minimum. The most powerful public API for the WORLDBUILD track. a16z-backed. | reported |
 | **Luma AI** | Speaker + API | Gaussian splatting and NeRF capture, heavily used in LA. Ray 2 API plus MCP servers. a16z-backed. Overlaps with INTERFACE — one relationship, two asks. | verified |
 | **Refactor Games** | Speaker | Santa Monica. Nathan Burba is a **USC grad who ran Project Holodeck at the USC MxR Lab** and was Survios' founding CEO. LA, on-theme, and a warm path into MxR. | verified |
-| **Meshy** | Sponsor | Text-to-3D with a free tier and a large recent raise, so they have DevRel budget. Not a16z. | reported |
+| **Meshy** | Sponsor | Text-to-3D with a free tier and a large recent raise. **Confirmed Blender Development Fund Silver sponsor**, so they demonstrably write ecosystem checks. Not a16z. | verified (sponsor tier) |
+| **Spline** | Sponsor + prizes | **Ran their own $5,000 hackathon with Contra in June 2025.** Browser-based 3D, no install, roughly 20 people so one person decides. `alejandro@spline.design` (CEO) verified. Best odds of any 3D tool on this page. | verified |
+| **SideFX (Houdini)** | Licenses + mentor | Gave **free 6-month Houdini Indie licenses to every Global Game Jam 2025 jammer**. Ask for licenses for all 120 hackers, not cash. `education@sidefx.com` verified. | verified |
+| **Rokoko** | Hardware loan | **LA team** plus a funded Education Giveaway that hands hardware to nominated schools. Ask for 2–4 Smartsuits for CAPTURE and INHABIT. | verified |
+| **Epic Games** | Judges + mentors + logo | **Not MegaGrants**, which notifies in December, after the event. Route is the **LA community chapter**, where organizer **Cameron Kostopoulos is USC-affiliated**. Unreal Jam LA on Aug 20–21 2026 is the template: Epic gave people, small vendors gave the prize money. | verified |
+| **Niantic Spatial** | Judge + SDK | 8th Wall is dead as of Feb 2026; this is the surviving entity. `asim@nianticspatial.com` judged an XR hackathon in SF in March 2026. On theme for NAVIGATE. | verified |
+| **Hyper3D.AI (Rodin)** | Sponsor | Blender Development Fund **Gold** sponsor at €30k/yr, so the budget exists. New lead, no contact yet. | reported |
 | **Polycam** | Sponsor | Mobile 3D capture and splatting, strong Vision Pro and iOS integration. **Not a16z** — checked. | verified |
 | **Inworld AI** | API partner | Low-latency realtime API for AI characters. Direct fit for INHABIT. | reported |
 | **Arcturus** | Sponsor | Volumetric video editing, reportedly a16z and Epic backed. | reported |
 | **AvatarOS** | Speaker | LA. Isaac Bratzel built Lil Miquela — the media-arts half of the room knows the work. | verified |
 | **Uthana** | API + sponsor | LA. Foundation models for human motion. Hiring. | verified |
+
+---
+
+**Blender cannot sponsor us.** It is an Amsterdam nonprofit funded *by* 47 corporate
+members paying about $330K a month, its grants go only to named engineers, and it has
+nobody on staff with an events or developer relations title. Their trademark policy does
+let us put the logo on promo material and t-shirts for free, as a secondary brand. The
+useful move is to mine the **Blender Development Fund** and **Academy Software Foundation**
+rosters as prospect lists. ASWF Premier is Netflix, Sony Pictures, Disney, DreamWorks,
+Laika, DNEG and Wētā, which is the LA industry in one table. See `outreach-drafts.md`.
+
+**Dead, do not put these in a deck:** 8th Wall (wound down Feb 2026), Adobe Aero
+(discontinued Nov 2025), Unity DevRel (finishing a ~25% workforce cut).
 
 ---
 

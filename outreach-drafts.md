@@ -676,6 +676,117 @@ DevRel, or DMs.
 
 ---
 
+# The tier-one 3D creation sponsor for MOLTEN
+
+Researched 2026-08-27. The question was whether we can land a marquee 3D creation sponsor
+for LA. Short answer: **not a cash one, not in seven weeks.** The achievable version of
+marquee is a big logo and real people in the room, with prize money coming from small fast
+vendors. That is not a consolation prize, it is the structure the LA scene actually uses,
+and there is a template from last week.
+
+## Blender cannot sponsor us, and the reason is useful
+
+The Blender Foundation is an Amsterdam nonprofit whose income is entirely inbound: **47
+corporate members paying about $330,000 a month**, plus 7,631 individual members. Their
+grants page funds only named engineers. There is **no community events fund, no student
+event program, and nobody on staff with a developer relations or events title.** Asking
+them for money runs the wrong direction.
+
+Two things they do give, both free:
+
+- **Their trademark policy explicitly permits the Blender logo on event promotional
+  material including t-shirts**, as long as it is a secondary brand and it is clear we are
+  not official. Self-serve, no permission needed beyond compliance.
+- Closest humans if we ever want a speaker rather than money: **Pablo Vazquez** (Product
+  Designer, the most community-facing person, runs Blender Studio streams) and **Anastasia
+  Rudina** (Communication Lead). Ton Roosendaal stepped down as CEO in 2025.
+
+**The inversion is the real prize.** Three open-source rosters are lists of companies that
+already write checks for 3D creation:
+
+- **Blender Development Fund.** Patron at €240k/yr: NVIDIA, **Netflix Animation Studios**,
+  Qualcomm, Wacom, PICO. Titanium €120k: OTOY, Microsoft, AMD. Platinum €60k: BMW, Intel.
+  Gold €30k: **Chaos**, Adobe, Meta, Dell, Superhive, BlenderKit, **Hyper3D.AI (Rodin)**.
+  Silver €12k: Google, Poliigon, **Meshy AI**, GIANTS, BeamNG, Behaviour Interactive.
+- **Academy Software Foundation**, which is the LA one. Premier members: **Netflix, Sony
+  Pictures, The Walt Disney Studios, DreamWorks Animation, Laika, DNEG, Wētā FX,
+  Paramount Skydance**, plus Epic, NVIDIA, Autodesk, Adobe, AMD, AWS, Microsoft, Intel and
+  the Academy itself. General members include **Maxon, SideFX, Foundry, OTOY, Framestore**.
+  ASWF itself is a Linux Foundation entity and does not grant to outside events, so treat
+  the roster as prospects only.
+- **Godot Foundation.** Mostly game studios, poor yield for a spatial hackathon.
+
+**Meshy is already on our MOLTEN list and is a Blender Silver sponsor**, which is a proof
+point that they write ecosystem checks rather than a guess about DevRel budget. Same logic
+makes **Hyper3D.AI (Rodin)** a new lead worth adding at Gold tier money.
+
+## Epic is the right marquee ask, and MegaGrants is the wrong door
+
+**Do not build anything on MegaGrants.** Cycle 2 notifies **December 7 to 11**, two months
+after MOLTEN, and events are not an eligible activity.
+
+**Unreal Jam LA ran August 20 to 21 2026**, one week ago, and it is the exact template.
+Epic supplied **judges and mentors** (Kevin Miller sat on the panel). Epic supplied **no
+cash**. The roughly $1,000 prize pool came from **AMD, Volinga, MOD Tech Labs, Tripo and
+Inworld**, with a university covering venue and food.
+
+Two consequences. **Inworld is already on our list** and demonstrably pays for LA events of
+exactly this shape, so that row is stronger than it looked. And the prize pool should be
+assembled from several small vendors rather than sought from one large one.
+
+The route is the **LA community chapter**, not any corporate form. Organizers include
+**Cameron Kostopoulos**, a USC-affiliated XR creator, plus Matthew Hayden, Edward
+Dawson-Taylor, Jackie Cooper and Waqas Hussain. USC is already central to MOLTEN, so this
+is a person-to-person path into Epic DevRel. Epic DevRel also physically showed up in
+Marina del Rey in April. Note Epic was **recruiting a Director of Education and Training**
+in mid-2026, so that org has a leadership hole and the education route is the weaker one.
+
+## NVIDIA is the highest value and needs a name
+
+They sponsor student hackathons constantly: Hack-a-Claw at UC Santa Cruz in May 2026 with
+200+ students, the GTC Agents for Impact hackathon in March, the Princeton Open Hackathon.
+Typical give is **DLI course credits, GPU hardware prizes, Jetson kits, mentors and
+judges**, rarely cash. Omniverse and OpenUSD are the most on-theme thing in the industry.
+
+**But cold inbound is documented to fail.** A hackathon organizer posted a well-formed $5K
+sponsorship request on NVIDIA's own developer forums in February 2026 asking for a DevRel
+contact and got no reply at all. The Omniverse Developer Relations Manager role was posted
+and pulled in April 2026, so it is likely filled, but no public name exists for it.
+
+**Iana's unnamed NVIDIA engineering contact is worth more than any research here.** That
+name is the ask. Without it, deprioritize.
+
+## Landable in seven weeks, ranked
+
+| Target | Contact | Check | Why |
+|---|---|---|---|
+| **Spline** | `alejandro@spline.design` — Alejandro Leon, CEO | **valid** 98 | **Ran their own $5,000 hackathon with Contra in June 2025.** Browser tool, no install, about 20 people so the decision chain is one person. Best odds on this page |
+| **PlayCanvas** | route via Snap | — | **PlayCanvas is owned by Snap.** Gave 10 twelve-month subscriptions to Gamedev.js Jam 2026. Bundle into the existing Snap AR ask rather than opening a second thread. Will Eastcott is still CEO |
+| **SideFX** | `education@sidefx.com`, `rmagee@sidefx.com` — Robert Magee | **valid** 100 / 95 | Gave **free 6-month Houdini Indie licenses to every Global Game Jam 2025 jammer**. Ask for licenses for all 120 hackers plus a mentor, not cash. `judith@sidefx.com` is VP Partnerships if education stalls |
+| **Rokoko** | `jakob@rokoko.com` (CEO), `sam@rokoko.com` (Creative Director) | conf 99 | **Confirmed LA team** and a real funded **Education Giveaway** where schools nominate for free hardware. Ask for 2 to 4 Smartsuits on loan for CAPTURE and INHABIT |
+| **Niantic Spatial** | `asim@nianticspatial.com` — Asim Ahmed, Head of Product Marketing | **valid** 99 | He judged the Worlds in Action Hack in SF in March 2026. On theme for NAVIGATE and CAPTURE. Small org, reachable. Judge and SDK access, low odds of cash |
+| **MOD Tech Labs** | `alex@modtechlabs.com` (CEO), `tim@modtechlabs.com` (CTO) | conf 99 / 98 | Was a prize sponsor at Unreal Jam LA last week |
+| **Volinga** | `frivas@volinga.ai` | conf 99 | Same, and they do NeRF and splatting so they are on theme for CAPTURE |
+| **Maxon** | — | — | **Newbury Park, the only genuine LA-area office** on this list. But no event track record and heavy leadership churn. One cold email, low expectations |
+| **Move.ai** | `tino@move.ai` — Tino Millar, cofounder and CEO | **valid** 98 | Markerless mocap, on theme, but no hackathon evidence either way. Genuinely unknown |
+| **Womp** | `gtrueba@womp.com` — Gabriela Trueba, CEO | **valid** 83 | About three people. Likely all they can give is license codes |
+| **Foundry** | `education@foundry.com` | **valid** 100 | Education page and nothing else. Low priority |
+
+## People who have left, do not use older lists
+
+- **Paul Ambrosiussen** has left **SideFX**, now at Bismuth Consultancy.
+- **Paul Babb** has left **Maxon**. Their leadership page is dated 2018 and is stale.
+- **Lon Grohs** has left **Chaos** for NVIDIA.
+- **8th Wall wound down in February 2026.** The hosted platform is gone and the tech was
+  open sourced. **Niantic Spatial** is the live entity now.
+- **Adobe Aero was discontinued in November 2025.** Do not reference it anywhere.
+- **Unity** is completing a roughly 25% workforce cut. The 2019 to 2022 picture of a
+  well-funded DevRel org is gone. Not landable, do not spend time.
+- **Autodesk** has no sponsorship mechanism, but **Wonder Dynamics is intact and LA-based**
+  under Nikola Todorovic and Tye Sheridan. Email them for a judge, not Autodesk for money.
+
+---
+
 # What I would do first
 
 1. **Send the Fil reply.** It is overdue on its own terms and it unblocks every a16z
