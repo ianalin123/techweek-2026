@@ -408,7 +408,7 @@ No outreach email exists for any of them, so treat that phrasing as aspirational
   2026-08-28. A first-name-only address implies real staff.
 - **Unknown: her title, her seniority, her background, and critically whether she is in LA.**
 - **Next step:** do not research further, the record is empty. Ask directly. One line in the
-  next email covers it: are you both LA-based, and in town October 17–18?
+  next email covers it: are you both LA-based, and in town October 16–17?
 
 ### Gen Gems / Machine Cinema
 - **Contact:** their partnerships co-founder handles this. Emails were to be texted to

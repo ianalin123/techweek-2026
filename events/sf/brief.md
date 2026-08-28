@@ -63,7 +63,7 @@ things work.
 
 ## Capacity
 
-80–120 hackers, plus 15–20 mentors, judges, and volunteers. Teams of 2–4, yielding 20–30
+~120 hackers, plus 15–20 mentors, judges, and volunteers. Teams of 2–4, yielding 20–30
 demos across 5 tracks.
 
 Hardware tracks are sized to equipment: **~15 EEG headsets and ~10 haptic kits.** We do

@@ -13,7 +13,8 @@ not be** — see the open question about a one-day format below.
 - **Full title:** MOLTEN: a 24-hour hackathon for spatial creation
 - **Calendar title:** MOLTEN - hack spatial creation
 - **City:** Los Angeles
-- **Dates:** Saturday 2026-10-17 to Sunday 2026-10-18
+- **Dates:** Friday 2026-10-16 to Saturday 2026-10-17. Moved from Saturday–Sunday on
+  2026-08-28. The application and the Partiful page still show the old dates.
 - **Grant:** approved 2026-08-20 for up to $5K reimbursement
 - **Calendar:** approved 2026-08-21
 - **Partiful:** https://partiful.com/e/AgP5K9z8FR9TTWVMJIVC — live, titled
@@ -23,12 +24,15 @@ not be** — see the open question about a one-day format below.
 
 | Source | Hours |
 |---|---|
-| Partiful (canonical for attendees) | Sat 9:30 AM → Sun 2:30 PM |
-| Venue one-pager ask | Sat 12:00 PM → Sun 12:00 PM |
+| Partiful (**still shows the old Sat–Sun dates**) | Sat 9:30 AM → Sun 2:30 PM |
+| Venue one-pager ask | Fri 12:00 PM → Sat 12:00 PM |
 | This application | Sat 9:00 AM → Sun 3:30 PM |
 
-Unlike SF, the venue ask here is **narrower** than the published event — it ends 2.5
-hours before Partiful does. That one is worth fixing, because a venue could agree to the
+Two problems here. Partiful and the application both still carry the pre-2026-08-28
+dates, so **Partiful needs updating before the September 8 calendar launch**.
+
+Separately, and unlike SF, the venue ask is **narrower** than the published event — it
+ends 2.5 hours before Partiful does. Worth fixing, because a venue could agree to the
 one-pager window and still not cover the event.
 
 ## Open question: one day instead of two
@@ -95,9 +99,8 @@ That floor is real and is what makes the event survivable if no hardware partner
 
 The application says: **"Prizes: Apple Vision Pro (secured), others tbd."**
 
-The Vision Pro is **not** secured. As of 2026-08-12 a contact of Sissi's was still
-negotiating at-cost bulk pricing with Apple. This claim was made to Tech Week and a16z
-in the approved application, so it is a commitment, not marketing.
+The Vision Pro is secured, confirmed by Iana on 2026-08-28. Sourced at-cost through a
+contact of Sissi's. Remaining prizes are still open.
 
 ## Who should attend
 
@@ -109,12 +112,12 @@ Caltech CS/CNS, Harvey Mudd, LMU CS, ArtCenter (interaction design), Otis. Also 
 Bay Area students traveling down.
 
 Prior XR experience is welcome but not required — the application promises a pre-event
-onboarding kit plus Saturday workshops covering all three entry paths. **Neither the kit
+onboarding kit plus day-one workshops covering all three entry paths. **Neither the kit
 nor the workshops exist yet.**
 
 ## Capacity
 
-100–120 hackers plus 20 mentors, judges, and volunteers. Teams of 2–4, yielding 25–30
+~120 hackers plus 20 mentors, judges, and volunteers. Teams of 2–4, yielding 25–30
 demos across 5 tracks.
 
 Hardware-heavy tracks (WORLDBUILD, CAPTURE) are sized to loaner units: ~10 Quest,

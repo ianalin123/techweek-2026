@@ -6,7 +6,7 @@
 ## MOLTEN
 
 A 120-person, 24-hour a16z Tech Week hackathon for spatial creation.
-LA, Saturday October 17 to Sunday October 18, 2026.
+LA, Friday October 16 to Saturday October 17, 2026.
 
 ## The thesis
 

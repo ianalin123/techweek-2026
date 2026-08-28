@@ -8,17 +8,18 @@ artifact is needed, copy content into a separate repo.
 
 ## The two events
 
-Both are 24-hour hackathons with the same shape: Saturday 9am check-in through Sunday
-3:30pm close, 30.5 hours on site, 23.5 hours of hacking.
+Both are 24-hour hackathons with the same shape, 30.5 hours on site and 23.5 hours of
+hacking. INTERFACE runs Saturday 9am check-in to Sunday 3:30pm close. **MOLTEN moved to
+Friday–Saturday on 2026-08-28**, so it runs Friday 9am to Saturday 3:30pm.
 
 | | INTERFACE | MOLTEN |
 |---|---|---|
 | Full title | INTERFACE: Hack the Space Between | MOLTEN: a 24-hour hackathon for spatial creation |
 | City | San Francisco | Los Angeles |
-| Dates | Oct 10–11, 2026 | Oct 17–18, 2026 |
+| Dates | Sat–Sun Oct 10–11, 2026 | Fri–Sat Oct 16–17, 2026 |
 | Theme | How humans interface with machines | Spatial creation tooling |
 | Tracks | NEURAL, VOICE, TOUCH, VISION, OPEN | WORLDBUILD, NAVIGATE, CAPTURE, INHABIT, OPEN |
-| Capacity | 80–120 hackers + 15–20 mentors/judges/volunteers | 100–120 hackers + 20 mentors/judges/volunteers |
+| Capacity | ~120 hackers + 15–20 mentors/judges/volunteers | ~120 hackers + 20 mentors/judges/volunteers |
 | Submitted by | Sissi (sissiwang618@gmail.com) | Iana |
 | Grant | **Up to $5K, approved 2026-08-12** | Up to $5K, approved 2026-08-20 |
 | Calendar status | Submitted 2026-08-26, in review | Approved for #LATechWeek 2026-08-21 |
@@ -76,8 +77,7 @@ Tracked here until there is enough volume to justify a separate `commitments.md`
 Promised to Tech Week and a16z **in the approved applications** — these are the binding
 ones:
 
-- **Apple Vision Pro as the MOLTEN grand prize, stated as "secured."** Being sourced
-  through a personal contact and expected to land, but not yet confirmed in writing.
+- **Apple Vision Pro as the MOLTEN grand prize.** Secured, confirmed by Iana 2026-08-28.
 - A MOLTEN hardware bench "in confirmation" from USC ICT, Snap, and Meta. None contacted.
 - A pre-event onboarding kit for MOLTEN. Does not exist.
 - Three parallel onboarding workshops at each event. No leads, no materials.
@@ -132,14 +132,14 @@ Files not yet created because they have no content: `budget.md` and per-event
   the venue search, but the event is named and calendared as a 24-hour hackathon and the
   overnight is load-bearing in the pitch. Details in `events/la/brief.md`.
 - **The MOLTEN venue ask is narrower than the published event** — the one-pager asks for
-  Sat 12 PM to Sun 12 PM while Partiful runs to Sun 2:30 PM. A venue could say yes to
+  a noon-to-noon window while Partiful runs 2.5 hours past that. A venue could say yes to
   the one-pager and still not cover the event. The INTERFACE one-pager has the opposite
   and correct shape: the ask is wider than the event.
-- **The Vision Pro grand prize is not confirmed in writing.** Being sourced through a
-  personal contact and expected to land. Worth closing because "Prizes: Apple Vision Pro
-  (secured)" is in the approved application — claimed to a16z, not just to sponsors.
+- **The MOLTEN date change is not yet reflected on Partiful.** The page still shows
+  Oct 17–18, as does the approved application. Both need updating before the September 8
+  calendar launch, and Fil should be told.
 - **The reply to Fil has not been sent** on either event, even though both Partiful
-  pages are live. Ask for a portfolio company speaker in the same message.
+  pages are live. It asks for named portfolio companies as speakers or judges.
 - **INTERFACE was submitted 5 days after the stated deadline.** Fil's emails set
   Friday 2026-08-21 for Partiful and submission. MOLTEN made it. INTERFACE went in on
   2026-08-26 and is still in review — Tracy said 2–3 business days, up to a week around

@@ -51,7 +51,7 @@ If XDOF does not check out, consider Ultraleap for hardware rather than a speake
 
 ---
 
-## MOLTEN (LA, Oct 17–18)
+## MOLTEN (LA, Oct 16–17)
 
 Two separate veins. The LA institutions are the higher-value ones and are mostly *not*
 a16z — they solve venue, mentors, judges, hardware, and student recruitment at once.
