@@ -14,7 +14,7 @@ Fri–Sat **Oct 16–17** on 2026-08-28.
 
 | To | Cc | Subject | The ask | Drafted |
 |---|---|---|---|---|
-| `fil@tech-week.com` | `mchin@a16z.com` | Re: Your Tech Week 2026 event grant is approved! | Intros to five **named** portfolio companies. ElevenLabs, Sesame and Cursor for INTERFACE; World Labs and Luma for MOLTEN. Also states the MOLTEN date change | 08-19, rewritten 08-28 |
+| `fil@tech-week.com` | `mchin@a16z.com` | Re: Your Tech Week 2026 event grant is approved! | Intros to six **named** portfolio companies, **MOLTEN only**: World Labs, Luma, Arcturus, Yellow, Inworld, Space. Points at Speedrun SR001–SR004, not the current cohort. States the MOLTEN date change. INTERFACE asks deferred to a later email | 08-19, rewritten 08-28 |
 
 ### INTERFACE, San Francisco, Oct 10–11
 
@@ -100,6 +100,15 @@ Two drafts were trashed as duplicate approaches to the same person.
   reach Cameron Kostopoulos, or the LA chapter meetup.
 - **The seven venue emails in `events/la/venue-outreach.md` are written but not drafted**
   in Gmail.
+- **The INTERFACE portfolio-company ask is owed.** The Fil reply now covers MOLTEN only,
+  by choice, and promises a separate email. ElevenLabs, Sesame and Cursor were the three
+  named before they were pulled out, and are the natural contents of that email.
+- **Four of the six names in the Fil reply are `reported`, not verified**, as a16z
+  portfolio companies: Arcturus, Yellow, Inworld and Space. The email says so and asks
+  him to skip any that are wrong. Worth confirming against `jobs.a16z.com` regardless.
+  Separately, `outreach-targets.md` says Polycam is **not** a16z-backed while
+  `research/molten-3d-generation.md` lists a16z among its investors. Unresolved, which
+  is why Polycam is not in the email.
 
 ## Infrastructure sponsors, a different pitch
 
