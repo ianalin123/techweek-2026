@@ -373,6 +373,43 @@ No outreach email exists for any of them, so treat that phrasing as aspirational
   venue and not hardware.
 - **Next step:** send the details email. Get his address from whoever made the intro.
 
+### Ted Wint — Gold House Ventures
+- **Contact:** `ted@goldhouse.org`. Offered by Daniel Suh as a MOLTEN judge 2026-08-27.
+- **LA:** interested via Daniel, **not yet confirmed by Ted himself.**
+- **Role:** The Org lists his title as **"Platform," since March 2025**. `goldhouse.org`
+  files him under Economic Empowerment / Gold House Ventures. USC Dornsife says he "leads
+  platform initiatives for the fund's portfolio," and several sources say he runs the
+  **GHV Accelerator**. His own site says "investor at Gold House Ventures, across
+  investments, diligence, and portfolio value creation." Read him as platform and programs,
+  probably not a check writer.
+- **BASED IN SAN FRANCISCO, not LA.** Stated on his own site, tedwint.com, and corroborated
+  by the USC alumni page. He also sits on the SF Global Shapers board. **This is the risk:
+  Daniel is in Korea and Ted is in SF, so the LA judging offer needs someone to travel.
+  Confirm before counting on him.** He is a USC alum, so LA is not unnatural for him.
+- **Background:** USC Dornsife 2020, **BA International Relations**. CloudKitchens (founding
+  lead, retail vertical, 2022–25), Winc (ops and strategy), Tapcheck (ops manager).
+  **No engineering, CS, design, or product background anywhere.**
+- **Judge fit: culture and go-to-market, not technical.** Zero evidence of any XR, spatial,
+  3D, or creative-tooling work. Fine as a founder-readiness or brand judge. **Balance him
+  with a technical XR judge**, or the panel cannot assess the actual builds.
+- **Events footprint is thin.** Only the Women in AI x GHV Lunar New Year Gala at the Asian
+  Art Museum (SF) is confirmed. No public Luma calendar, no talks, no panels. Substack has
+  6 subscribers and no posts. No X account found. LinkedIn is his only live channel.
+
+### Vanessa Le — Gold House
+- **Contact:** `vanessa@goldhouse.org`. Offered by Daniel Suh as a MOLTEN judge 2026-08-27.
+- **UNVERIFIABLE. Nothing public exists on her.** This is a real negative result, not a
+  thin search. `goldhouse.org/people/vanessa-le` returns **404** while `ted-wint` and
+  `daniel-suh` both return 200. Gold House's own CMS search returns no Vanessa Le (only
+  honorees Vanessa Liu, Vanessa Dew, Vanessa Pham). She is absent from The Org's roster,
+  Crunchbase, Luma, press, X, and Substack.
+- **Best guess, unsupported:** a recent or incoming hire. Gold House had a Chief of Staff,
+  an Investment Associate, and a Portfolio Ops Associate posted with applications closing
+  2026-08-28. A first-name-only address implies real staff.
+- **Unknown: her title, her seniority, her background, and critically whether she is in LA.**
+- **Next step:** do not research further, the record is empty. Ask directly. One line in the
+  next email covers it: are you both LA-based, and in town October 17–18?
+
 ### Gen Gems / Machine Cinema
 - **Contact:** their partnerships co-founder handles this. Emails were to be texted to
   Iana and are not recorded here yet.
