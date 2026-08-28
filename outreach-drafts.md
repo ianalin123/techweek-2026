@@ -1,27 +1,105 @@
 # Outreach drafts
 
-Written 2026-08-26, addresses resolved 2026-08-27. **Nothing here has been sent.**
+**Nothing here has been sent.** Sissi is cc'd on every one.
 
-Nine emails are sitting in your Gmail drafts, ready to review and send. Sissi is cc'd on
-all of them.
+## The register
 
-| Gmail draft | To | Also cc'd |
-|---|---|---|
-| Re: Your Tech Week 2026 event grant is approved! | `fil@tech-week.com` | `mchin@a16z.com` — threaded onto the real approval email |
-| vision pro loaners for a spatial hackathon in la | `dnelson@ict.usc.edu`, `cobbins@ict.usc.edu` | `MxRLab@ict.usc.edu` |
-| volumetric assets for a spatial hackathon in la | `team@metastage.com` | — |
-| dma students at a spatial hackathon in la | `eddostern@arts.ucla.edu` | `dmainfo@arts.ucla.edu` |
-| our worldbuild track, and whether you would speak | `alex@worldbuilding.institute` | — |
-| immersion lab + a spatial hackathon in la | `jenny.rodenhouse@artcenter.edu` | — |
-| caltech students at a spatial hackathon in la | `slombeyda@caltech.edu` | `gdjorgovski@caltech.edu` |
-| speaking at a spatial hackathon in la | `nathan@refactorgames.com` | — |
-| speaking at an interfaces hackathon in sf | `chloe@valencevibrations.com` | — |
-| sponsoring two tech week hackathons | `wayne@convex.dev` | — |
-| sf tech week, the slot you have not claimed yet | `nina.lopatina@mongodb.com` | `chuck.freedman@mongodb.com` |
+Every Tech Week draft in Iana's Gmail, reconciled against the live mailbox on
+2026-08-28. 31 drafts. If it is not in this table it does not exist.
 
-Eight are MOLTEN or the grant team. Chloe Duckworth is the only INTERFACE-only draft,
-because every other INTERFACE target is an a16z portfolio company and should go through
-Fil first rather than cold. Convex and MongoDB are pitched on both events at once.
+Dates below are the corrected ones: INTERFACE is Sat–Sun **Oct 10–11**, MOLTEN moved to
+Fri–Sat **Oct 16–17** on 2026-08-28.
+
+### Grant team
+
+| To | Cc | Subject | The ask | Drafted |
+|---|---|---|---|---|
+| `fil@tech-week.com` | `mchin@a16z.com` | Re: Your Tech Week 2026 event grant is approved! | Intros to five **named** portfolio companies. ElevenLabs, Sesame and Cursor for INTERFACE; World Labs and Luma for MOLTEN. Also states the MOLTEN date change | 08-19, rewritten 08-28 |
+
+### INTERFACE, San Francisco, Oct 10–11
+
+| To | Cc | Subject | The ask | Drafted |
+|---|---|---|---|---|
+| `contact@openbci.com` | — | openbci hardware for a neural track in sf | EEG loaners for the weekend + a mentor. Built on their MIT Reality Hack loan model | 08-19, rewritten 08-28 |
+| `istoica@eecs.berkeley.edu` | — | judging interface, a student hackathon at sf tech week | Judge, and warm intros to Sky Lab spinouts as sponsors | 08-19, rewritten 08-28 |
+| `svlevine@eecs.berkeley.edu` | — | a touch track that needs a roboticist | Judge, and an intro to Physical Intelligence | 08-19, rewritten 08-28 |
+| `chloe@valencevibrations.com` | — | speaking at an interfaces hackathon in sf | Speaker | 08-27 |
+| `hackathons@vapi.ai` | — | quick question about VapiCon and hackathon judging | Judging + VapiCon tie-in | 08-14 |
+| `hackathons@elevenlabs.io` | — | quick question about hackathon credits during SF Tech Week | Credits pool | 08-14 |
+| `founders@cartesia.ai` | — | quick question about Cartesia's Startups Grant | Startups Grant for hackers | 08-14 |
+| `hello@somnee.com` | — | quick question about Somnee for a Berkeley hackathon | Sleep/neuro angle for NEURAL | 08-14 |
+| `ben@kscale.dev` | — | quick question about K-Bot loaners | Robot loaners for TOUCH | 08-14 |
+| `hackathons@modal.com` | — | quick question about Modal as compute sponsor | Compute credits | 08-14 |
+| `hello@hume.ai` | — | **DO NOT SEND** | Superseded. Going to Andrew Ettinger via LinkedIn | 08-20 |
+
+### MOLTEN, Los Angeles, Oct 16–17
+
+| To | Cc | Subject | The ask | Drafted |
+|---|---|---|---|---|
+| `dnelson@ict.usc.edu`, `cobbins@ict.usc.edu` | `MxRLab@ict.usc.edu` | vision pro loaners for a spatial hackathon in la | Headset loaners, a judge, a mentor | 08-27 |
+| `team@metastage.com` | — | volumetric assets for a spatial hackathon in la | Volumetric assets + judge | 08-27 |
+| `eddostern@arts.ucla.edu` | `dmainfo@arts.ucla.edu` | dma students at a spatial hackathon in la | Student reach + a DMA judge | 08-27 |
+| `alex@worldbuilding.institute` | — | our worldbuild track, and whether you would speak | Opening talk on day one | 08-27 |
+| `jenny.rodenhouse@artcenter.edu` | — | immersion lab + a spatial hackathon in la | Student reach + Immersion Lab tie-in | 08-27 |
+| `slombeyda@caltech.edu` | `gdjorgovski@caltech.edu` | caltech students at a spatial hackathon in la | Student reach + judge | 08-27 |
+| `nathan@refactorgames.com` | — | speaking at a spatial hackathon in la | Speaker or judge | 08-27 |
+| `alejandro@spline.design` | — | a spline track at a spatial hackathon in la | Prize for best Spline build + Pro codes. **The only cash-adjacent ask, and it names no number** | 08-28 |
+| `education@sidefx.com` | `rmagee@sidefx.com` | houdini indie licenses for a student hackathon in la | Indie licenses for the room + a mentor. Explicitly says we are not asking for money | 08-28 |
+| `sam@rokoko.com` | `jakob@rokoko.com` | borrowing smartsuits for a spatial hackathon in la | 2 to 4 Smartsuits on loan | 08-28 |
+| `asim@nianticspatial.com` | — | judging a spatial hackathon in la | Judge + NSDK access for NAVIGATE | 08-28 |
+| `startups@roboflow.com` | — | roboflow for a capture track in la | Credits pool + mentor for CAPTURE | 08-19, rewritten 08-28 |
+| `support@lumalabs.ai` | — | luma for a worldbuild track in la | Credits pool + judge for WORLDBUILD | 08-19, rewritten 08-28 |
+| `developer@xreal.com` | — | xreal loaners for a spatial hackathon in la | Glasses loaners + judge | 08-19, rewritten 08-28 |
+| `bobak@brilliant.xyz` | — | frame loaners for a spatial hackathon in la | Frame loaners + mentor | 08-19, rewritten 08-28 |
+| `api@worldlabs.ai` | — | quick question about Marble and the World API | API access for WORLDBUILD | 08-14 |
+
+### Both events in one email
+
+| To | Cc | Subject | The ask | Drafted |
+|---|---|---|---|---|
+| `wayne@convex.dev` | — | Tech Week hackathons, sf oct 10 and la oct 16 | Sponsor either or both, credits + mentor | 08-28 |
+| `nina.lopatina@mongodb.com` | `chuck.freedman@mongodb.com` | sf tech week, the slot you have not claimed yet | Track sponsorship. Built on the Aug 13 Build Fest and the unclaimed SF Tech Week slot | 08-28 |
+| `joe.darko@snap.com` | — | spectacles for two tech week hackathons | Spectacles loaner kits + a Snap AR judge, at either or both | 08-14, merged 08-28 |
+
+### Removed on 2026-08-28
+
+Two drafts were trashed as duplicate approaches to the same person.
+
+- **David Nelson** was drafted twice for MOLTEN. The generic "a16z LA Tech Week hackathon,
+  sponsor info" version was trashed. The Vision Pro loaner email to him and Cobbins stands.
+- **Joe Darko** was drafted at both `joe.darko@snap.com` (INTERFACE, Spectacles) and
+  `joe.darko@snapchat.com` (MOLTEN, generic). Both addresses verify. `snap.com` scores
+  higher and is the corporate domain, so the two were merged into one email covering both
+  events and the `snapchat.com` draft was trashed.
+
+### What changed on 2026-08-28
+
+- **MOLTEN moved a day earlier.** Every draft was patched, including six with the date in
+  the subject line. Day names moved too: day one was Saturday and is now **Friday**, day
+  two was Sunday and is now **Saturday**. So every reference to judging on the second day
+  moved from Sunday to Saturday, and every reference to speaking or mentoring on the first
+  day moved from Saturday to Friday.
+- **The nine 2026-08-19 drafts shared two boilerplate subject lines.** Each had a real
+  company-specific paragraph buried in the middle, but the subject and opening were
+  identical across all nine. Seven were rewritten with a specific subject and the hook
+  moved up; two were the duplicates above.
+- **Headcount normalized to around 120** for both events, replacing the old 80–120 and
+  100–120 ranges.
+- **The Convex draft had a garbled sentence** where two clauses had collided mid-edit.
+  Repaired.
+
+### Still open
+
+- **Sponsor tiers and dollar amounts.** Iana and Sissi's call. This blocks every cash ask.
+  MOD Tech Labs (`alex@modtechlabs.com`) and Volinga (`frivas@volinga.ai`) both verify and
+  both funded Unreal Jam LA's prize pool, so they are the first cash asks once a number
+  exists. The MongoDB and Spline drafts both promise a breakdown that does not exist yet.
+- **Partiful still shows the old MOLTEN dates**, as does the approved application. Both
+  need fixing before the September 8 calendar launch.
+- **Epic has no reachable address.** Fermata and CG Pro do not resolve. Routes are USC to
+  reach Cameron Kostopoulos, or the LA chapter meetup.
+- **The seven venue emails in `events/la/venue-outreach.md` are written but not drafted**
+  in Gmail.
 
 ## Infrastructure sponsors, a different pitch
 
@@ -297,7 +375,7 @@ so every portco ask below is blocked behind it.
 > INTERFACE: Hack the Space Between, San Francisco, October 10 to 11.
 > https://partiful.com/e/AkfcAYRQeMprRyPklVKe
 >
-> MOLTEN, a 24 hour hackathon for spatial creation, Los Angeles, October 17 to 18.
+> MOLTEN, a 24 hour hackathon for spatial creation, Los Angeles, October 16 to 17.
 > https://partiful.com/e/AgP5K9z8FR9TTWVMJIVC
 >
 > One ask while I have you. We would love to have a portfolio company speak or judge at
@@ -325,14 +403,14 @@ application as a hardware source and have never contacted them.
 
 **To:** `MxRLab@ict.usc.edu` — **verified**
 **cc:** sissiwang@berkeley.edu
-**Subject:** vision pro loaners for a spatial hackathon in la, october 17 to 18
+**Subject:** vision pro loaners for a spatial hackathon in la, october 16 to 17
 
 > Hi David and team,
 >
 > I'm Iana, an electrical engineering and computer science student at UC Berkeley. My
 > cofounder Sissi and I are running MOLTEN, a 24 hour hackathon for spatial creation in
-> Los Angeles on October 17 to 18. It is part of LA Tech Week and funded by an a16z
-> grant. We are expecting 100 to 120 students building across five tracks: world
+> Los Angeles on October 16 to 17. It is part of LA Tech Week and funded by an a16z
+> grant. We are expecting around 120 students building across five tracks: world
 > building, navigation, capture, inhabiting, and open.
 >
 > We named the MxR Lab in our application as the place we hoped to work with, so I wanted
@@ -342,8 +420,8 @@ application as a hardware source and have never contacted them.
 >
 > 1. Vision Pro or other headset loaners for the weekend. Hardware is the real
 >    constraint on what students can build in 24 hours.
-> 2. You or David Cobbins as a judge on the Sunday.
-> 3. A mentor or two on Saturday afternoon while teams are still choosing scope.
+> 2. You or David Cobbins as a judge on the Saturday.
+> 3. A mentor or two on Friday afternoon while teams are still choosing scope.
 >
 > I'm genuinely keen to hear about the lab's work either way. The through line from
 > Project Holodeck to what MxR does now is a big part of why we are running this in LA
@@ -366,8 +444,8 @@ and mentor asks are cheap add-ons that make a yes easier to partially grant.
 > Hi Christina,
 >
 > I'm Iana, an EECS student at UC Berkeley. My cofounder Sissi and I are running MOLTEN,
-> a 24 hour hackathon for spatial creation in LA on October 17 to 18, part of LA Tech
-> Week and backed by an a16z grant. Around 100 to 120 students, five tracks, one of which
+> a 24 hour hackathon for spatial creation in LA on October 16 to 17, part of LA Tech
+> Week and backed by an a16z grant. Around around 120 students, five tracks, one of which
 > is capture.
 >
 > The ask is small and I think it costs you almost nothing. Would you be willing to let
@@ -377,7 +455,7 @@ and mentor asks are cheap add-ons that make a yes easier to partially grant.
 > Every demo made with them would be built on Metastage capture and shown to a room of
 > students and judges.
 >
-> We would also love you as a judge on the Sunday if the date works.
+> We would also love you as a judge on the Saturday if the date works.
 >
 > Thanks so much in advance,
 > Iana Lin
@@ -389,15 +467,15 @@ distribution argument is real. Lead with the cheap ask.
 
 **To:** `dmainfo@arts.ucla.edu` — **verified**, ask them to forward to Eddo Stern
 **cc:** sissiwang@berkeley.edu
-**Subject:** dma students at a spatial hackathon in la, october 17 to 18
+**Subject:** dma students at a spatial hackathon in la, october 16 to 17
 
 > Hi,
 >
 > Could you please pass this to Eddo Stern, or point me to the right person?
 >
 > I'm Iana, an EECS student at UC Berkeley. My cofounder Sissi and I are running MOLTEN,
-> a 24 hour hackathon for spatial creation in LA on October 17 to 18. It is part of LA
-> Tech Week and funded by an a16z grant, and we are expecting 100 to 120 people.
+> a 24 hour hackathon for spatial creation in LA on October 16 to 17. It is part of LA
+> Tech Week and funded by an a16z grant, and we are expecting around 120 people.
 >
 > We are trying hard not to make this an all engineers room. The pitch to DMA students is
 > straightforward: come with an idea and a visual sensibility and we will pair you with
@@ -408,7 +486,7 @@ distribution argument is real. Lead with the cheap ask.
 >
 > 1. Would you be willing to share the event with DMA students? Here is the page:
 >    https://partiful.com/e/AgP5K9z8FR9TTWVMJIVC
-> 2. Would any DMA faculty be interested in judging on the Sunday? Having someone from
+> 2. Would any DMA faculty be interested in judging on the Saturday? Having someone from
 >    the art and design side on the panel changes what teams decide to build.
 >
 > Thanks so much in advance,
@@ -426,12 +504,12 @@ Drafts are ready. Each needs a route before it can go out.
 `accept_all` at score 81. In Gmail drafts.
 **cc:** sissiwang@berkeley.edu
 
-**Subject:** immersion lab + a spatial hackathon in la, october 17 to 18
+**Subject:** immersion lab + a spatial hackathon in la, october 16 to 17
 
 > Hi Jenny,
 >
 > I'm Iana, an EECS student at UC Berkeley. My cofounder Sissi and I are running MOLTEN,
-> a 24 hour hackathon for spatial creation in LA on October 17 to 18, part of LA Tech
+> a 24 hour hackathon for spatial creation in LA on October 16 to 17, part of LA Tech
 > Week and funded by an a16z grant. ArtCenter is one of the schools we most want in the
 > room.
 >
@@ -464,7 +542,7 @@ it is worth mentioning her by name here.
 > Hi Santiago,
 >
 > I'm Iana, an EECS student at UC Berkeley. My cofounder Sissi and I are running MOLTEN,
-> a 24 hour hackathon for spatial creation in LA on October 17 to 18, part of LA Tech
+> a 24 hour hackathon for spatial creation in LA on October 16 to 17, part of LA Tech
 > Week and funded by an a16z grant.
 >
 > I'm keen to talk because the Data to Discovery work is the clearest example I know of
@@ -473,7 +551,7 @@ it is worth mentioning her by name here.
 > navigate tracks are basically that problem.
 >
 > Two asks. Would you share the event with Caltech students? And would you or George be
-> interested in judging on the Sunday?
+> interested in judging on the Saturday?
 >
 > Thanks so much in advance,
 > Iana Lin
@@ -493,16 +571,16 @@ Fullerton at the USC Game Innovation Lab, who was on the target list but had no 
 > Hi Alex,
 >
 > I'm Iana, an EECS student at UC Berkeley. My cofounder Sissi and I are running MOLTEN,
-> a 24 hour hackathon for spatial creation in LA on October 17 to 18, part of LA Tech
-> Week and funded by an a16z grant. Around 100 to 120 students.
+> a 24 hour hackathon for spatial creation in LA on October 16 to 17, part of LA Tech
+> Week and funded by an a16z grant. Around around 120 students.
 >
 > One of our five tracks is called WORLDBUILD, which is a fairly direct borrowing from
 > your work, so it felt wrong not to write to you.
 >
-> We would love you to open the event on the Saturday morning. Most of the room will be
+> We would love you to open the event on the Friday morning. Most of the room will be
 > engineers who have never been asked to think about a world before they think about a
 > demo, and 20 minutes from you at the start would change what gets built. Judging on the
-> Sunday would be just as welcome if that is easier.
+> Saturday would be just as welcome if that is easier.
 >
 > Thanks so much in advance,
 > Iana Lin
@@ -518,7 +596,7 @@ active and may be the easier first contact.
 > Hi Joan,
 >
 > I'm Iana, an EECS student at UC Berkeley. My cofounder Sissi and I are running MOLTEN,
-> a 24 hour hackathon for spatial creation in LA on October 17 to 18, part of LA Tech
+> a 24 hour hackathon for spatial creation in LA on October 16 to 17, part of LA Tech
 > Week and funded by an a16z grant.
 >
 > The chapter's list is close to exactly the audience we want, both the students and the
@@ -542,13 +620,13 @@ still the USC Iovine and Young students who won ImmerseGT on Spectacles, since S
 already knows that group, or asking USC ICT for the introduction once that thread is
 warm. **Do not cold-email the Director of Research about hardware loans.**
 
-**Subject:** spectacles loaners for a spatial hackathon in la, october 17 to 18
+**Subject:** spectacles loaners for a spatial hackathon in la, october 16 to 17
 
 > Hi,
 >
 > I'm Iana, an EECS student at UC Berkeley. My cofounder Sissi and I are running MOLTEN,
-> a 24 hour hackathon for spatial creation in LA on October 17 to 18, part of LA Tech
-> Week and funded by an a16z grant. We expect 100 to 120 students.
+> a 24 hour hackathon for spatial creation in LA on October 16 to 17, part of LA Tech
+> Week and funded by an a16z grant. We expect around 120 students.
 >
 > I know Snap has loaned Spectacles to student hackathons before, including Reality Hack,
 > so I wanted to ask whether that is possible for ours. Hardware is the single biggest
@@ -556,7 +634,7 @@ warm. **Do not cold-email the Director of Research about hardware loans.**
 > and inhabit tracks in a way nothing else we can get would.
 >
 > If loaners are not possible, we would still love someone from the developer relations
-> team to run a Lens Studio session on the Saturday, and to judge on the Sunday.
+> team to run a Lens Studio session on the Saturday, and to judge on the Saturday.
 >
 > Thanks so much in advance,
 > Iana Lin
@@ -583,7 +661,7 @@ team.
 >
 > I'm Iana, an EECS student at UC Berkeley. My cofounder Sissi and I are running
 > INTERFACE: Hack the Space Between, a 24 hour hackathon in San Francisco on October 10
-> to 11, part of SF Tech Week and funded by an a16z grant. Around 80 to 120 hackers
+> to 11, part of SF Tech Week and funded by an a16z grant. Around 120 hackers
 > across five tracks, one of which is voice.
 >
 > I saw you ran a worldwide hackathon with a16z across seven cities, so this is probably
@@ -605,7 +683,7 @@ agent hackathon with $20K in prizes, so they already spend on this.
 >
 > I'm Iana, an EECS student at UC Berkeley. My cofounder Sissi and I are running
 > INTERFACE: Hack the Space Between, a 24 hour hackathon in San Francisco on October 10
-> to 11, part of SF Tech Week. Around 80 to 120 hackers, and voice is one of our five
+> to 11, part of SF Tech Week. Around 120 hackers, and voice is one of our five
 > tracks.
 >
 > I saw you ran your own voice agent hackathon in SF with $20K in prizes, so you already
@@ -657,7 +735,7 @@ check out, Ultraleap is the hardware fallback rather than a speaker.
 
 ---
 
-# MOLTEN companies, October 17 to 18
+# MOLTEN companies, October 16 to 17
 
 No addresses for any of these, which is the Exa problem. All routes are contact forms,
 DevRel, or DMs.
@@ -779,7 +857,7 @@ name is the ask. Without it, deprioritize.
 | a spline track at a spatial hackathon in la, october | `alejandro@spline.design` | — | prize for best Spline build + Pro codes |
 | houdini indie licenses for a student hackathon in la, october | `education@sidefx.com` | `rmagee@sidefx.com` | Indie licenses for 120 hackers + a mentor. **Explicitly says we are not asking for money** |
 | borrowing smartsuits for a spatial hackathon in la, october | `sam@rokoko.com` | `jakob@rokoko.com` | 2 to 4 Smartsuits on loan for the weekend |
-| judging a spatial hackathon in la, october 17 to 18 | `asim@nianticspatial.com` | — | judge on the Sunday + NSDK access for NAVIGATE |
+| judging a spatial hackathon in la, october 16 to 17 | `asim@nianticspatial.com` | — | judge on the Saturday + NSDK access for NAVIGATE |
 
 Three of these four are **in-kind**, which is why they could be written before we have a
 tier sheet. Only Spline involves prize money, and that draft does not name a number either.
