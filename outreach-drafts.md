@@ -32,6 +32,7 @@ Fri–Sat **Oct 16–17** on 2026-08-28.
 | `hackathons@modal.com` | — | quick question about Modal as compute sponsor | Compute credits | 08-14 |
 | `hello@hume.ai` | — | **DO NOT SEND** | Superseded. Going to Andrew Ettinger via LinkedIn | 08-20 |
 | `info@sesame.com` | Sissi | speaking at an interfaces hackathon in sf, october 10 to 11 | Keynote, open the Saturday. Cold to the generic inbox with a route-me line, since Hunter finds no individuals and Fil declined intros. Adapted from section 12 below, whose grant-team routing note is stale | 08-31 |
+| `nancy@brightdata.com` | Sissi | interface at the web data loft, materials + track vision | Post-call follow-up: Partiful link, no-overnight format (Sat 9am–11pm, Sun demos), per-track Web MCP vision, presenting-sponsor-for-venue trade. Her team evals tomorrow morning, so **send tonight**. Full proposal: `events/sf/one-pagers/brightdata-proposal.md` | 08-31 |
 
 ### MOLTEN, Los Angeles, Oct 16–17
 
