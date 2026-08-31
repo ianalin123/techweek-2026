@@ -59,6 +59,11 @@ Framed as a trade — the venue for the presenting slot. No tier sheet, no cash 
    fields — their early-talent funnel, pre-filtered
 7. **Post-event write-up** featuring track winners and what they built on Bright Data
    infrastructure, in their space
+8. **A judging seat, the private demo walkthrough before the expo opens, and a
+   recruiting table** — the full Title-tier package from the sponsor one-pager,
+   granted as a strategic trade for the venue. Internal note: do not send them the
+   tier sheet itself; its "venue covered separately" and in-kind-at-50% terms
+   contradict this trade. Title benefits by decision, not by arithmetic.
 
 ## Track-by-track: how each track supports Bright Data
 
