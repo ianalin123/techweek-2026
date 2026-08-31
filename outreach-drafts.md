@@ -31,6 +31,7 @@ Fri–Sat **Oct 16–17** on 2026-08-28.
 | `ben@kscale.dev` | — | quick question about K-Bot loaners | Robot loaners for TOUCH | 08-14 |
 | `hackathons@modal.com` | — | quick question about Modal as compute sponsor | Compute credits | 08-14 |
 | `hello@hume.ai` | — | **DO NOT SEND** | Superseded. Going to Andrew Ettinger via LinkedIn | 08-20 |
+| `info@sesame.com` | Sissi | speaking at an interfaces hackathon in sf, october 10 to 11 | Keynote, open the Saturday. Cold to the generic inbox with a route-me line, since Hunter finds no individuals and Fil declined intros. Adapted from section 12 below, whose grant-team routing note is stale | 08-31 |
 
 ### MOLTEN, Los Angeles, Oct 16–17
 
@@ -58,6 +59,7 @@ Fri–Sat **Oct 16–17** on 2026-08-28.
 | `steve.sullivan@arcturus.studio` | — | holosuite in front of 120 student builders in la | HoloSuite access + a mentor or judge for CAPTURE. Argues the mentor matters more than the software | 08-31 |
 | `hello@yellow3d.com` | — | yellowsculpt for an inhabit track in la, october 16 to 17 | YellowSculpt access + Mandeep or Vincent Sitzmann as speaker. Hook is that rigging is what kills character work in 24 hours | 08-31 |
 | `kylan@inworld.ai` | — | inworld for an inhabit track in la, october 16 to 17 | Credits pool, or a prize contribution if that is an easier yes. Opens on their Unreal Jam LA prize-pool money | 08-31 |
+| `isaac@avataros.com` | Sissi | speaking at a spatial hackathon in la, october 16 to 17 | Isaac Bratzel as day-one speaker for INHABIT. Lil Miquela is the hook. Address resolved via Hunter 08-31, valid, 99 | 08-31 |
 
 ### Both events in one email
 
@@ -100,9 +102,8 @@ Two drafts were trashed as duplicate approaches to the same person.
   MOD Tech Labs (`alex@modtechlabs.com`) and Volinga (`frivas@volinga.ai`) both verify and
   both funded Unreal Jam LA's prize pool, so they are the first cash asks once a number
   exists. The MongoDB and Spline drafts both promise a breakdown that does not exist yet.
-- **Partiful still shows the old MOLTEN dates.** Fil approved the move to Oct 16–17 on
-  2026-08-31 **on the condition that Partiful is updated to match**, so this is now an
-  outstanding grant condition, not just tidiness. Do it before September 8.
+- ~~**Partiful still shows the old MOLTEN dates.**~~ **Done — Iana updated Partiful to
+  Oct 16–17 (confirmed 2026-08-31). No grant conditions remain outstanding.**
 - **Epic has no reachable address.** Fermata and CG Pro do not resolve. Routes are USC to
   reach Cameron Kostopoulos, or the LA chapter meetup.
 - **The seven venue emails in `events/la/venue-outreach.md` are written but not drafted**
@@ -703,8 +704,9 @@ agent hackathon with $20K in prizes, so they already spend on this.
 
 ## 12. Sesame AI (speaker, VOICE and VISION)
 
-The best pure keynote ask for the interface theme. a16z led the Series A, so route
-through the grant team.
+The best pure keynote ask for the interface theme. ~~a16z led the Series A, so route
+through the grant team.~~ **Stale: Fil declined intros 2026-08-31, so this went cold.
+Drafted in Gmail 08-31 to `info@sesame.com` with a route-me line — see the register.**
 
 **Subject:** speaking at an interfaces hackathon in sf, october 10 to 11
 
