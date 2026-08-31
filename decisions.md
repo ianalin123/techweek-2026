@@ -28,7 +28,7 @@ that disagreeing one-pagers were wrong. That was overcautious. One thing still n
 fixing though, and it is not a drift problem: the **MOLTEN venue one-pager asks for less
 time than the event runs**, so a venue could agree to it and still not cover demos.
 
-### Outreach does not chase the NEURAL track
+### Outreach does not chase the NEURAL track — PARTIALLY REVERSED 2026-08-31
 Decided 2026-08-26. NEURAL stays a track at INTERFACE — it is in the approved
 application and on Partiful, and students can build in it on their own hardware. But we
 spend no outreach effort hunting a Neural speaker or sponsor. The research bore this out:
@@ -39,6 +39,18 @@ companies have DevRel teams and credit programs.
 
 This does not resolve the EEG headsets. If no hardware lands, NEURAL runs software-only
 on whatever hackers bring.
+
+**Reversed for hardware on 2026-08-31, Iana's call: neural is in scope for both events.**
+What survives from the original decision: still no hunt for a NEURAL *sponsor or speaker*
+(the a16z pipeline is still one name deep). What changes: we chase **hardware-loaner
+asks** — Emotiv and OpenBCI already exist as issues on the Linear board — because that is
+the ask that fixes the ~15-headset gap in the one-pager. Per event:
+- **INTERFACE**: NEURAL is an approved track; loaner headsets slot straight in.
+- **MOLTEN**: **no track change** — the five spatial tracks are in the approved Tech Week
+  application and adding one means re-submitting an approved event. EEG enters as an
+  input modality inside existing tracks, which the ≥2-body-input-modalities rule already
+  rewards.
+- The events are a week apart, so one loaner ask covers both: SF Oct 10–11, LA Oct 16–17.
 
 ---
 

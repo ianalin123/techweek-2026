@@ -1,5 +1,15 @@
 # MOLTEN venue outreach (Peerspace-sourced)
 
+> **RESOLVED 2026-08-31: MOLTEN's venue is xTribe Inglewood, booked through Peerspace.**
+> Iana confirmed the booking and says Peerspace confirmed the overnight is okay, which
+> supersedes the platform-wide overnight ban recorded below. **Get that confirmation in
+> writing and keep it** — the 08-28 reading of Peerspace's support docs said overnight is
+> not permitted "on any booking," and both insurance and cancellation exposure hinge on
+> having Peerspace's yes on record rather than a host's. The eight drafted emails below
+> were never sent and are now moot; they stay as the fallback list if xTribe falls
+> through. Open constraint: **xTribe caps at 90 against a planned ~140**, so registration
+> approvals have to respect the room.
+
 Built 2026-08-27. Sourced from Peerspace LA, filtered to capacity 120+, then each venue
 identified off-platform so we can email and call direct instead of booking through
 Peerspace.
@@ -32,20 +42,25 @@ do not (most cap at midnight).
 | **STUDIOS 60** | South LA (Florence) | 7,000 | 600 | $400/hr | **Yes** | ~$12,800 | Too expensive at list. Only worth it as a sponsored space. |
 | **Socks Studios** | Pico-Union | 1,350 | 150 | $110–130/hr direct | **Yes** | ~$3,800 | Too small for 120 at tables, but open 24/7 with no noise limit. Ask about their church space. |
 | **Angel City Business Lab** | Jefferson Park | 1,700 | 150 | $75/hr | Thu–Sat all day | ~$2,400 | Too small, cheapest option, mission fit is strong. |
-| **xTribe** | Inglewood | 5,995 | **90** | $199/hr, 10hr min | **Yes** | ~$6,370 | Iana has a hold here (2026-08-31). Cap 90 < our 140. Fallback only. |
+| **xTribe** | Inglewood | 5,995 | **90** | $199/hr, 10hr min | **Yes** | ~$6,370 | **BOOKED 2026-08-31 — this is the venue.** Cap 90 < our 140; overnight confirmed per Iana, needs to be on paper. |
 
 Rejected after checking: DTLA Open Loft 6000sf and several other 300-capacity DTLA lofts
 all cap at midnight on the calendar and are the same price as Skyline Loft with less kit.
 
-### xTribe, the Inglewood hold
+### xTribe, the booked venue
 
 Peerspace listing `6245066c72c628000eedebf2`. Coworking space: 62 desks (12 with 27"
 displays), event stage, kitchen, 3 restrooms, outdoor area, parking. Calendar allows
-24h booking, but the Peerspace overnight-sleeping ban applies here like everywhere,
-so the hold as booked does not cover hackers sleeping on site. Two hard problems:
-capacity is 90 against our ~140, and desks-plus-stage is not 120 people at build tables.
-Told to Daniel Suh in-thread as "a space held in Inglewood but we're not convinced it's
-the right area." Treat as the floor that lets us negotiate everywhere else from a yes.
+24h booking. **Booked 2026-08-31** after starting as a hold; Iana says Peerspace
+confirmed the overnight, which needs to exist in writing (see the header note). What
+remains true: capacity is 90 against our ~140, and desks-plus-stage is not 120 people at
+build tables, so the floor plan and the approval cap both need real answers before
+Oct 16. Was told to Daniel Suh in-thread as "a space held in Inglewood but we're not
+convinced it's the right area" — that framing is stale now.
+
+Insurance is now unblocked: The Event Helper policy naming xTribe as additional insured,
+attendee count entered cumulatively across days, overnight declared to the carrier in
+writing.
 
 ### Snap HQ Santa Monica (via Daniel Suh, 2026-08-31)
 

@@ -24,7 +24,7 @@ Friday–Saturday on 2026-08-28**, so it runs Friday 9am to Saturday 3:30pm.
 | Grant | **Up to $5K, approved 2026-08-12** | Up to $5K, approved 2026-08-20 |
 | Calendar status | Submitted 2026-08-26, in review | Approved for #LATechWeek 2026-08-21 |
 | Partiful | [live](https://partiful.com/e/AkfcAYRQeMprRyPklVKe) | [live](https://partiful.com/e/AgP5K9z8FR9TTWVMJIVC) |
-| Venue | Not secured | Not secured |
+| Venue | Not secured | **xTribe Inglewood, booked via Peerspace 2026-08-31** (cap 90 — watch approvals) |
 
 **The two grants are separate and stack to $10K.** INTERFACE's approval went to Sissi's
 personal address on 2026-08-12, which is why it looked unconfirmed for a while. Both are
@@ -139,10 +139,9 @@ Files not yet created because they have no content: `budget.md` and per-event
   a noon-to-noon window while Partiful runs 2.5 hours past that. A venue could say yes to
   the one-pager and still not cover the event. The INTERFACE one-pager has the opposite
   and correct shape: the ask is wider than the event.
-- **The MOLTEN date change is not yet reflected on Partiful.** The page still shows
-  Oct 17–18. **Fil approved the move to Oct 16–17 on 2026-08-31 on the single condition
-  that Partiful is updated to match**, so this is now the one outstanding grant condition
-  and it has to be done before the September 8 calendar launch.
+- ~~The MOLTEN date change is not yet reflected on Partiful.~~ **Done — Iana updated
+  Partiful to Oct 16–17 (confirmed 2026-08-31), satisfying Fil's condition on the date
+  move. No grant conditions remain outstanding.**
 - **INTERFACE was submitted 5 days after the stated deadline.** Fil's emails set
   Friday 2026-08-21 for Partiful and submission. MOLTEN made it. INTERFACE went in on
   2026-08-26 and is still in review — Tracy said 2–3 business days, up to a week around
