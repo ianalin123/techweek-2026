@@ -38,6 +38,38 @@ NEURAL is deliberately absent — see `decisions.md`. These are VOICE, TOUCH, VI
 | **XDOF** | TOUCH | Speaker | **Checked out on 2026-08-31, and it is the strongest TOUCH ask we have.** Real company, launched Oct 2024, out of stealth 2026-06-17 with **$70M from Thrive, Spark, a16z, Lux and WndrCo** (a16z participated, did not lead). Founders **Philipp Wu (CEO), Fred Shentu (CTO), Nemo Jin (COO)** are UC Berkeley researchers; Wu and Shentu built **GELLO**, a low-cost arm teleoperation rig. ~60 people, 20 customers including unnamed frontier labs. Open-sourcing **ABC-130K**, the largest open teleoperation dataset, with Berkeley, CMU, MIT and Amazon FAR. Teleoperation is literally hands-controlling-machines, which is the INTERFACE thesis. | verified |
 | **Chloe Duckworth, Valence Vibrations** | VOICE + TOUCH | Speaker | Emotion AI translated into haptic feedback — bridges two tracks. Founded the company out of a hackathon as a USC student. Very public-facing. | reported |
 
+### Added 2026-08-31 from `research/interface-a16z-portcos.md`
+
+A second a16z sweep, run after Fil declined to make introductions. **Read the provenance
+note at the top of that report before using any of this** — the run fabricated one company
+outright and got one partner attribution wrong, so every round and date below is `reported`
+and needs a primary source before it appears in an email.
+
+Ordered by how likely a cold email is to work, which mostly tracks whether they have run a
+hackathon before and whether a student can ship on their API in 24 hours.
+
+| Target | Track | Ask | Why | Confidence |
+|---|---|---|---|---|
+| **Replit** | OPEN | Sponsor + credits + judge | Best cold-outreach odds on this list. SF, a16z across multiple rounds to the $400M Series D, and a real sponsorship motion: the **$740K Shipaton** plus recurring AI Tinkerers SF events. Amjad Masad turns up at SF hackathons in person. Ask DevRel or the community manager, not the CEO. | reported |
+| **Black Forest Labs** | VISION | API credits + judge | FLUX creators. a16z **led the $31M seed in Aug 2024**, led the A, joined the $300M B. `FLUX.1 [pro]` is a plain API and `[dev]` is open-weight, so it works in 24 hours with no onboarding. They ran the **FLUX.1 Kontext hackathon** themselves (58 projects). Hiring hard after the B, so the recruiting frame lands. | reported |
+| **World Labs** | VISION | World API access + judge | Fei-Fei Li's spatial-intelligence company, a16z-backed with Martin Casado publicly involved. **World API** shipped Jan 2026 and generates persistent 3D scenes from text or an image. Sponsored the SIGGRAPH 2026 Worlds in Action Hackathon. **Already has a cold draft for MOLTEN (`mala@worldlabs.ai`) — coordinate, do not send two separate asks.** | reported |
+| **nunu.ai** | VISION | Agent framework + bounty | a16z **SPEEDRUN co-led the $6M seed, Mar 2025**. SF/Zurich. Multimodal agents that navigate 3D environments from natural language. Won Grand Champion at a Colosseum hackathon themselves, so they understand the format from the competitor side. Founders Jan Schnyder and Kyrill Hux are the door. | reported |
+| **Poe (Quora)** | OPEN | API access + bounty | a16z Growth led $75M, Jan 2024. `developer.poe.com` gets a bot live in minutes, which is the right friction for OPEN. They actively want developers on the aggregation layer. | reported |
+| **Mind Robotics** | TOUCH | Judge or speaker only | a16z co-led a **$500M Series A in Mar 2026**, Palo Alto. **No public API** — full-stack factory robots, nothing a student can build on overnight. So this is purely a recruiting-and-prestige ask through university recruiting. Do not name an a16z partner: the report's claim about who led it did not corroborate. | reported |
+| **Ethos** | VOICE | Mentor + judge | a16z led a $22.75M Series A, May 2026, SF. Voice agents that interview people to extract expertise. New enough to have no hackathon history, which cuts both ways: no motion to plug into, but high recruiting need. | reported |
+| **HappyRobot** | VOICE | Telephony API + judge | a16z led the $15.6M Series A and joined a $150M round at $1.2B. Voice agents for logistics, so real telephony infrastructure they could open for a weekend. | reported |
+
+Also surfaced and judged **too thin to email yet**: Prosper AI, Descript, Decagon, Lio,
+Physical Intelligence. Each is a16z-adjacent but either has no student-accessible API or no
+reason to care about a 120-person hackathon. Physical Intelligence is already covered inside
+the Sergey Levine draft, which is a better route than a cold email.
+
+**Struck: Interhaptics.** The report ranked it the #3 target overall and the TOUCH anchor on
+a claimed a16z-led $9M seed. **That round does not exist.** Razer acquired Interhaptics in
+July 2022 and the founder works there now. The SDK is real and free, so it stays a fine tool
+to point hackers at, but it is not a sponsor and not a16z. This is the reason nothing on this
+page moves to `verified` without a primary source.
+
 ### Infrastructure sponsors (both events)
 
 Horizontal developer tools rather than thematic partners. Pitched on reach, not
@@ -152,6 +184,12 @@ grant team cannot route us there, and the intro has to come from her.
   careers pages. It is the strongest signal for whether a sponsor ask lands, so it is worth
   checking [jobs.a16z.com](https://jobs.a16z.com/) before naming anyone.
 - **SLNG.ai** still could not be corroborated at all. Do not email it without checking.
+- **The 2026-08-31 INTERFACE portco report invented a funding round.** It claimed a16z led a
+  $9M seed into Interhaptics in 2024 and ranked the company third overall. Razer bought
+  Interhaptics in July 2022. Nothing was wrong with the company description, only with the
+  investor, which is exactly the fact a cold email would have led with. Two of roughly a
+  dozen a16z attributions in that report failed a spot check, so assume a similar rate
+  across the rest of it.
 - **The XDOF a16z claim held up.** Confirmed 2026-08-31 against TechCrunch and SiliconANGLE
   coverage of the 2026-06-17 launch. An earlier note in `outreach-drafts.md` said to treat
   XDOF as not real because the domain returned nothing — that inference was wrong. **A dead
