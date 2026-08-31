@@ -267,9 +267,12 @@ The MOLTEN application submitted to Tech Week describes these as "in confirmatio
 No outreach email exists for any of them, so treat that phrasing as aspirational.
 
 ### Snap (Snap AR)
-- **LA:** not contacted
-- **We want:** Snap Spectacles loaner units, described in the application as a
-  "Snap AR sponsorship"
+- **LA:** not contacted directly — **but a warm route opened 2026-08-31: Daniel Suh
+  floated Snap HQ Santa Monica as a MOLTEN venue option** in the "LA tech week event"
+  thread. If that lands it covers venue, Spectacles, and sponsorship in one relationship.
+- **We want:** venue (must survive the overnight, Fri morning to Sat afternoon), Snap
+  Spectacles loaner units, and ideally a judge
+- **Next step:** ask Daniel whether he has a contact at Snap or whether we go in cold
 
 ### USC ICT — MxR Lab
 - **LA:** not contacted
