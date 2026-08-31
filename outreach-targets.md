@@ -35,7 +35,7 @@ NEURAL is deliberately absent — see `decisions.md`. These are VOICE, TOUCH, VI
 | **Roboflow** | VISION | Sponsor + mentors | Pervasive at collegiate hackathons and sends people to mentor in person. Not a16z. Low prestige, high reliability. | reported |
 | **Hume AI** | VISION + VOICE | Sponsor + API credits | Has sponsored **Cal Hacks** specifically, so there is likely an existing Berkeley relationship to trace. | reported |
 | **Deepgram** | VOICE | API credits | Self-serve free tier, low-friction for a 24-hour build. | reported |
-| **XDOF** | TOUCH | Speaker | Robotics teleoperation, **founded by UC Berkeley PhD researchers**, reportedly a16z-backed at $70M. If it checks out, the Berkeley tie makes this the strongest TOUCH ask. | reported — verify first |
+| **XDOF** | TOUCH | Speaker | **Checked out on 2026-08-31, and it is the strongest TOUCH ask we have.** Real company, launched Oct 2024, out of stealth 2026-06-17 with **$70M from Thrive, Spark, a16z, Lux and WndrCo** (a16z participated, did not lead). Founders **Philipp Wu (CEO), Fred Shentu (CTO), Nemo Jin (COO)** are UC Berkeley researchers; Wu and Shentu built **GELLO**, a low-cost arm teleoperation rig. ~60 people, 20 customers including unnamed frontier labs. Open-sourcing **ABC-130K**, the largest open teleoperation dataset, with Berkeley, CMU, MIT and Amazon FAR. Teleoperation is literally hands-controlling-machines, which is the INTERFACE thesis. | verified |
 | **Chloe Duckworth, Valence Vibrations** | VOICE + TOUCH | Speaker | Emotion AI translated into haptic feedback — bridges two tracks. Founded the company out of a hackathon as a USC student. Very public-facing. | reported |
 
 ### Infrastructure sponsors (both events)
@@ -48,8 +48,17 @@ relevance, and asked for both events at once.
 | **Convex** | Sponsor + credits + mentors | Runs its own hackathon series (TanStack, Modern Stack, Resend), so the sponsorship motion already exists. Real technical fit for MOLTEN: shared spatial builds die on realtime sync around hour 18, which is the problem Convex removes. `wayne@convex.dev` (Community Manager) confirmed. | verified |
 | **MongoDB** | Sponsor + Atlas credits | Active SF hackathon sponsor, not a generic one: ran their own **SF Tech Week hackathon**, a Build Fest at MongoDB.local, and a residency program whose flagship partner is **AGI House**. AGI House is Alexa's venue, so ask her for the intro first. **Lead with INTERFACE.** Their current theme is the **agent harness** (post Aug 18 2026), they ran the Persistent Context Sprint at Build Fest on **Aug 13**, and **SF Tech Week Oct 5–11 appears unclaimed**. Ask is a **track requiring Vector Search plus automated Voyage embeddings**, not a logo, because students defaulting to pgvector is exactly where MongoDB is losing. Best door is `nina.lopatina@mongodb.com`, cc `chuck.freedman@mongodb.com`. | verified |
 
-**TOUCH is the weak track.** Only XDOF and Ultraleap surfaced and both need verification.
-If XDOF does not check out, consider Ultraleap for hardware rather than a speaker.
+**TOUCH is the weak track, but XDOF now anchors it.** XDOF is confirmed real and
+a16z-backed. The problem is reaching them: **Hunter finds no mail server and no addresses
+at `xdof.ai`, `xdof.com` or `xdof.io`**, so there is no cold address to write to.
+
+The route is Berkeley, not email. GELLO came out of Berkeley robotics, all three founders
+are Berkeley people, and Iana is a Berkeley EECS student. **Sergey Levine already has a
+draft** asking for a judge and an intro to Physical Intelligence — XDOF is the better
+addition to that same email. Public handles if a DM is easier: Philipp Wu is
+`@philippswu` on X and `linkedin.com/in/wuphilipp`, the company is `@xdofai`.
+
+Ultraleap remains the hardware fallback for the track.
 
 ---
 
@@ -142,8 +151,11 @@ grant team cannot route us there, and the intro has to come from her.
 - **Recruiting posture is mostly inferred from funding stage**, not confirmed against
   careers pages. It is the strongest signal for whether a sponsor ask lands, so it is worth
   checking [jobs.a16z.com](https://jobs.a16z.com/) before naming anyone.
-- Two names from the INTERFACE report could not be corroborated at all and should not be
-  emailed without checking: **SLNG.ai**, and the claim that **XDOF** is a16z-backed.
+- **SLNG.ai** still could not be corroborated at all. Do not email it without checking.
+- **The XDOF a16z claim held up.** Confirmed 2026-08-31 against TechCrunch and SiliconANGLE
+  coverage of the 2026-06-17 launch. An earlier note in `outreach-drafts.md` said to treat
+  XDOF as not real because the domain returned nothing — that inference was wrong. **A dead
+  Hunter lookup means we cannot reach them, not that they do not exist.**
 - Speedrun's current cohort SR007 demos Oct 6 and contains nothing spatial. If the grant
   team offers the current cohort, it is the wrong cohort — the spatial companies are
   SR001–SR004.

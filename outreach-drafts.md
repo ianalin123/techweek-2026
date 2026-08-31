@@ -354,9 +354,11 @@ any of these companies.
 | **Sesame AI** | `press@sesame.com` / `info@sesame.com` | **no individuals at all**, so the grant team route matters most here |
 | **Snap** | `nshah@snap.com` (Dir. Research), `russ@` (VP Comms) | still no DevRel or loaner contact, see below |
 
-**XDOF returned nothing at `xdof.ai`** — no mail server, no pattern, no addresses. That
-is a third strike against it (unconfirmed a16z claim, uncorroborated by two reports, and
-now no findable domain). Treat it as not real until proven otherwise.
+**XDOF is real and a16z-backed — the earlier "treat it as not real" call was wrong.**
+Corrected 2026-08-31. It launched publicly on 2026-06-17 with $70M from Thrive, Spark,
+a16z, Lux and WndrCo. What is true is that it is unreachable by cold email: Hunter finds
+no mail server or addresses at `xdof.ai`, `xdof.com` or `xdof.io`. Route through Berkeley
+robotics instead, or DM Philipp Wu (`@philippswu`). See `outreach-targets.md`.
 
 ## Corrections to the target list
 
