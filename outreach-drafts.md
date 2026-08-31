@@ -33,6 +33,20 @@ Fri–Sat **Oct 16–17** on 2026-08-28.
 | `hello@hume.ai` | — | **DO NOT SEND** | Superseded. Going to Andrew Ettinger via LinkedIn | 08-20 |
 | `info@sesame.com` | Sissi | speaking at an interfaces hackathon in sf, october 10 to 11 | Keynote, open the Saturday. Cold to the generic inbox with a route-me line, since Hunter finds no individuals and Fil declined intros. Adapted from section 12 below, whose grant-team routing note is stale | 08-31 |
 | `nancy@brightdata.com` | Sissi | interface at the web data loft, materials + track vision | Post-call follow-up: Partiful link, no-overnight format (Sat 9am–11pm, Sun demos), per-track Web MCP vision, presenting-sponsor-for-venue trade. Her team evals tomorrow morning, so **send tonight**. Full proposal: `events/sf/one-pagers/brightdata-proposal.md` | 08-31 |
+| `jeff@replit.com` | Sissi | replit credits for a student hackathon at sf tech week | Credits for the room + OPEN judge, Amjad invited to the Sunday expo. Shipaton + AI Tinkerers hook. VP BizDev (targets file says not the CEO; Hunter found no DevRel address). accept_all domain, valid 81 | 08-31 |
+| `sarah@blackforestlabs.ai` | Sissi | flux credits for a vision track at sf tech week | FLUX API credits + VISION judge. Kontext-hackathon (58 projects) + hiring hook. Chief of Staff, valid 98 | 08-31 |
+| `kyrill@nunu.ai` | Sissi | nunu agents in a vision track at sf tech week | Framework access + bounty + judge for VISION. They won Grand Champion at a Colosseum hackathon themselves. Kyrill Hux, co-founder, valid 82. Hunter shows `nicolas@` not the reported "Jan Schnyder" as the other founder | 08-31 |
+| `developers@poe.com` | Sissi | poe api for an open track at sf tech week | API credits + bounty for OPEN. Bot-live-in-minutes friction hook. Generic dev inbox, valid 85 | 08-31 |
+| `mimi@mindrobotics.com` | Sissi | a room of 120 student builders at sf tech week | Judge or speaker ONLY for TOUCH, recruiting-prestige frame, explicitly no money or product ask. No a16z partner named per targets file. Mimi Han, Talent Acquisition, valid 98 | 08-31 |
+| `james@askethos.com` | Sissi | ethos and a voice track at sf tech week | Mentor + VOICE judge. Voice-agents-that-interview hook + early-talent frame. James Lo, co-founder; domain is `askethos.com`, valid 84 | 08-31 |
+| `quili@happyrobot.ai` | Sissi | happyrobot telephony in a voice track at sf tech week | Telephony API for the weekend + VOICE judge. Real-phone-lines hook. Dir Strategy & Ops. accept_all domain, 84 | 08-31 |
+| `adam@cursor.com` | Sissi | judging a student hackathon at sf tech week | Judge only, no sponsorship pitch. Room-already-builds-in-Cursor hook, Sunday times inline. Cofounder, from the Addresses table | 08-31 |
+| `emy@emotiv.com` | Sissi | Partnering with the next generation of neuro-innovators \| NeuroTech @ Berkeley Hackathon | EEG headsets, mentorship, or funding. **Iana's own template, near verbatim**, dates fixed April 4-5 → Oct 10-11 and 48h → 24h. VP of Partnership Operations, valid 96. Covers the Emotiv loaner Linear issue; MOLTEN not mentioned yet, decide before send | 08-31 |
+
+All nine 08-31 portco/Emotiv rows above use Iana's remixed template voice (hook question,
+fandom line, "not just a logo on a banner" recruiting frame, warm close, signed "Iana and
+Sissi, INTERFACE · a16z SF Tech Week"). World Labs deliberately absent: the `mala@` MOLTEN
+draft covers them, do not send two separate asks.
 
 ### MOLTEN, Los Angeles, Oct 16–17
 
