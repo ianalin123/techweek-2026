@@ -48,10 +48,14 @@ Fri–Sat **Oct 16–17** on 2026-08-28.
 | `sam@rokoko.com` | `jakob@rokoko.com` | borrowing smartsuits for a spatial hackathon in la | 2 to 4 Smartsuits on loan | 08-28 |
 | `asim@nianticspatial.com` | — | judging a spatial hackathon in la | Judge + NSDK access for NAVIGATE | 08-28 |
 | `startups@roboflow.com` | — | roboflow for a capture track in la | Credits pool + mentor for CAPTURE | 08-19, rewritten 08-28 |
-| `support@lumalabs.ai` | — | luma for a worldbuild track in la | Credits pool + judge for WORLDBUILD | 08-19, rewritten 08-28 |
+| `adriantovalin@lumalabs.ai` | — | luma for a worldbuild track in la | Credits pool + judge, and asks whether Amit would speak. **Repointed 08-31 from `support@` to the named ops director** | 08-19, rewritten 08-31 |
 | `developer@xreal.com` | — | xreal loaners for a spatial hackathon in la | Glasses loaners + judge | 08-19, rewritten 08-28 |
 | `bobak@brilliant.xyz` | — | frame loaners for a spatial hackathon in la | Frame loaners + mentor | 08-19, rewritten 08-28 |
-| `api@worldlabs.ai` | — | quick question about Marble and the World API | API access for WORLDBUILD | 08-14 |
+| `api@worldlabs.ai` | — | quick question about Marble and the World API | **Superseded by the `mala@` draft below. Do not send both** | 08-14 |
+| `mala@worldlabs.ai` | — | world labs for a worldbuild track in la, october 16 to 17 | World API credits pool + a judge. Cold, after Fil declined intros | 08-31 |
+| `steve.sullivan@arcturus.studio` | — | holosuite in front of 120 student builders in la | HoloSuite access + a mentor or judge for CAPTURE. Argues the mentor matters more than the software | 08-31 |
+| `hello@yellow3d.com` | — | yellowsculpt for an inhabit track in la, october 16 to 17 | YellowSculpt access + Mandeep or Vincent Sitzmann as speaker. Hook is that rigging is what kills character work in 24 hours | 08-31 |
+| `kylan@inworld.ai` | — | inworld for an inhabit track in la, october 16 to 17 | Credits pool, or a prize contribution if that is an easier yes. Opens on their Unreal Jam LA prize-pool money | 08-31 |
 
 ### Both events in one email
 
@@ -94,21 +98,25 @@ Two drafts were trashed as duplicate approaches to the same person.
   MOD Tech Labs (`alex@modtechlabs.com`) and Volinga (`frivas@volinga.ai`) both verify and
   both funded Unreal Jam LA's prize pool, so they are the first cash asks once a number
   exists. The MongoDB and Spline drafts both promise a breakdown that does not exist yet.
-- **Partiful still shows the old MOLTEN dates**, as does the approved application. Both
-  need fixing before the September 8 calendar launch.
+- **Partiful still shows the old MOLTEN dates.** Fil approved the move to Oct 16–17 on
+  2026-08-31 **on the condition that Partiful is updated to match**, so this is now an
+  outstanding grant condition, not just tidiness. Do it before September 8.
 - **Epic has no reachable address.** Fermata and CG Pro do not resolve. Routes are USC to
   reach Cameron Kostopoulos, or the LA chapter meetup.
 - **The seven venue emails in `events/la/venue-outreach.md` are written but not drafted**
   in Gmail.
-- **The INTERFACE portfolio-company ask is owed.** The Fil reply now covers MOLTEN only,
-  by choice, and promises a separate email. ElevenLabs, Sesame and Cursor were the three
-  named before they were pulled out, and are the natural contents of that email.
-- **Four of the six names in the Fil reply are `reported`, not verified**, as a16z
-  portfolio companies: Arcturus, Yellow, Inworld and Space. The email says so and asks
-  him to skip any that are wrong. Worth confirming against `jobs.a16z.com` regardless.
-  Separately, `outreach-targets.md` says Polycam is **not** a16z-backed while
-  `research/molten-3d-generation.md` lists a16z among its investors. Unresolved, which
-  is why Polycam is not in the email.
+- **The INTERFACE portfolio companies still have no drafts.** MOLTEN's five were drafted
+  cold on 08-31. ElevenLabs, Sesame and Cursor are the INTERFACE equivalents and are the
+  obvious next batch, now that cold email is the only route.
+- **Two World Labs drafts exist.** `api@worldlabs.ai` from 08-14 and `mala@worldlabs.ai`
+  from 08-31. Send one. The `mala@` version is the better email and goes to a named COO.
+- **Yellow has no named contact.** Hunter finds no pattern and no individuals at
+  `yellow3d.com`, only `hello@` and `pr@`, both valid. Mandeep Waraich could not be
+  resolved to an address, so that draft opens "Hi team" and asks to be redirected.
+- **Arcturus, Yellow and Inworld are still `reported`, not verified,** as a16z portfolio
+  companies. It matters less now that these are cold emails and none of them claim the
+  a16z tie. Also unresolved: `outreach-targets.md` says Polycam is **not** a16z-backed
+  while `research/molten-3d-generation.md` lists a16z among its investors.
 
 ## Infrastructure sponsors, a different pitch
 
@@ -322,8 +330,9 @@ mail server we can query, so the sign-up form or Larry Rosenthal remain the rout
 
 ### Companies
 
-Pick the person, not the generic inbox. a16z portfolio companies should still go through
-Fil first, so these are the fallback if the grant route stalls.
+Pick the person, not the generic inbox. **These are the route, not a fallback** — Fil
+declined to make portfolio introductions on 2026-08-31, so there is no grant-team path to
+any of these companies.
 
 | Company | Best contact | Why that person |
 |---|---|---|
@@ -368,42 +377,27 @@ Creative Producer, so both names in the application are still current.
 
 # Send first
 
-## 1. The grant team reply (Fil)
+## 1. The grant team reply (Fil) — SENT and ANSWERED
 
-This one is not optional and it is overdue. Fil asked for a reply once the Partiful page
-existed. Both pages are live. This is also the only route to a16z portfolio companies,
-so every portco ask below is blocked behind it.
+**Sent 2026-08-29. Fil replied 2026-08-31.** This is the only sent email in the whole
+file. Iana sent her own version, which asked three hosting questions and named five
+MOLTEN portfolio companies. His four answers, which are now binding:
 
-**To:** Fil (the a16z Tech Week grant thread)
-**Subject:** re: Tech Week grant, both events are live
+- **Date change to October 16–17 is approved.** The only condition is that Partiful
+  reflects it.
+- **Grant requirements:** 80%+ of attendees must be technical students. Keep receipts,
+  reimbursement is processed after the event. Minor detail changes are fine as long as the
+  event still meets the requirements.
+- **Partiful is the only approved registration platform.** All RSVPs must be collected
+  there. Other tools are fine for organizing internally, but **attendees must not be
+  directed to register on Luma or anywhere else.** This is a grant condition, and it kills
+  the plan to run sign-ups through Luma in parallel.
+- **No portfolio introductions.** The Tech Week team is small and at capacity and will not
+  broker intros for individual events. He encouraged cold outreach instead and said
+  **naming Tech Week in the email helps get replies.**
 
-> Hi Fil,
->
-> Both events are live on Partiful and submitted to the calendar.
->
-> INTERFACE: Hack the Space Between, San Francisco, October 10 to 11.
-> https://partiful.com/e/AkfcAYRQeMprRyPklVKe
->
-> MOLTEN, a 24 hour hackathon for spatial creation, Los Angeles, October 16 to 17.
-> https://partiful.com/e/AgP5K9z8FR9TTWVMJIVC
->
-> One ask while I have you. We would love to have a portfolio company speak or judge at
-> either one, and a few look like clean fits:
->
-> For INTERFACE, ElevenLabs (they co-hosted a worldwide hackathon with a16z across seven
-> cities), Sesame AI, Luma AI, and Cursor.
->
-> For MOLTEN, World Labs and Luma AI, plus the spatial companies from Speedrun SR001 to
-> SR004. I checked and the current SR007 cohort does not have anything spatial in it, so
-> the earlier cohorts are the right place to look.
->
-> Happy to take any of these as a speaker, a judge, or a sponsor, whichever is easiest on
-> your side. Thanks so much!
->
-> Iana
-
-**Why it names companies:** the grant team routes better when the ask is specific. A
-generic "can we have a speaker" is easy to deprioritize.
+**The consequence:** every portco ask in this file is now a direct cold email, and the
+five MOLTEN companies Iana named to Fil were drafted cold on 2026-08-31. See the register.
 
 ## 2. USC ICT Mixed Reality Lab
 

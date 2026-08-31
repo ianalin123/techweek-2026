@@ -57,10 +57,14 @@ From Fil's two approval emails. Identical terms on both events.
 
 - **Reimbursement, not upfront cash.** Pay for the event yourself, submit receipts to
   the Tech Week finance team. Up to $5K each.
-- **Partiful only**, created via `partiful.com/create?techweek=true`. Events may not be
-  listed on other platforms. Both pages are live. Fil asked for a reply once the page
-  existed and the event was submitted — **that reply has not been sent**, and it is the
-  natural place to ask the grant team for a portfolio company speaker.
+- **Partiful only**, created via `partiful.com/create?techweek=true`. Both pages are live.
+  Fil confirmed on 2026-08-31 that **Partiful is the only approved registration platform
+  and all RSVPs must be collected there.** Other tools are fine for organizing internally,
+  but attendees may not be directed to register on Luma or anywhere else. This is a grant
+  condition, so the idea of running parallel Luma sign-ups is dead.
+- **The grant team does not make portfolio introductions.** Fil declined on 2026-08-31 —
+  the team is small and at capacity. He encouraged cold outreach and noted that naming
+  Tech Week in the email helps get replies. There is no warm a16z route.
 - **Calendar launches Sept 8.** Post about the event on LinkedIn and X that day.
   Instagram, Snap, and newsletters encouraged. Handles: X `@techweek_`, LinkedIn
   "Tech Week by a16z", Instagram `@techweeka16z`.
@@ -136,10 +140,9 @@ Files not yet created because they have no content: `budget.md` and per-event
   the one-pager and still not cover the event. The INTERFACE one-pager has the opposite
   and correct shape: the ask is wider than the event.
 - **The MOLTEN date change is not yet reflected on Partiful.** The page still shows
-  Oct 17–18, as does the approved application. Both need updating before the September 8
-  calendar launch, and Fil should be told.
-- **The reply to Fil has not been sent** on either event, even though both Partiful
-  pages are live. It asks for named portfolio companies as speakers or judges.
+  Oct 17–18. **Fil approved the move to Oct 16–17 on 2026-08-31 on the single condition
+  that Partiful is updated to match**, so this is now the one outstanding grant condition
+  and it has to be done before the September 8 calendar launch.
 - **INTERFACE was submitted 5 days after the stated deadline.** Fil's emails set
   Friday 2026-08-21 for Partiful and submission. MOLTEN made it. INTERFACE went in on
   2026-08-26 and is still in review — Tracy said 2–3 business days, up to a week around

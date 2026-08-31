@@ -7,9 +7,11 @@ the 3D generation landscape, and the LA ecosystem. This page is the distilled as
 The actual email text, plus which addresses are verified, is in `outreach-drafts.md`.
 
 **How to use it.** Alexa's advice was to lock a speaker before scaling sponsor outreach.
-For a16z portfolio companies, route the ask through the Tech Week grant team rather than
-cold email — the ask converts better when it names companies. Everything else is a direct
-approach.
+**The grant team does not make portfolio introductions.** Fil answered this directly on
+2026-08-31: the Tech Week team is small and at capacity and will not broker intros for
+individual events. He explicitly encouraged cold outreach instead, and said **naming Tech
+Week in the email helps get replies**. So every ask on this page is a direct approach, and
+a16z backing is a talking point rather than a routing decision.
 
 **Confidence.** Marked per row. `verified` means confirmed against a primary source.
 `reported` means a research report asserted it and it was not independently confirmed.
