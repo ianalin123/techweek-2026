@@ -129,31 +129,35 @@ of hundreds of applications". If any of these are true, they can go back in.
 
 Sourced from `research/molten-judges-speakers-2026-08-31.md`, every hook re-verified by
 four research agents before drafting. All cc Sissi, speaker-first for the big names with
-judging as the fallback ask. Subjects were retitled to the unified capitalized format on
-08-31 evening PT (professors get "Invitation to Judge/Speak at MOLTEN, a Student
-Hackathon at LA Tech Week"; industry names get the pipe pattern). Two went out before the
-retitle: Burke (sent 08-31 ~17:27 PT) and Crowder (sent 08-31 ~17:30 PT) — a second
-session was actively sending from this wave while the retitle ran, so verify a row's
-draft still exists before editing it.
+judging as the fallback ask.
+
+**Subject history, 08-31 evening:** subjects were first retitled to a unified pipe/
+"Invitation to..." template by one session, then Iana said the templated subjects were
+too generic, so at ~17:35 PT they were retitled again to hook-specific lines. The
+subjects below are the live ones. **Do not re-template them.** Two sends and Iana's own
+edits happened mid-retitle, so verify a row's draft still exists before editing it.
+
+**Holds, per Iana 08-31:** the academic speaker drafts (de la Peña, McCarthy, Reas) are
+drafted but HELD until the big-company speaker wave lands. Judge asks are not held.
 
 | To | Cc | Subject | The ask | Drafted |
 |---|---|---|---|---|
-| `debevec@gmail.com` | Sissi | Judging the CAPTURE Track \| MOLTEN @ LA Tech Week | Saturday-afternoon judging only, sized around his VIEW Turin trip Oct 12 to 16. CAPTURE frame, USC ICT already engaged. Address published on pauldebevec.com | 08-31 |
-| `zhao@ict.usc.edu` | Sissi | Invitation to Judge MOLTEN, a Student Hackathon at LA Tech Week | Judge, PhD-pipeline recruiting frame. Vision & Graphics Lab, deliberately separate from the MxR thread (different ICT lab) | 08-31 |
-| `nikola.todorovic@autodesk.com` | Sissi | Speaker Invitation \| MOLTEN @ LA Tech Week | Speaker first, judge fallback. "Co-founder of Wonder Dynamics, now Autodesk"; product named Flow Studio, not Wonder Studio (rebranded) | 08-31 |
-| `vahe.karamian@noorcon.com` | Sissi | Judging Invitation \| MOLTEN @ LA Tech Week | Judge + VRARA LA co-promotion, personal ask first. NucleusXR-at-AWE hook, CSUN students invited | 08-31 |
+| `debevec@gmail.com` | Sissi | 30 Spatial Demos Built in 24 Hours Need a Judge, October 17 | Saturday-afternoon judging only, sized around his VIEW Turin trip Oct 12 to 16. CAPTURE frame, USC ICT already engaged. Address published on pauldebevec.com | 08-31 |
+| `zhao@ict.usc.edu` | Sissi | Your Next PhD Applicants Will Be at MOLTEN, October 17 | Judge, PhD-pipeline recruiting frame. Vision & Graphics Lab, deliberately separate from the MxR thread (different ICT lab) | 08-31 |
+| `nikola.todorovic@autodesk.com` | Sissi | 120 Students Trying to Democratize 3D Creation, October 16 | Speaker first, judge fallback. "Co-founder of Wonder Dynamics, now Autodesk"; product named Flow Studio, not Wonder Studio (rebranded) | 08-31 |
+| `vahe.karamian@noorcon.com` | Sissi | A Judge Seat for You, a Community Partner Invite for VRARA LA | Judge + VRARA LA co-promotion, personal ask first. NucleusXR-at-AWE hook, CSUN students invited | 08-31 |
 | **no recipient** (LinkedIn DM) | Sissi | For LinkedIn DM: Cameron Kostopoulos, judging MOLTEN | Judge or mentor, peer tone, Body of Mine hook, plus the Epic DevRel and LA Unreal chapter pointer. Fermata domain has no email, DM via /in/ckostopo | 08-31 |
-| `mgotsis@cinema.usc.edu` | Sissi | Invitation to Judge MOLTEN, a Student Hackathon at LA Tech Week | Judge for INHABIT. 20 years mentoring award-winning student games. Exact title: Professor of the Practice of Cinematic Arts | 08-31 |
-| `jules@otoy.com` | Sissi | Speaker Invitation \| MOLTEN @ LA Tech Week | Friday talk for WORLDBUILD, judging fallback. RenderCon AI-in-the-render-pipeline hook | 08-31 |
-| `jason.yim@triggerxr.com` | Sissi | Judging Invitation \| MOLTEN @ LA Tech Week | Judge or short Friday talk, hedged "if you are in LA that week" (his time splits LA/Honolulu). Samsung Android XR partner hook | 08-31 |
-| `sfisher@cinema.usc.edu` | Sissi | Invitation to Speak at MOLTEN, a Student Hackathon at LA Tech Week | 20-minute Friday opener, NASA Ames to now. Immersive Synthetic Memories hook (Gaussian-splat memory environments with his Spatial Imaging for XR students). Hunter valid 100 | 08-31 |
-| `nonny.delapena@asu.edu` | Sissi | Invitation to Speak at MOLTEN, a Student Hackathon at LA Tech Week | Friday talk or capture masterclass, NEM students invited. Eaton/Palisades four-camera Gaussian-splat rig hook, credited to her team. Slot offered flexibly (possible Oct Creators Lab repeat). ASU domain accept_all 73, LinkedIn is the backup route | 08-31 |
-| `ashley@vntana.com` | Sissi | Speaking or judging at an a16z Tech Week Hackathon | **SENT 08-31 ~17:30 PT** (went out before the subject retitle, with a garbled sentence: "an official a16z LA Tech Week and funded by"). Original ask notes:  Her pick of Friday talk or Saturday judge. AWE 2025 Sony booth + ConnectedIn3D ep 26 hooks. **No funding mention, the Dec 2025 "Series A" is murky.** Hunter valid 100 | 08-31 |
+| `mgotsis@cinema.usc.edu` | Sissi | One More Batch of Student Projects Worth Judging, October 17 | Judge for INHABIT. 20 years mentoring award-winning student games. Exact title: Professor of the Practice of Cinematic Arts | 08-31 |
+| `jules@otoy.com` | Sissi | What You Showed at RenderCon, in Front of 120 Student Builders | Friday talk for WORLDBUILD, judging fallback. RenderCon AI-in-the-render-pipeline hook | 08-31 |
+| `jason.yim@triggerxr.com` | Sissi | Android XR Is Coming and 120 Students Want to Build for It | Judge or short Friday talk, hedged "if you are in LA that week" (his time splits LA/Honolulu). Samsung Android XR partner hook | 08-31 |
+| `sfisher@cinema.usc.edu` | Sissi | — | **DRAFT LOST during the 08-31 reconciliation, no draft exists in Gmail.** Was: 20-minute Friday opener, NASA Ames to now, Immersive Synthetic Memories hook (Gaussian-splat memory environments with his Spatial Imaging for XR students). Hunter valid 100. Academic, so HELD anyway; recreate from session context when the hold lifts | 08-31, lost 08-31 |
+| `nonny.delapena@asu.edu` | Sissi | Your Team's Fire Capture Work, in Front of 120 Student Builders | **HELD (academic).** Friday talk or capture masterclass, NEM students invited. Eaton/Palisades four-camera Gaussian-splat rig hook, credited to her team. Slot offered flexibly (possible Oct Creators Lab repeat). ASU domain accept_all 73, LinkedIn is the backup route | 08-31 |
+| `ashley@vntana.com` | Sissi | Speaking or judging at an a16z Tech Week Hackathon | **SENT by Iana 08-31 ~17:30 PT** with her own subject, before the hook-specific retitle, with a garbled sentence: "an official a16z LA Tech Week and funded by". Ask was her pick of Friday talk or Saturday judge. AWE 2025 Sony booth + ConnectedIn3D ep 26 hooks. No funding mention (the Dec 2025 "Series A" is murky). Hunter valid 100 | 08-31, sent 08-31 |
 | **no recipient** (LinkedIn DM) | Sissi | For LinkedIn DM: Pinar Seyhan Demirdag, speaking at MOLTEN | Friday talk or WORLDBUILD workshop framed as a first student showcase for EVRN after its Sept launch. **EVRN framing, not Cuebric (stale). They/them, second person only.** No email exists, DM via /in/pinar-demirdag | 08-31 |
-| `studio.laurenleemccarthy@gmail.com` | Sissi | Invitation to Speak at MOLTEN, a Student Hackathon at LA Tech Week | Friday talk on who creation tools serve. p5.js + Sozo Fellowship + Becoming Auto hooks. **`lmccarthy@arts.ucla.edu` is DEAD (Hunter 0); this studio gmail is her published address, valid 91** | 08-31 |
-| `reas@arts.ucla.edu` | Sissi | Invitation to Speak at MOLTEN, a Student Hackathon at LA Tech Week | Friday talk, software-as-medium frame. Continuum-at-bitforms-Wilshire hook. Hunter valid 90. **Same lab as McCarthy (they co-direct); consider staggering the two so it does not read as a sweep** | 08-31 |
-| `jeffburke@tft.ucla.edu` | Sissi | Speaking at a spatial hackathon in LA, October 16 | **SENT 08-31 ~17:27 PT** (went out before the subject retitle; a duplicate draft created during reconciliation was trashed). Original ask notes:  Friday talk on Xanadu (live audience gestures into Unreal via gen AI, May 2025) or Saturday judge. NeurIPS 2025 ritual-intermediary paper hook. Hunter valid 100 | 08-31 |
-| `cfink@chapman.edu` | Sissi | Speaker Invitation \| MOLTEN @ LA Tech Week | Friday talk or Saturday judge, light podcast-material angle. AI XR Podcast (NOT "This Week in XR", rebranded) ep-300 + Brelyon episode hooks; says "Chapman and ASU". **chapman.edu is accept_all 83; his charliefink.com contact form is the safer route if this bounces** | 08-31 |
+| `studio.laurenleemccarthy@gmail.com` | Sissi | A Room That Learned to Code on p5.js, October 16 | **HELD (academic).** Friday talk on who creation tools serve. p5.js + Sozo Fellowship + Becoming Auto hooks. **`lmccarthy@arts.ucla.edu` is DEAD (Hunter 0); this studio gmail is her published address, valid 91** | 08-31 |
+| `reas@arts.ucla.edu` | Sissi | What Processing Teaches a Spatial Creation Hackathon | **HELD (academic).** Friday talk, software-as-medium frame. Continuum-at-bitforms-Wilshire hook. Hunter valid 90. **Same lab as McCarthy (they co-direct); consider staggering the two so it does not read as a sweep** | 08-31 |
+| `jeffburke@tft.ucla.edu` | Sissi | Speaking at a spatial hackathon in LA, October 16 | **SENT by Iana 08-31 ~17:27 PT** before the hook-specific retitle; a duplicate draft created during reconciliation was trashed. Ask was Friday talk on Xanadu (live audience gestures into Unreal via gen AI, May 2025) or Saturday judge. NeurIPS 2025 ritual-intermediary paper hook. Hunter valid 100 | 08-31, sent 08-31 |
+| `cfink@chapman.edu` | Sissi | 30 Spatial Demos in 24 Hours, Possibly Podcast Material | Friday talk or Saturday judge, light podcast-material angle. AI XR Podcast (NOT "This Week in XR", rebranded) ep-300 + Brelyon episode hooks; says "Chapman and ASU". **chapman.edu is accept_all 83; his charliefink.com contact form is the safer route if this bounces** | 08-31 |
 
 **Deliberately not drafted:** Hao Li (MBZUAI time-split + Pinscreen litigation history,
 Iana's call whether to invite), Jessica Brillhart (only via the existing MxR thread, no
