@@ -148,17 +148,16 @@ the Fink, de la Peña, and Reas drafts were found deleted (same reconciliation f
 that ate Fisher's) — all four were recreated from session context with the subjects
 below, so their Gmail draft IDs are new.
 
-**Body pass, 08-31 ~18:20 PT (SUPERSEDES the 18:10 body format, pending Iana's
-arbitration):** in a parallel session Iana said the intro-first drafts read formulaic
-and asked for her coffee-hook template as the opener instead. All 12 open drafts in
-this wave were rewritten hook-first: LA-variant hook question ("120+ of USC, UCLA,
-Caltech and ArtCenter's most creative builders unlimited coffee and 24 hours to
-reinvent spatial creation"), then "We're Iana and Sissi, and we're hosting MOLTEN on
-October 16-17", then the personalized fandom paragraph and ask, closing "Warm regards,
-Iana and Sissi / MOLTEN · a16z LA Tech Week". Hook-specific subjects were kept (four
-were briefly re-templated during the pass and restored). The two body formats conflict;
-the big-company wave below is still on the 18:10 intro-first template. Iana to pick one
-before anything sends.
+**Body format, RESOLVED by Iana 08-31 ~18:45 PT: hook-first wins.** She arbitrated
+the 18:10-vs-18:20 conflict with "hook first". The canonical body for all MOLTEN
+judge/speaker/professor drafts: greeting, then the LA-variant hook question ("120+ of
+USC, UCLA, Caltech and ArtCenter's most creative builders unlimited coffee and 24 hours
+to reinvent spatial creation"), then "We're Iana and Sissi, and we're hosting MOLTEN on
+October 16-17, an official a16z LA Tech Week hackathon" (bolded/underlined phrase kept),
+then the personalized fandom paragraph and ask, closing "Warm regards, / Iana and Sissi
+/ MOLTEN · a16z LA Tech Week". All 12 drafts in this wave plus the 5 big-company drafts
+below were converted hook-first. Hook-specific subjects untouched. The 18:10 intro-first
+template ("I'm Iana, an EECS student...") is retired.
 
 | To | Cc | Subject | The ask | Drafted |
 |---|---|---|---|---|
@@ -190,12 +189,10 @@ still run).
 
 Sourced from `research/molten-sponsor-speakers-2026-08-31.md`. Combined asks: a Friday
 speaker slot plus track backing, so the sponsor and speaker conversations travel in one
-email. All use Iana's final template, set 08-31 ~17:50 PT: her opening paragraph with
-"**official a16z LA Tech Week**" bolded and underlined, then "It is funded by an a16z
-Tech Week grant and will be promoted on the official Tech Week calendar", closing
-"Thanks so much in advance, / Iana Lin / MOLTEN". The Trigger XR (Yim) draft was
-hand-edited by Iana to this opening and then cleaned (stray "be" and a bold overrun
-fixed); its row above still describes the ask.
+email. Converted to the hook-first format 08-31 ~18:50 PT per Iana's "hook first"
+ruling (see the resolved note above); "official a16z LA Tech Week" stays bolded and
+underlined inside the intro sentence. The Trigger XR (Yim) draft's row above still
+describes the ask.
 
 | To | Cc | Subject | The ask | Drafted |
 |---|---|---|---|---|
@@ -213,7 +210,8 @@ Intel Aug 2024.**
 #### Big-company speaker wave, drafted 2026-08-31 late evening
 
 Sourced from `research/molten-bigco-speakers-2026-08-31.md`. Speaker-first per Iana's
-industry-over-academia direction; all on her final template.
+industry-over-academia direction; converted to the hook-first format 08-31 ~18:50 PT
+per her "hook first" ruling.
 
 | To | Cc | Subject | The ask | Drafted |
 |---|---|---|---|---|
