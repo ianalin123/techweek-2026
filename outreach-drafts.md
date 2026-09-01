@@ -207,6 +207,32 @@ research; the real AMD route is the Unreal Jam LA organizers Matthew Hayden and 
 Cooper, already the register's plan). **Never cite Nicolas Thibieroz as AMD, he left for
 Intel Aug 2024.**
 
+#### Sponsor wave in Sissi's template, drafted 2026-09-01
+
+Mirrors Sissi's 09-01 INTERFACE sponsor emails exactly (coffee hook with the product
+inserted, "We're dying to find out.", Berkeley-students + student-grant credential,
+one product paragraph on what students do under time pressure, the in-return exposure
+offer now extended with the one-pager's judging seat / private walkthrough / four named
+tracks / Oct 9 lock, quick-chat CTA + cal.com/iana-lin/15min, personalized thank-you).
+Voice flipped to "I'm Iana. My co-organizer Sissi..." since these send from Iana's
+account. **The bodies say "one-pager is attached" but the Gmail API route cannot carry
+the 1.5MB PDF: drag `~/Downloads/MOLTEN.pdf` into each draft before sending.**
+
+| To | Cc | Subject | The ask | Drafted |
+|---|---|---|---|---|
+| `alex@modtechlabs.com` | Sissi | Berkeley students asking MOD to back a capture prize: official a16z LA Tech Week hackathon, Oct 16-17 | CAPTURE track prize (they funded Unreal Jam LA's prize pool Aug 2026). Alex Porter, CEO. Hunter valid 99 | 09-01 |
+| `frivas@volinga.ai` | Sissi | Berkeley students asking for Volinga access: official a16z LA Tech Week hackathon, Oct 16-17 | Weekend access + CAPTURE prize (also an Unreal Jam LA sponsor). Fernando Rivas-Manzaneque, CEO. Hunter 99 | 09-01 |
+| `tino@move.ai` | Sissi | Berkeley students asking for Move credits: official a16z LA Tech Week hackathon, Oct 16-17 | Markerless mocap access for CAPTURE + INHABIT. Tino Millar, CEO. Hunter valid 98 | 09-01 |
+| `ethan@meshy.ai` | Sissi | Berkeley students asking for Meshy credits: official a16z LA Tech Week hackathon, Oct 16-17 | Credits + WORLDBUILD prize. Blender Dev Fund Silver sponsor cited as proof they write ecosystem checks. Ethan Hu, CEO. Hunter valid 100 (verified 09-01) | 09-01 |
+| `gtrueba@womp.com` | Sissi | Berkeley students asking for Womp codes: official a16z LA Tech Week hackathon, Oct 16-17 | License codes for the design/film half of the room. Gabriela Trueba, CEO. Hunter 83 | 09-01 |
+
+**Dropped from this wave:** Tripo (call booked with them 09-01 6:30pm, conversation is
+live, no cold outreach); Uthana (`henry@uthana.com` verified **invalid** 0 on 09-01,
+replacement contact being researched); Foundry (generic education@ inbox, off-theme,
+bench only). Polycam, Hyper3D/Rodin, Maxon plus moonshot names (Amazon MGM Stage 15,
+WBD virtual production, Google LA spatial, Qualcomm XR, Roblox education) are in a
+contact-research pass, second batch to follow.
+
 #### Big-company speaker wave, drafted 2026-08-31 late evening
 
 Sourced from `research/molten-bigco-speakers-2026-08-31.md`. Speaker-first per Iana's
