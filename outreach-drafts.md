@@ -5,7 +5,7 @@
 ## The register
 
 Every Tech Week draft in Iana's Gmail, reconciled against the live mailbox on
-2026-08-28. 31 drafts. If it is not in this table it does not exist.
+2026-08-28 and again on 2026-08-31. If it is not in this table it does not exist.
 
 Dates below are the corrected ones: INTERFACE is Sat–Sun **Oct 10–11**, MOLTEN moved to
 Fri–Sat **Oct 16–17** on 2026-08-28.
@@ -15,75 +15,118 @@ Fri–Sat **Oct 16–17** on 2026-08-28.
 | To | Cc | Subject | The ask | Drafted |
 |---|---|---|---|---|
 | `fil@tech-week.com` | `mchin@a16z.com` | Re: Your Tech Week 2026 event grant is approved! | Intros to six **named** portfolio companies, **MOLTEN only**: World Labs, Luma, Arcturus, Yellow, Inworld, Space. Points at Speedrun SR001–SR004, not the current cohort. States the MOLTEN date change. INTERFACE asks deferred to a later email | 08-19, rewritten 08-28 |
+| `fil@tech-week.com` | `mchin@a16z.com`, Sissi | Re: Your Tech Week 2026 event grant is approved! | **Second touch**, draft `r-1799634589354664404`, threaded reply. Confirms his conditions: MOLTEN Partiful now shows Oct 16–17, **Partiful is the only registration platform** (no Luma or anything else), receipts kept, 80%+ technical student audience holds | 08-31 |
 
 ### INTERFACE, San Francisco, Oct 10–11
 
 | To | Cc | Subject | The ask | Drafted |
 |---|---|---|---|---|
-| `contact@openbci.com` | — | openbci hardware for a neural track in sf | EEG loaners for the weekend + a mentor. Built on their MIT Reality Hack loan model | 08-19, rewritten 08-28 |
-| `istoica@eecs.berkeley.edu` | — | judging interface, a student hackathon at sf tech week | Judge, and warm intros to Sky Lab spinouts as sponsors | 08-19, rewritten 08-28 |
-| `svlevine@eecs.berkeley.edu` | — | a touch track that needs a roboticist | Judge, and an intro to Physical Intelligence | 08-19, rewritten 08-28 |
-| `chloe@valencevibrations.com` | — | speaking at an interfaces hackathon in sf | Speaker | 08-27 |
-| `hackathons@vapi.ai` | — | quick question about VapiCon and hackathon judging | Judging + VapiCon tie-in | 08-14 |
-| `hackathons@elevenlabs.io` | — | quick question about hackathon credits during SF Tech Week | Credits pool | 08-14 |
-| `founders@cartesia.ai` | — | quick question about Cartesia's Startups Grant | Startups Grant for hackers | 08-14 |
-| `hello@somnee.com` | — | quick question about Somnee for a Berkeley hackathon | Sleep/neuro angle for NEURAL | 08-14 |
-| `ben@kscale.dev` | — | quick question about K-Bot loaners | Robot loaners for TOUCH | 08-14 |
-| `hackathons@modal.com` | — | quick question about Modal as compute sponsor | Compute credits | 08-14 |
+| `contact@openbci.com` | — | EEG Loaners for the NEURAL Track \| INTERFACE @ SF Tech Week | EEG loaners for the weekend + a mentor. Built on their MIT Reality Hack loan model | 08-19, rewritten 08-31 |
+| `istoica@eecs.berkeley.edu` | — | Invitation to Judge INTERFACE, a Student Hackathon at SF Tech Week | Judge, and warm intros to Sky Lab spinouts as sponsors | 08-19, rewritten 08-31 |
+| `svlevine@eecs.berkeley.edu` | — | Invitation to Judge INTERFACE, a Student Hackathon at SF Tech Week | Judge, and an intro to Physical Intelligence | 08-19, rewritten 08-31 |
+| `chloe@valencevibrations.com` | — | Speaker Invitation \| INTERFACE @ SF Tech Week | Speaker. Founded-from-a-hackathon hook | 08-27, rewritten 08-31 |
+| `hackathons@vapi.ai` | — | VOICE Track Sponsorship \| INTERFACE @ SF Tech Week | Judging + VapiCon/Vapithon tie-in | 08-14, rewritten 08-31 |
+| `hackathons@elevenlabs.io` | — | VOICE Track Sponsorship \| INTERFACE @ SF Tech Week | Credits pool. a16z Worldwide Hackathon hook | 08-14, rewritten 08-31 |
+| `founders@cartesia.ai` | — | Voice Credits for 120 Student Builders \| INTERFACE @ SF Tech Week | Startups Grant for hackers | 08-14, rewritten 08-31 |
+| `hello@somnee.com` | — | Partnering with Somnee for the NEURAL Track \| INTERFACE @ SF Tech Week | Sleep/neuro angle for NEURAL. Personal Matt Walker hook | 08-14, rewritten 08-31 |
+| `ben@kscale.dev` | — | K-Bot Loaners for the TOUCH Track \| INTERFACE @ SF Tech Week | Robot loaners for TOUCH. K-Hacks hook | 08-14, rewritten 08-31 |
+| `hackathons@modal.com` | — | Compute Sponsorship \| INTERFACE @ SF Tech Week | Compute credits. Lux 25K-credits hook | 08-14, rewritten 08-31 |
 | `hello@hume.ai` | — | **DO NOT SEND** | Superseded. Going to Andrew Ettinger via LinkedIn | 08-20 |
-| `info@sesame.com` | Sissi | speaking at an interfaces hackathon in sf, october 10 to 11 | Keynote, open the Saturday. Cold to the generic inbox with a route-me line, since Hunter finds no individuals and Fil declined intros. Adapted from section 12 below, whose grant-team routing note is stale | 08-31 |
-| `nancy@brightdata.com` | Sissi | interface at the web data loft, materials + track vision | Post-call follow-up: Partiful link, no-overnight format (Sat 9am–11pm, Sun demos), per-track Web MCP vision, presenting-sponsor-for-venue trade. Her team evals tomorrow morning, so **send tonight**. Full proposal: `events/sf/one-pagers/brightdata-proposal.md` | 08-31 |
-| `jeff@replit.com` | Sissi | replit credits for a student hackathon at sf tech week | Credits for the room + OPEN judge, Amjad invited to the Sunday expo. Shipaton + AI Tinkerers hook. VP BizDev (targets file says not the CEO; Hunter found no DevRel address). accept_all domain, valid 81 | 08-31 |
-| `sarah@blackforestlabs.ai` | Sissi | flux credits for a vision track at sf tech week | FLUX API credits + VISION judge. Kontext-hackathon (58 projects) + hiring hook. Chief of Staff, valid 98 | 08-31 |
-| `kyrill@nunu.ai` | Sissi | nunu agents in a vision track at sf tech week | Framework access + bounty + judge for VISION. They won Grand Champion at a Colosseum hackathon themselves. Kyrill Hux, co-founder, valid 82. Hunter shows `nicolas@` not the reported "Jan Schnyder" as the other founder | 08-31 |
-| `developers@poe.com` | Sissi | poe api for an open track at sf tech week | API credits + bounty for OPEN. Bot-live-in-minutes friction hook. Generic dev inbox, valid 85 | 08-31 |
-| `mimi@mindrobotics.com` | Sissi | a room of 120 student builders at sf tech week | Judge or speaker ONLY for TOUCH, recruiting-prestige frame, explicitly no money or product ask. No a16z partner named per targets file. Mimi Han, Talent Acquisition, valid 98 | 08-31 |
-| `james@askethos.com` | Sissi | ethos and a voice track at sf tech week | Mentor + VOICE judge. Voice-agents-that-interview hook + early-talent frame. James Lo, co-founder; domain is `askethos.com`, valid 84 | 08-31 |
-| `quili@happyrobot.ai` | Sissi | happyrobot telephony in a voice track at sf tech week | Telephony API for the weekend + VOICE judge. Real-phone-lines hook. Dir Strategy & Ops. accept_all domain, 84 | 08-31 |
-| `adam@cursor.com` | Sissi | judging a student hackathon at sf tech week | Judge only, no sponsorship pitch. Room-already-builds-in-Cursor hook, Sunday times inline. Cofounder, from the Addresses table | 08-31 |
+| `info@sesame.com` | Sissi | Speaker Invitation \| INTERFACE @ SF Tech Week | Keynote, open the Saturday. Cold to the generic inbox with a route-me line, since Hunter finds no individuals and Fil declined intros | 08-31 |
+| `nancy@brightdata.com` | Sissi | INTERFACE at the Web Data Loft - Materials + Track visions | **SENT by Iana 08-31 23:58.** Post-call follow-up: Partiful link, no-overnight format, per-track Web MCP vision, presenting-sponsor-for-venue trade. Her team answers before Sept 8. Full proposal: `events/sf/one-pagers/brightdata-proposal.md` | 08-31, sent 08-31 |
+| `jeff@replit.com` | Sissi | Replit Credits for 120 Student Builders \| INTERFACE @ SF Tech Week | Credits for the room + OPEN judge, Amjad invited to the Sunday expo. Shipaton + AI Tinkerers hook. VP BizDev (targets file says not the CEO; Hunter found no DevRel address). accept_all domain, valid 81 | 08-31 |
+| `sarah@blackforestlabs.ai` | Sissi | FLUX Credits for the VISION Track \| INTERFACE @ SF Tech Week | FLUX API credits + VISION judge. Kontext-hackathon (58 projects) + hiring hook. Chief of Staff, valid 98 | 08-31 |
+| `kyrill@nunu.ai` | Sissi | Partnering with nunu for the VISION Track \| INTERFACE @ SF Tech Week | Framework access + bounty + judge for VISION. They won Grand Champion at a Colosseum hackathon themselves. Kyrill Hux, co-founder, valid 82. Hunter shows `nicolas@` not the reported "Jan Schnyder" as the other founder | 08-31 |
+| `developers@poe.com` | Sissi | Poe API Credits for 120 Student Builders \| INTERFACE @ SF Tech Week | API credits + bounty for OPEN. Generic dev inbox, valid 85 | 08-31 |
+| `mimi@mindrobotics.com` | Sissi | A Judge for the TOUCH Track \| INTERFACE @ SF Tech Week | Judge or speaker ONLY for TOUCH, recruiting-prestige frame, explicitly no money or product ask. No a16z partner named per targets file. Mimi Han, Talent Acquisition, valid 98 | 08-31 |
+| `james@askethos.com` | Sissi | Mentoring and Judging the VOICE Track \| INTERFACE @ SF Tech Week | Mentor + VOICE judge. Early-talent frame. James Lo, co-founder; domain is `askethos.com`, valid 84 | 08-31 |
+| `quili@happyrobot.ai` | Sissi | Telephony for the VOICE Track \| INTERFACE @ SF Tech Week | Telephony API for the weekend + VOICE judge. Dir Strategy & Ops. accept_all domain, 84 | 08-31 |
+| `adam@cursor.com` | Sissi | Judging Invitation for the Cursor Team \| INTERFACE @ SF Tech Week | Judge only, no sponsorship pitch. Room-already-builds-in-Cursor hook, Sunday times inline. Cofounder, from the Addresses table | 08-31 |
 | `emy@emotiv.com` | Sissi | Partnering with the next generation of neuro-innovators \| NeuroTech @ Berkeley Hackathon | EEG headsets, mentorship, or funding. **Iana's own template, near verbatim**, dates fixed April 4-5 → Oct 10-11 and 48h → 24h. VP of Partnership Operations, valid 96. Covers the Emotiv loaner Linear issue; MOLTEN not mentioned yet, decide before send | 08-31 |
 
-All nine 08-31 portco/Emotiv rows above use Iana's remixed template voice (hook question,
-fandom line, "not just a logo on a banner" recruiting frame, warm close, signed "Iana and
-Sissi, INTERFACE · a16z SF Tech Week"). World Labs deliberately absent: the `mala@` MOLTEN
-draft covers them, do not send two separate asks.
+**As of 2026-08-31 every open draft in both events uses Iana's remixed template voice**
+(hook question, fandom line, "not just a logo on a banner" recruiting frame, warm close,
+signed "Iana and Sissi, {EVENT} · a16z {CITY} Tech Week"), with three hard rules: subjects
+are always capitalized and professional (pattern: `{Phrase} | {EVENT} @ {CITY} Tech Week`),
+never restate what the company does back to them (fandom hooks about things they *did* are
+fine), and no em dashes or other AI tells. Professors and academic partners keep a more
+formal register. World Labs deliberately absent from this table: the `mala@` MOLTEN draft
+covers them, do not send two separate asks.
 
 ### MOLTEN, Los Angeles, Oct 16–17
 
 | To | Cc | Subject | The ask | Drafted |
 |---|---|---|---|---|
-| `dnelson@ict.usc.edu`, `cobbins@ict.usc.edu` | `MxRLab@ict.usc.edu` | vision pro loaners for a spatial hackathon in la | Headset loaners, a judge, a mentor | 08-27 |
-| `team@metastage.com` | — | volumetric assets for a spatial hackathon in la | Volumetric assets + judge | 08-27 |
-| `eddostern@arts.ucla.edu` | `dmainfo@arts.ucla.edu` | dma students at a spatial hackathon in la | Student reach + a DMA judge | 08-27 |
-| `alex@worldbuilding.institute` | — | our worldbuild track, and whether you would speak | Opening talk on day one | 08-27 |
-| `jenny.rodenhouse@artcenter.edu` | — | immersion lab + a spatial hackathon in la | Student reach + Immersion Lab tie-in | 08-27 |
-| `slombeyda@caltech.edu` | `gdjorgovski@caltech.edu` | caltech students at a spatial hackathon in la | Student reach + judge | 08-27 |
-| `nathan@refactorgames.com` | — | speaking at a spatial hackathon in la | Speaker or judge | 08-27 |
-| `alejandro@spline.design` | — | a spline track at a spatial hackathon in la | Prize for best Spline build + Pro codes. **The only cash-adjacent ask, and it names no number** | 08-28 |
-| `education@sidefx.com` | `rmagee@sidefx.com` | houdini indie licenses for a student hackathon in la | Indie licenses for the room + a mentor. Explicitly says we are not asking for money | 08-28 |
-| `sam@rokoko.com` | `jakob@rokoko.com` | borrowing smartsuits for a spatial hackathon in la | 2 to 4 Smartsuits on loan | 08-28 |
-| `asim@nianticspatial.com` | — | judging a spatial hackathon in la | Judge + NSDK access for NAVIGATE | 08-28 |
-| `startups@roboflow.com` | — | roboflow for a capture track in la | Credits pool + mentor for CAPTURE | 08-19, rewritten 08-28 |
-| `adriantovalin@lumalabs.ai` | — | luma for a worldbuild track in la | Credits pool + judge, and asks whether Amit would speak. **Repointed 08-31 from `support@` to the named ops director** | 08-19, rewritten 08-31 |
-| `developer@xreal.com` | — | xreal loaners for a spatial hackathon in la | Glasses loaners + judge | 08-19, rewritten 08-28 |
-| `bobak@brilliant.xyz` | — | frame loaners for a spatial hackathon in la | Frame loaners + mentor | 08-19, rewritten 08-28 |
+| `dnelson@ict.usc.edu`, `cobbins@ict.usc.edu` | `MxRLab@ict.usc.edu` | Partnering with the MxR Lab \| MOLTEN @ LA Tech Week | Headset loaners, a judge, a mentor | 08-27, rewritten 08-31 |
+| `team@metastage.com` | — | Volumetric Assets for the CAPTURE Track \| MOLTEN @ LA Tech Week | Volumetric assets + judge. Greets Christina | 08-27, rewritten 08-31 |
+| `eddostern@arts.ucla.edu` | `dmainfo@arts.ucla.edu` | Inviting UCLA DMA Students \| MOLTEN @ LA Tech Week | Student reach + a DMA judge | 08-27, rewritten 08-31 |
+| `alex@worldbuilding.institute` | — | Speaker Invitation for Our WORLDBUILD Track \| MOLTEN @ LA Tech Week | Opening talk on day one | 08-27, rewritten 08-31 |
+| `jenny.rodenhouse@artcenter.edu` | — | Partnering with the Immersion Lab \| MOLTEN @ LA Tech Week | Student reach + Immersion Lab tie-in | 08-27, rewritten 08-31 |
+| `slombeyda@caltech.edu` | `gdjorgovski@caltech.edu` | Inviting Caltech Students \| MOLTEN @ LA Tech Week | Student reach + judge | 08-27, rewritten 08-31 |
+| `nathan@refactorgames.com` | — | Speaker Invitation \| MOLTEN @ LA Tech Week | Speaker or judge. Holodeck-to-Survios hook | 08-27, rewritten 08-31 |
+| `alejandro@spline.design` | — | A Spline Track \| MOLTEN @ LA Tech Week | Prize for best Spline build + Pro codes. Contra hackathon hook. **The only cash-adjacent ask, and it names no number** | 08-28, rewritten 08-31 |
+| `education@sidefx.com` | `rmagee@sidefx.com` | Houdini Indie Licenses for 120 Students \| MOLTEN @ LA Tech Week | Indie licenses for the room + a mentor. Global Game Jam 2025 precedent. Explicitly says we are not asking for money | 08-28, rewritten 08-31 |
+| `sam@rokoko.com` | `jakob@rokoko.com` | Smartsuit Loaners for a Spatial Hackathon \| MOLTEN @ LA Tech Week | 2 to 4 Smartsuits on loan. Education Giveaway + LA-staff facts | 08-28, rewritten 08-31 |
+| `asim@nianticspatial.com` | — | Judging and NSDK Access for the NAVIGATE Track \| MOLTEN @ LA Tech Week | Judge + NSDK access for NAVIGATE. Worlds in Action hook | 08-28, rewritten 08-31 |
+| `startups@roboflow.com` | — | Credits for the CAPTURE Track \| MOLTEN @ LA Tech Week | Credits pool + mentor for CAPTURE | 08-19, rewritten 08-31 |
+| `adriantovalin@lumalabs.ai` | — | Partnering with Luma AI \| MOLTEN @ LA Tech Week | Credits pool + judge, and asks whether Amit would speak. **Repointed 08-31 from `support@` to the named ops director** | 08-19, rewritten 08-31 |
+| `developer@xreal.com` | — | XREAL Loaners for a Spatial Hackathon \| MOLTEN @ LA Tech Week | Glasses loaners + judge | 08-19, rewritten 08-31 |
+| `bobak@brilliant.xyz` | — | Frame Loaners for a Spatial Hackathon \| MOLTEN @ LA Tech Week | Frame loaners + mentor | 08-19, rewritten 08-31 |
 | `api@worldlabs.ai` | — | quick question about Marble and the World API | **Superseded by the `mala@` draft below. Do not send both** | 08-14 |
-| `mala@worldlabs.ai` | — | world labs for a worldbuild track in la, october 16 to 17 | World API credits pool + a judge. Cold, after Fil declined intros | 08-31 |
+| `mala@worldlabs.ai` | — | Marble in the WORLDBUILD Track \| MOLTEN @ LA Tech Week | World API credits pool + a judge. Cold, after Fil declined intros | 08-31 |
 | `daniel@goldhouse.org` | `ted@goldhouse.org`, `vanessa@goldhouse.org`, Sissi | Re: LA tech week event | **SENT by Iana 08-31** in her own wording: Academy terrace has wifi + overnight concerns but could do demos/judging, Snap HQ is great, asks "do you have anybody specific on the Snap AR side?" She held back the Community-tier offer and the call ask, both still unplayed. An unsent Claude draft of this reply may linger in Gmail drafts | 08-31, sent 08-31 |
 | `daniel@goldhouse.org` | `ted@goldhouse.org`, `vanessa@goldhouse.org`, Sissi | Re: LA tech week event | In Gmail drafts (draft `r-5243391696994763633`). Thanks him for chasing the Snap contact ("Yup, we can find out", 08-31), corrects the MOLTEN date for the cc'd judges: Fri Oct 16 to Sat Oct 17, judging Saturday afternoon (thread previously said Sunday Oct 18). Community-tier offer and call ask still unplayed | 08-31 |
 | **recipient TBD** (Snap AR) | Sissi | snap hq + spectacles for an la tech week hackathon | **TRASHED 08-31** with the `joe.darko@snap.com` draft. Daniel Suh is chasing a warm Snap contact ("we will find out", 08-31); all Snap outreach now waits for his intro. Draft fresh when the name lands | 08-31, trashed 08-31 |
-| `steve.sullivan@arcturus.studio` | — | holosuite in front of 120 student builders in la | HoloSuite access + a mentor or judge for CAPTURE. Argues the mentor matters more than the software | 08-31 |
-| `hello@yellow3d.com` | — | yellowsculpt for an inhabit track in la, october 16 to 17 | YellowSculpt access + Mandeep or Vincent Sitzmann as speaker. Hook is that rigging is what kills character work in 24 hours | 08-31 |
-| `kylan@inworld.ai` | — | inworld for an inhabit track in la, october 16 to 17 | Credits pool, or a prize contribution if that is an easier yes. Opens on their Unreal Jam LA prize-pool money | 08-31 |
-| `isaac@avataros.com` | Sissi | speaking at a spatial hackathon in la, october 16 to 17 | Isaac Bratzel as day-one speaker for INHABIT. Lil Miquela is the hook. Address resolved via Hunter 08-31, valid, 99 | 08-31 |
+| `steve.sullivan@arcturus.studio` | — | HoloSuite in the CAPTURE Track \| MOLTEN @ LA Tech Week | HoloSuite access + a mentor or judge for CAPTURE. Argues the mentor matters more than the software | 08-31 |
+| `hello@yellow3d.com` | — | YellowSculpt in the INHABIT Track \| MOLTEN @ LA Tech Week | YellowSculpt access + Mandeep or Vincent Sitzmann as speaker | 08-31 |
+| `kylan@inworld.ai` | — | Powering the INHABIT Track \| MOLTEN @ LA Tech Week | Credits pool, or a prize contribution if that is an easier yes. Opens on their Unreal Jam LA prize-pool money | 08-31 |
+| `isaac@avataros.com` | Sissi | Speaker Invitation \| MOLTEN @ LA Tech Week | Isaac Bratzel as day-one speaker for INHABIT. Lil Miquela is the hook. Address resolved via Hunter 08-31, valid, 99 | 08-31 |
+
+#### Judge and speaker wave, drafted 2026-08-31 evening
+
+Sourced from `research/molten-judges-speakers-2026-08-31.md`, every hook re-verified by
+four research agents before drafting. All cc Sissi, subjects capitalized per Iana's 08-31
+instruction, speaker-first for the big names with judging as the fallback ask.
+
+| To | Cc | Subject | The ask | Drafted |
+|---|---|---|---|---|
+| `debevec@gmail.com` | Sissi | Judging a spatial hackathon in LA, October 17 | Saturday-afternoon judging only, sized around his VIEW Turin trip Oct 12 to 16. CAPTURE frame, USC ICT already engaged. Address published on pauldebevec.com | 08-31 |
+| `zhao@ict.usc.edu` | Sissi | Judging CAPTURE and INHABIT at a spatial hackathon in LA | Judge, PhD-pipeline recruiting frame. Vision & Graphics Lab, deliberately separate from the MxR thread (different ICT lab) | 08-31 |
+| `nikola.todorovic@autodesk.com` | Sissi | Speaking at a spatial hackathon in LA, October 16 | Speaker first, judge fallback. "Co-founder of Wonder Dynamics, now Autodesk"; product named Flow Studio, not Wonder Studio (rebranded) | 08-31 |
+| `vahe.karamian@noorcon.com` | Sissi | Judging a spatial hackathon in LA, October 17 | Judge + VRARA LA co-promotion, personal ask first. NucleusXR-at-AWE hook, CSUN students invited | 08-31 |
+| **no recipient** (LinkedIn DM) | Sissi | For LinkedIn DM: Cameron Kostopoulos, judging MOLTEN | Judge or mentor, peer tone, Body of Mine hook, plus the Epic DevRel and LA Unreal chapter pointer. Fermata domain has no email, DM via /in/ckostopo | 08-31 |
+| `mgotsis@cinema.usc.edu` | Sissi | Judging INHABIT at a spatial hackathon in LA, October 17 | Judge for INHABIT. 20 years mentoring award-winning student games. Exact title: Professor of the Practice of Cinematic Arts | 08-31 |
+| `jules@otoy.com` | Sissi | Speaking at a spatial hackathon in LA, October 16 | Friday talk for WORLDBUILD, judging fallback. RenderCon AI-in-the-render-pipeline hook | 08-31 |
+| `jason.yim@triggerxr.com` | Sissi | Judging a spatial hackathon in LA, October 17 | Judge or short Friday talk, hedged "if you are in LA that week" (his time splits LA/Honolulu). Samsung Android XR partner hook | 08-31 |
+| `sfisher@cinema.usc.edu` | Sissi | Speaking at a spatial hackathon in LA, October 16 | 20-minute Friday opener, NASA Ames to now. Immersive Synthetic Memories hook (Gaussian-splat memory environments with his Spatial Imaging for XR students). Hunter valid 100 | 08-31 |
+| `nonny.delapena@asu.edu` | Sissi | Speaking at a spatial hackathon during LA Tech Week, October 16 | Friday talk or capture masterclass, NEM students invited. Eaton/Palisades four-camera Gaussian-splat rig hook, credited to her team. Slot offered flexibly (possible Oct Creators Lab repeat). ASU domain accept_all 73, LinkedIn is the backup route | 08-31 |
+| `ashley@vntana.com` | Sissi | Speaking or judging at a spatial hackathon in LA, October 16 to 17 | Her pick of Friday talk or Saturday judge. AWE 2025 Sony booth + ConnectedIn3D ep 26 hooks. **No funding mention, the Dec 2025 "Series A" is murky.** Hunter valid 100 | 08-31 |
+| **no recipient** (LinkedIn DM) | Sissi | For LinkedIn DM: Pinar Seyhan Demirdag, speaking at MOLTEN | Friday talk or WORLDBUILD workshop framed as a first student showcase for EVRN after its Sept launch. **EVRN framing, not Cuebric (stale). They/them, second person only.** No email exists, DM via /in/pinar-demirdag | 08-31 |
+| `studio.laurenleemccarthy@gmail.com` | Sissi | Speaking at a spatial hackathon in LA, October 16 | Friday talk on who creation tools serve. p5.js + Sozo Fellowship + Becoming Auto hooks. **`lmccarthy@arts.ucla.edu` is DEAD (Hunter 0); this studio gmail is her published address, valid 91** | 08-31 |
+| `reas@arts.ucla.edu` | Sissi | Speaking at a spatial hackathon in LA, October 16 | Friday talk, software-as-medium frame. Continuum-at-bitforms-Wilshire hook. Hunter valid 90. **Same lab as McCarthy (they co-direct); consider staggering the two so it does not read as a sweep** | 08-31 |
+| `jeffburke@tft.ucla.edu` | Sissi | Speaking at a spatial hackathon in LA, October 16 | Friday talk on Xanadu (live audience gestures into Unreal via gen AI, May 2025) or Saturday judge. NeurIPS 2025 ritual-intermediary paper hook. Hunter valid 100 | 08-31 |
+| `cfink@chapman.edu` | Sissi | Speaking at a spatial hackathon during LA Tech Week, October 16 | Friday talk or Saturday judge, light podcast-material angle. AI XR Podcast (NOT "This Week in XR", rebranded) ep-300 + Brelyon episode hooks; says "Chapman and ASU". **chapman.edu is accept_all 83; his charliefink.com contact form is the safer route if this bounces** | 08-31 |
+
+**Deliberately not drafted:** Hao Li (MBZUAI time-split + Pinscreen litigation history,
+Iana's call whether to invite), Jessica Brillhart (only via the existing MxR thread, no
+parallel ICT channel), XRConsortium LA (no named person), Prashasti Kapadia (the
+runs-weekly-LA-meetup premise would not verify for 2026, GitHub location says India,
+current role is Archie Knows CTO; at most a low-stakes DM asking if the office hours
+still run).
 
 ### Both events in one email
 
 | To | Cc | Subject | The ask | Drafted |
 |---|---|---|---|---|
-| `wayne@convex.dev` | — | Tech Week hackathons, sf oct 10 and la oct 16 | Sponsor either or both, credits + mentor | 08-28 |
-| `nina.lopatina@mongodb.com` | `chuck.freedman@mongodb.com` | sf tech week, the slot you have not claimed yet | Track sponsorship. Built on the Aug 13 Build Fest and the unclaimed SF Tech Week slot | 08-28 |
+| `wayne@convex.dev` | — | Sponsoring Two a16z Tech Week Hackathons \| INTERFACE + MOLTEN | Sponsor either or both, credits + mentor | 08-28, rewritten 08-31 |
+| `nina.lopatina@mongodb.com` | `chuck.freedman@mongodb.com` | An Unclaimed Slot at SF Tech Week \| INTERFACE | Track sponsorship. Built on the Aug 13 Build Fest and the unclaimed SF Tech Week slot | 08-28, rewritten 08-31 |
 | `joe.darko@snap.com` | — | spectacles for two tech week hackathons | **TRASHED 08-31.** Superseded by Daniel Suh's warm Snap route (see Gold House thread). If his contact never materializes, redraft to Darko rather than restoring this | 08-14, merged 08-28, trashed 08-31 |
+
+### Second touches, relationships
+
+| To | Cc | Subject | The ask | Drafted |
+|---|---|---|---|---|
+| `alexa@agihouse.org` | Sissi | Thank You for the Bright Data Intro + Helping on September 19 | **New thread** (deliberately not a reply: the known thread is the Bright Data intro chain with Bright Data people on it), draft `r-4002712817002095721`. Closes the loop on the Nancy call and proposal, accepts the Sept 19 Living Internet volunteer offer for both of us, takes the BCI-founder intro offer | 08-31 |
 
 ### Removed on 2026-08-28
 
@@ -111,6 +154,30 @@ Two drafts were trashed as duplicate approaches to the same person.
   100–120 ranges.
 - **The Convex draft had a garbled sentence** where two clauses had collided mid-edit.
   Repaired.
+
+### What changed on 2026-08-31 (unification pass)
+
+Iana's standing instruction, executed across the whole register:
+
+- **41 open drafts rewritten** to the remixed template voice, both events, sponsors and
+  speakers alike.
+- **Every subject capitalized and professionalized.** No more all-lowercase subjects.
+  Pattern: `{Phrase} | {EVENT} @ {CITY} Tech Week`; professors get "Invitation to Judge
+  INTERFACE, a Student Hackathon at SF Tech Week".
+- **All product restatements cut.** Companies know what they build; only fandom hooks
+  about things they *did* (Kontext hackathon, Shipaton, Unreal Jam prize pool, MIT
+  Reality Hack loans, Global Game Jam licenses, Worlds in Action, K-Hacks, VapiCon)
+  survive.
+- **No em dashes or other AI tells** in any body.
+- **Google-mangled redirect URLs** (`google.com/url?q=...`) replaced with clean Partiful
+  links throughout.
+- **Two second touches drafted:** the Fil confirmation reply (Grant team table) and the
+  Alexa thank-you (Second touches table).
+- **Deliberately untouched:** Emotiv (Iana's own text, subject already professional),
+  Gold House (conversational thread reply in her voice), `api@worldlabs.ai` (superseded,
+  do not send), Hume (do not send).
+- **Bright Data follow-up left the register as a draft and came back sent:** Iana sent
+  the Nancy materials email herself 08-31 23:58.
 
 ### Still open
 
