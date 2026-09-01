@@ -233,6 +233,51 @@ program (**Rev Lebaredian is Bay Area, not LA**); Sony Innovation Studios has no
 leadership (**Glenn Gainor left July 2025, all press is stale**) — route via Mike Ford
 if he engages; WBD via Innovate On The Lot; Unity deprioritized.
 
+#### Tier 1 big-names wave, creator/artist half, drafted 2026-08-31 night
+
+The 50-speaker expansion Iana asked for ("at least 50 options... really get some big
+names"). Sourced from `research/molten-bignames-speakers-2026-08-31.md` and
+`research/molten-breadth-speakers-2026-08-31.md`, deduped against
+`research/molten-speaker-dedup-2026-08-31.md`. New LIGHT format per her call: hook →
+one line on something they did → "Would you be interested in speaking to this room?
+Happy to send over the full picture." No 20-min-talk ask yet; that comes with the
+full-picture follow-up.
+
+| To | Cc | Subject | Notes | Drafted |
+|---|---|---|---|---|
+| `refo@refikanadolstudio.com` (Refik Anadol) | Sissi | From WDCH Dreams to Dataland: An Invitation From LA's Student Builders | UCLA DMA lecturer; Dataland at The Grand hook. "refo" is his own studio handle per refikanadol.com; press@ is the fallback | 08-31 |
+| `info@thatgamecompany.com` (Jenova Chen) | Sissi | An Invitation for Jenova From the Student Builders Raised on Journey | **General company inbox, no personal email exists publicly.** USC-alum blueprint hook. Better route: USC Interactive Media faculty warm intro | 08-31 |
+| `team@videocopilot.net` (Andrew Kramer) | Sissi | The Students Who Learned VFX From Video Copilot Want to Meet You | Business-inquiries inbox per videocopilot.net/contact. Element 3D fandom hook | 08-31 |
+| `donallenthethird@gmail.com` (Don Allen Stevenson III) | Sissi | Speaking Invitation From MOLTEN, the a16z LA Tech Week Hackathon | His site asks for the event in the subject line, so this one breaks the hook-subject pattern deliberately. Spectacles/AR-educator hook | 08-31 |
+| `Jonathan@WinbushImmersive.com` (Jonathan Winbush) | Sissi | After NAACP Creative Fest, Another LA Room Ready to Learn From You | Published on winbushimmersive.com/about. NAACP Creative Fest 2025 hook | 08-31 |
+| `hi@hughhou.com` (Hugh Hou) | Sissi | 120 Students Who Learned Spatial Video From Your Channel | Medium-confidence address (secondhand; his site redirects to YouTube). City-of-LA VR work hook. Fallback: YouTube About email | 08-31 |
+| `info@tenderclaws.com` (Samantha Gorman) | Sissi | An Invitation From Students Raised on Virtual Virtual Reality | **Now Assistant Professor at Northeastern (Boston) — LA availability in mid-October unverified.** Studio inbox; her site routes to a Google Form (forms.gle/BHPPpxsVKq6enLHD6) | 08-31 |
+| `jessy@291agency.com` (for Nancy Baker Cahill) | Sissi | Speaking Inquiry for Nancy Baker Cahill: a16z LA Tech Week Student Hackathon | nancybakercahill.com routes all inquiries to Jessy Arisohn at 291 Agency; email addresses Jessy, asks on Nancy's behalf. Liberty Bell + Slipstream/LACMA hook | 08-31 |
+
+**Clinton Jones (pwnisher) — no email exists anywhere.** Route: YouTube About-page
+email reveal on youtube.com/@pwnisher (logged in, captcha) or DM @_pwnisher_ on X/IG.
+DM copy: "What happens when you give 120+ of USC, UCLA, Caltech and ArtCenter's most
+creative builders unlimited coffee and 24 hours to reinvent spatial creation? We're
+Iana and Sissi, hosting MOLTEN Oct 16-17, an official a16z LA Tech Week hackathon.
+Your render challenges are half the reason these kids do 3D. Would you be interested
+in speaking to this room? Happy to send the full picture."
+
+#### Tier 1 big-names wave, corporate half, drafted 2026-08-31 night
+
+Same light interest-check format. Hunter-verified 08-31 night.
+
+| To | Cc | Subject | Notes | Drafted |
+|---|---|---|---|---|
+| `doug@d2.com` (Doug Roble) | Sissi | 120 LA Students Chasing What DigiDoug Started | **Only deliverable address; digitaldomain.com variants all bounce.** d2.com is DD's legacy staff domain, verifier valid 90. DigiDoug TED hook | 08-31 |
+| `darren.hendler@epicgames.com` (Darren Hendler) | Sissi | From Thanos's Face to 120 Students Building Digital Humans | **Left Digital Domain, now Special Projects at Epic (ZoomInfo); never frame him as DD.** Verifier valid 100. Thanos/Masquerade hook names his work, not an employer | 08-31 |
+| `nate.mitchell@mountaintop.gg` (Nate Mitchell) | Sissi | The Builders Who Grew Up on the Rift Want to Hear What Comes Next | **Mountaintop effectively shut down after Spectre Divide; hook is Oculus-only, never mention the studio.** accept_all risky 81, he may not read it; pair with LinkedIn/X. a16z warm intro (Jon Lai led their Series A) is the stronger route | 08-31 |
+| `asa.kalama@disney.com` (Asa Kalama) | Sissi | Crashing the Millennium Falcon, and Other Lessons Our Students Need | accept_all risky 71; pair with LinkedIn touch, education framing | 08-31 |
+| `bruce.vaughn@disney.com` (Bruce Vaughn) | Sissi | Engineering Human Emotion, With 120 Students Taking Notes | WDI Chief Creative Officer. accept_all risky 74; pair with LinkedIn touch | 08-31 |
+| `scott.trowbridge@disney.com` (Scott Trowbridge) | Sissi | What Galaxy's Edge Taught Us About Agency, Live for 120 Students | accept_all risky 82. Fallback: All American Speakers bureau, speaker ID 437919 | 08-31 |
+
+**Flagged, not drafted until Iana rules:** Palmer Luckey (HIGH risk, campus protests),
+Edward Saatchi (MOD-HIGH, post-strike genAI), Chris Ume (LOW-MOD).
+
 ### Both events in one email
 
 | To | Cc | Subject | The ask | Drafted |
