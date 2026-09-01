@@ -166,6 +166,33 @@ runs-weekly-LA-meetup premise would not verify for 2026, GitHub location says In
 current role is Archie Knows CTO; at most a low-stakes DM asking if the office hours
 still run).
 
+#### Sponsor-company speaker wave, drafted 2026-08-31 late evening
+
+Sourced from `research/molten-sponsor-speakers-2026-08-31.md`. Combined asks: a Friday
+speaker slot plus track backing, so the sponsor and speaker conversations travel in one
+email. All use Iana's final template, set 08-31 ~17:50 PT: her opening paragraph with
+"**official a16z LA Tech Week**" bolded and underlined, then "It is funded by an a16z
+Tech Week grant and will be promoted on the official Tech Week calendar", closing
+"Thanks so much in advance, / Iana Lin / MOLTEN". The Trigger XR (Yim) draft was
+hand-edited by Iana to this opening and then cleaned (stray "be" and a bold overrun
+fixed); its row above still describes the ask.
+
+| To | Cc | Subject | The ask | Drafted |
+|---|---|---|---|---|
+| `akash@genies.com` | Sissi | 120 Students Building Avatars the Year Genies Ships Unity Tools | 20 min Friday talk from Akash or his dev-platform lead, plus INHABIT track backing (tool access or prize). Smart-Avatar-Framework-in-Unity hook, Marina del Rey proximity. Hunter valid 98. Do NOT use 2022 NFT-era framing | 08-31 |
+| `cyatteau@esri.com` | Sissi | A Hack Pack and a Talk for 120 Students Building UIs in Midair | Friday workshop/talk + hack pack for NAVIGATE, plus a routing question for whoever owns university sponsorships (she is the door, not the budget). CascadiaJS gamification talk hook. Hunter valid 97 | 08-31 |
+| `alon@echo3d.com` | Sissi | A Hackathon Your 15 Minute AR Workshop Was Made For | His existing "15 Minutes or Less" Sessionize workshop for the Friday onboarding block, remote OK (he is NYC), plus echo3D access for teams. Sponsorship playbook referenced without present tense (his Medium series stops mid-2024). Hunter valid 98 | 08-31 |
+| `ben@magnopus.com` | Sissi | Game Tech Powering Hollywood, Built by 120 Students in 24 Hours | 20 min Friday talk, Magnopus judges/mentors as fallback. a16z Games interview + Sphere hooks. **Never name AJ Sciutto (left for Netflix Nov 2025).** Hunter 80 on accept_all domain | 08-31 |
+| **no recipient** (LinkedIn DM) | Sissi | For LinkedIn DM: Gavin Luo, Tripo speaking and sponsoring MOLTEN | Tripo credits + WORLDBUILD prize, Friday talk from Luo, Simon Song, or Yanpei Cao. Acknowledges the June 2026 ~$200M raise. `g.luo@tripo3d.ai` is accept_all 61, DM via /in/gavinluoxw is the route | 08-31 |
+
+**Deliberately not drafted:** Frank Azor / AMD (cold ask is a lottery ticket per
+research; the real AMD route is the Unreal Jam LA organizers Matthew Hayden and Jackie
+Cooper, already the register's plan). **Never cite Nicolas Thibieroz as AMD, he left for
+Intel Aug 2024.**
+
+Big-company wave (Disney, Netflix/Eyeline, Adobe, Sony Imageworks) researched in
+`research/molten-bigco-speakers-2026-08-31.md`, not yet drafted.
+
 ### Both events in one email
 
 | To | Cc | Subject | The ask | Drafted |
