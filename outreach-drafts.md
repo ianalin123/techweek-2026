@@ -137,8 +137,28 @@ too generic, so at ~17:35 PT they were retitled again to hook-specific lines. Th
 subjects below are the live ones. **Do not re-template them.** Two sends and Iana's own
 edits happened mid-retitle, so verify a row's draft still exists before editing it.
 
-**Holds, per Iana 08-31:** the academic speaker drafts (de la Peña, McCarthy, Reas) are
-drafted but HELD until the big-company speaker wave lands. Judge asks are not held.
+**Holds, per Iana 08-31:** the academic speaker drafts (de la Peña, McCarthy, Reas,
+Fisher) are drafted but HELD until the big-company speaker wave lands. Judge asks are
+not held.
+
+**Template pass, 08-31 ~18:10 PT:** every live draft in this wave was rewritten to
+Iana's final template (her opening with "official a16z LA Tech Week" bolded and
+underlined, closing "Thanks so much in advance, / Iana Lin / MOLTEN"). During that pass
+the Fink, de la Peña, and Reas drafts were found deleted (same reconciliation failure
+that ate Fisher's) — all four were recreated from session context with the subjects
+below, so their Gmail draft IDs are new.
+
+**Body pass, 08-31 ~18:20 PT (SUPERSEDES the 18:10 body format, pending Iana's
+arbitration):** in a parallel session Iana said the intro-first drafts read formulaic
+and asked for her coffee-hook template as the opener instead. All 12 open drafts in
+this wave were rewritten hook-first: LA-variant hook question ("120+ of USC, UCLA,
+Caltech and ArtCenter's most creative builders unlimited coffee and 24 hours to
+reinvent spatial creation"), then "We're Iana and Sissi, and we're hosting MOLTEN on
+October 16-17", then the personalized fandom paragraph and ask, closing "Warm regards,
+Iana and Sissi / MOLTEN · a16z LA Tech Week". Hook-specific subjects were kept (four
+were briefly re-templated during the pass and restored). The two body formats conflict;
+the big-company wave below is still on the 18:10 intro-first template. Iana to pick one
+before anything sends.
 
 | To | Cc | Subject | The ask | Drafted |
 |---|---|---|---|---|
@@ -150,14 +170,14 @@ drafted but HELD until the big-company speaker wave lands. Judge asks are not he
 | `mgotsis@cinema.usc.edu` | Sissi | One More Batch of Student Projects Worth Judging, October 17 | Judge for INHABIT. 20 years mentoring award-winning student games. Exact title: Professor of the Practice of Cinematic Arts | 08-31 |
 | `jules@otoy.com` | Sissi | What You Showed at RenderCon, in Front of 120 Student Builders | Friday talk for WORLDBUILD, judging fallback. RenderCon AI-in-the-render-pipeline hook | 08-31 |
 | `jason.yim@triggerxr.com` | Sissi | Android XR Is Coming and 120 Students Want to Build for It | Judge or short Friday talk, hedged "if you are in LA that week" (his time splits LA/Honolulu). Samsung Android XR partner hook | 08-31 |
-| `sfisher@cinema.usc.edu` | Sissi | — | **DRAFT LOST during the 08-31 reconciliation, no draft exists in Gmail.** Was: 20-minute Friday opener, NASA Ames to now, Immersive Synthetic Memories hook (Gaussian-splat memory environments with his Spatial Imaging for XR students). Hunter valid 100. Academic, so HELD anyway; recreate from session context when the hold lifts | 08-31, lost 08-31 |
-| `nonny.delapena@asu.edu` | Sissi | Your Team's Fire Capture Work, in Front of 120 Student Builders | **HELD (academic).** Friday talk or capture masterclass, NEM students invited. Eaton/Palisades four-camera Gaussian-splat rig hook, credited to her team. Slot offered flexibly (possible Oct Creators Lab repeat). ASU domain accept_all 73, LinkedIn is the backup route | 08-31 |
+| `sfisher@cinema.usc.edu` | Sissi | From NASA Ames Headsets to Gaussian Splat Memories, October 16 | **HELD (academic). Recreated 08-31 after the original was lost.** 20-minute Friday opener, NASA Ames to now, Immersive Synthetic Memories hook (Gaussian-splat memory environments with his Spatial Imaging for XR students). Hunter valid 100 | 08-31, recreated 08-31 |
+| `nonny.delapena@asu.edu` | Sissi | Your Team's Fire Capture Work, in Front of 120 Student Builders | **HELD (academic). Recreated 08-31 after deletion.** Friday talk or capture masterclass, NEM students invited. Eaton/Palisades four-camera Gaussian-splat rig hook, credited to her team. Slot offered flexibly (possible Oct Creators Lab repeat). ASU domain accept_all 73, LinkedIn is the backup route | 08-31, recreated 08-31 |
 | `ashley@vntana.com` | Sissi | Speaking or judging at an a16z Tech Week Hackathon | **SENT by Iana 08-31 ~17:30 PT** with her own subject, before the hook-specific retitle, with a garbled sentence: "an official a16z LA Tech Week and funded by". Ask was her pick of Friday talk or Saturday judge. AWE 2025 Sony booth + ConnectedIn3D ep 26 hooks. No funding mention (the Dec 2025 "Series A" is murky). Hunter valid 100 | 08-31, sent 08-31 |
 | **no recipient** (LinkedIn DM) | Sissi | For LinkedIn DM: Pinar Seyhan Demirdag, speaking at MOLTEN | Friday talk or WORLDBUILD workshop framed as a first student showcase for EVRN after its Sept launch. **EVRN framing, not Cuebric (stale). They/them, second person only.** No email exists, DM via /in/pinar-demirdag | 08-31 |
 | `studio.laurenleemccarthy@gmail.com` | Sissi | A Room That Learned to Code on p5.js, October 16 | **HELD (academic).** Friday talk on who creation tools serve. p5.js + Sozo Fellowship + Becoming Auto hooks. **`lmccarthy@arts.ucla.edu` is DEAD (Hunter 0); this studio gmail is her published address, valid 91** | 08-31 |
-| `reas@arts.ucla.edu` | Sissi | What Processing Teaches a Spatial Creation Hackathon | **HELD (academic).** Friday talk, software-as-medium frame. Continuum-at-bitforms-Wilshire hook. Hunter valid 90. **Same lab as McCarthy (they co-direct); consider staggering the two so it does not read as a sweep** | 08-31 |
+| `reas@arts.ucla.edu` | Sissi | What Processing Teaches a Spatial Creation Hackathon | **HELD (academic). Recreated 08-31 after deletion.** Friday talk, software-as-medium frame. Continuum-at-bitforms-Wilshire hook. Hunter valid 90. **Same lab as McCarthy (they co-direct); consider staggering the two so it does not read as a sweep** | 08-31, recreated 08-31 |
 | `jeffburke@tft.ucla.edu` | Sissi | Speaking at a spatial hackathon in LA, October 16 | **SENT by Iana 08-31 ~17:27 PT** before the hook-specific retitle; a duplicate draft created during reconciliation was trashed. Ask was Friday talk on Xanadu (live audience gestures into Unreal via gen AI, May 2025) or Saturday judge. NeurIPS 2025 ritual-intermediary paper hook. Hunter valid 100 | 08-31, sent 08-31 |
-| `cfink@chapman.edu` | Sissi | 30 Spatial Demos in 24 Hours, Possibly Podcast Material | Friday talk or Saturday judge, light podcast-material angle. AI XR Podcast (NOT "This Week in XR", rebranded) ep-300 + Brelyon episode hooks; says "Chapman and ASU". **chapman.edu is accept_all 83; his charliefink.com contact form is the safer route if this bounces** | 08-31 |
+| `cfink@chapman.edu` | Sissi | 30 Spatial Demos in 24 Hours, Possibly Podcast Material | **Recreated 08-31 after deletion.** Friday talk or Saturday judge, light podcast-material angle. AI XR Podcast (NOT "This Week in XR", rebranded) ep-300 hook; says "Chapman and ASU". **chapman.edu is accept_all 83; his charliefink.com contact form is the safer route if this bounces** | 08-31, recreated 08-31 |
 
 **Deliberately not drafted:** Hao Li (MBZUAI time-split + Pinscreen litigation history,
 Iana's call whether to invite), Jessica Brillhart (only via the existing MxR thread, no
@@ -190,8 +210,30 @@ research; the real AMD route is the Unreal Jam LA organizers Matthew Hayden and 
 Cooper, already the register's plan). **Never cite Nicolas Thibieroz as AMD, he left for
 Intel Aug 2024.**
 
-Big-company wave (Disney, Netflix/Eyeline, Adobe, Sony Imageworks) researched in
-`research/molten-bigco-speakers-2026-08-31.md`, not yet drafted.
+#### Big-company speaker wave, drafted 2026-08-31 late evening
+
+Sourced from `research/molten-bigco-speakers-2026-08-31.md`. Speaker-first per Iana's
+industry-over-academia direction; all on her final template.
+
+| To | Cc | Subject | The ask | Drafted |
+|---|---|---|---|---|
+| `lanny.smoot@disney.com` | Sissi | The HoloTile Is Basically Our NAVIGATE Track as Hardware | 20 min Friday talk framed as an education/mentoring appearance, explicitly offers to work with Disney comms (asks him to "take it to your team"). SIGGRAPH 2026 LA keynote + Columbia Class Day hooks. **accept_all domain, verifier risky 74 — pair the send with a LinkedIn touch** | 08-31 |
+| `lukas.lepicovsky@eyelinestudios.com` | Sissi | Chats on Splats, With an Audience That Builds Them Overnight | 20 min Friday talk or Saturday judging. TV Academy "Chats on Splats" panel hook, CAPTURE frame. Hunter valid 90. **Same studio as the Debevec thread — do not run the two blind to each other; if Debevec declines, ask for a handoff** | 08-31 |
+| `nmonteleone@adobe.com` | Sissi | 120 Student Builders and a Friday Made for Substance 3D | Friday talk or workshop, single ask (no license ask, per research). Substance Days at Gnomon hook, WORLDBUILD frame. Acknowledges MAX-month crunch (MAX is Oct 28 to 30 at LACC). Hunter valid 100 | 08-31 |
+| `gbalakrishnan@netflix.com` | Sissi | Democratizing Filmmaking, 120 Students at a Time | 20 min Friday talk. Virtual Production Playbook + democratize-filmmaking mission hooks. **Title is Senior Director, Creative Innovation (LinkedIn); Crunchbase "Director, Virtual Production" is stale, never use it** | 08-31 |
+| `mford@imageworks.com` | Sissi | Open Source Graphics, Meet Its Next 120 Contributors | 20 min Friday talk or Saturday judging. ASWF/OpenColorIO open-source story, Culver City proximity. Hunter valid 100 | 08-31 |
+
+**Bench, not drafted:** Ning Yu (Eyeline staff scientist, LA, published gmail — best
+workshop candidate if Lepicovsky declines), Morgan Pope / Kyle Laughlin / Tony Dohi
+(Disney, all accept_all-risky emails and comms-gated; Dohi is an ArtCenter alum worth a
+LinkedIn touch), Bill Ballew (DreamWorks CTO, Glendale).
+
+**Company routes with no named person:** Meta via Meta for Education only (**2026
+Reality Labs layoffs hit Playa Vista — never reference "your LA team"**); Epic via the
+existing Kevin Miller row or the Kostopoulos DM; NVIDIA via the higher-ed developer
+program (**Rev Lebaredian is Bay Area, not LA**); Sony Innovation Studios has no named
+leadership (**Glenn Gainor left July 2025, all press is stale**) — route via Mike Ford
+if he engages; WBD via Innovate On The Lot; Unity deprioritized.
 
 ### Both events in one email
 
