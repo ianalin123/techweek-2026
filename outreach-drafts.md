@@ -227,11 +227,37 @@ the 1.5MB PDF: drag `~/Downloads/MOLTEN.pdf` into each draft before sending.**
 | `gtrueba@womp.com` | Sissi | Berkeley students asking for Womp codes: official a16z LA Tech Week hackathon, Oct 16-17 | License codes for the design/film half of the room. Gabriela Trueba, CEO. Hunter 83 | 09-01 |
 
 **Dropped from this wave:** Tripo (call booked with them 09-01 6:30pm, conversation is
-live, no cold outreach); Uthana (`henry@uthana.com` verified **invalid** 0 on 09-01,
-replacement contact being researched); Foundry (generic education@ inbox, off-theme,
-bench only). Polycam, Hyper3D/Rodin, Maxon plus moonshot names (Amazon MGM Stage 15,
-WBD virtual production, Google LA spatial, Qualcomm XR, Roblox education) are in a
-contact-research pass, second batch to follow.
+live, no cold outreach); Foundry (generic education@ inbox, off-theme, bench only).
+
+#### Sponsor wave batch 2, same template, drafted 2026-09-01
+
+From the 09-01 contact-research pass. Same attach-the-PDF-manually rule.
+
+| To | Cc | Subject | The ask | Drafted |
+|---|---|---|---|---|
+| `wudi@deemos.com` | Sissi | Berkeley students asking for Rodin credits: official a16z LA Tech Week hackathon, Oct 16-17 | Rodin credits + WORLDBUILD prize. Wu Di, Founder/CEO of Deemos (Hyper3D). Blender Gold sponsor + Jul 2026 ByteDance/Lanchi round for global rollout = buying exactly this US student mindshare. Hunter **valid 100** | 09-01 |
+| `rkantar@roblox.com` | Sissi | Berkeley students asking Roblox to back a worldbuilding track: official a16z LA Tech Week hackathon, Oct 16-17 | Named track or judging seat via the education lens. Rebecca Kantar, VP Education, runs the $25M+ Roblox Community Fund (current as of Jul 2025). Hunter **valid 83** | 09-01 |
+| `s_walker@maxon.net` | Sissi | Berkeley students asking for Cinema 4D seats: official a16z LA Tech Week hackathon, Oct 16-17 | C4D seats + a training-team mentor. Simon Walker, Director of Training, Events & Partnerships (Portland). **accept_all 79, pair with LinkedIn /in/simon-walker-maxon.** Jessica Wege is now CEO; never name old leadership | 09-01 |
+| `contact@polycam.ai` | Sissi | Berkeley students asking for Polycam Pro codes: official a16z LA Tech Week hackathon, Oct 16-17 | Pro codes for CAPTURE. Generic inbox ("Hello," greeting, Seeed precedent); all individual addresses invalid. **Pair with LinkedIn to Elliott Spelman (now CEO; Chris Heinrich moved to CGO 2025)** | 09-01 |
+| `emily.stillman@warnerbros.com` | Sissi | Berkeley students asking for a WBD virtual production judge: official a16z LA Tech Week hackathon, Oct 16-17 | Judge + routing to Burbank/WBD Access. She is SVP Studio Ops at **Leavesden (UK)** over the V Stage, so the draft explicitly asks her to route stateside. Cites the WBD Access Virtual Production Certificate scholarships. Hunter **valid 95** | 09-01 |
+
+**No-email routes from the same pass:**
+- **Uthana:** every address pattern hard-bounces (Henry Long likely gone). Route: LinkedIn
+  DM to **Viren Tellis, co-founder/CEO** (brother Kethan is the other co-founder), or the
+  Uthana Discord/site form. Hook: their $4.3M Mar 2025 round had **a16z Speedrun**
+  participating, so the Tech Week tie-in is built in. DM copy: "Hi Viren! We're Iana and
+  Sissi, hosting MOLTEN Oct 16-17, an official a16z LA Tech Week hackathon: 120+
+  USC/UCLA/Caltech/ArtCenter builders, 24 hours on spatial creation. Since Speedrun backed
+  you, the a16z tie-in is built in. Any interest in Uthana credits plus an INHABIT track
+  prize? Happy to send more."
+- **Google LA:** Bradford Lee (PMM, AR) unverified since the Android XR reorg; LinkedIn
+  only. **Frame around Android XR/geospatial, never ARCore-era products.**
+
+**Verify-on-LinkedIn before drafting (accept_all + stale titles):**
+- Ken Nakada, Head of Virtual Production, Amazon MGM/Stage 15 — `kennakada@amazon.com`
+  accept_all 84, title currency unconfirmed.
+- Brian Vogelsang, Sr Dir PM XR, Qualcomm — `bvogelsang@qualcomm.com` accept_all 85,
+  sources all ≤2024. **Snapdragon Spaces is being wound down; pitch Android XR instead.**
 
 #### Big-company speaker wave, drafted 2026-08-31 late evening
 
