@@ -278,6 +278,70 @@ Same light interest-check format. Hunter-verified 08-31 night.
 **Flagged, not drafted until Iana rules:** Palmer Luckey (HIGH risk, campus protests),
 Edward Saatchi (MOD-HIGH, post-strike genAI), Chris Ume (LOW-MOD).
 
+#### Tier 2 wave, VFX/virtual-production half, drafted 2026-08-31 night
+
+Same light interest-check format. Sourced from the breadth research, contact-verified
+08-31 night.
+
+| To | Cc | Subject | Notes | Drafted |
+|---|---|---|---|---|
+| `contact@corridordigital.com` (Niko Pueringer) | Sissi | VFX Artists React Built Half Our Capture Track | Studio inbox, Hunter verified 100; no personal email exists | 08-31 |
+| `mmcclurg@digitaldomain.com` (Matt McClurg) | Sissi | 120 Students Trying to Previs Whole Worlds in 24 Hours | Head of Visualization, DD. Pattern-guessed but verifier deliverable 100; personalization kept soft accordingly | 08-31 |
+| `business@thethirdfloorinc.com` (Joshua Wassung) | Sissi | The Previs Behind a Decade of Blockbusters, Live for 120 Students | **Research listing was wrong: he is co-founder/CCO of The Third Floor, not The Mill.** Studio business inbox | 08-31 |
+| `aj@orbitalvs.com` (AJ Wedding) | Sissi | What Directing Inside an LED Volume Teaches About Building Worlds | **Live domain is orbitalvs.com, not orbitalvirtualstudios.com.** Hunter verified 88. IG @thatdirectoraj backup | 08-31 |
+| `tim@lacastlestudios.com` (Tim Pipher) | Sissi | Virtual Production in Burbank Before It Was Cool | Hunter deliverable 100; site contact is form-only and info@ bounces | 08-31 |
+| `rene@arwall.co` (Rene Amador) | Sissi | Real-Time Sets on Indie Budgets, for 120 Students Building Overnight | Still ARwall CEO, Studio City. Hunter verified 100; rlamador@gmail.com secondary | 08-31 |
+
+**No-email routes from this batch (DM or form only, use the pwnisher DM copy above
+with the name swapped):**
+
+- **Ian Hubert** — X @Mrdodobird, IG @ianhubertz, or Patreon message. **Confirmed Port
+  Orchard, WA**, so LA availability needs asking up front.
+- **Peter France** — Patreon /peterfrance or X @ThePeterJFrance. **Possibly SF-based
+  now (Torpeeto Films)**, verify before investing.
+- **Rylan Pozniak Daniels** — form at irylan.com/contact, or IG/X @rylanpozniak. LA
+  confirmed.
+- **Kat Harris Mojica** — LinkedIn /in/katvharrismojica. **Stale listing: she is now
+  Virtual Production Supervisor at Sony Pictures' Torchlight, not Snap DevRel.** Still
+  a great VP speaker; pitch the Torchlight role.
+- **Daniel Gregoire** — form at dangregoire.com only. **Left Halon in Aug 2021; never
+  pitch him as "Halon founder."** Independent filmmaker/technologist framing if used.
+- **Phil Galler** — LinkedIn only. **Stepped back from Lux Machina day-to-day; CTO of
+  NEP Virtual Studios, moving toward advisory.** Lower priority.
+
+#### Tier 2 wave, games/graphics half, drafted 2026-08-31 night
+
+Same light interest-check format. Hunter-verified 08-31 night. Hard-confirmed domains:
+riotgames.com, nvidia.com, giantskull.com, thatgamecompany.com, usc.edu. Accept_all
+(may silently drop; pair with LinkedIn): blizzard.com, naughtydog.com, dreamworks.com,
+sony.com.
+
+| To | Cc | Subject | Notes | Drafted |
+|---|---|---|---|---|
+| `jhuffa@riotgames.com` (Jen Huffa) | Sissi | Where Art Direction Meets Rendering, for 120 Student Worldbuilders | Rendering tech artist, Riot LA. Valid 100 | 08-31 |
+| `tawright@riotgames.com` (Taylor Wright) | Sissi | The Tech Art Behind the Curtain, Shown to 120 Students | Now **Principal** Technical Artist. Valid 92 (twright/taylor.wright bounce) | 08-31 |
+| `stephen.mcauley@sony.com` (Stephen McAuley) | Sissi | The Shading Course That Taught a Generation, Meet Its Next Class | SMS Lead Rendering Programmer. accept_all 70, expect silent drop; X @stevemcauley is the safer channel | 08-31 |
+| `mpettineo@gmail.com` (Matt Pettineo) | Sissi | Half This Room Learned Graphics From The Danger Zone | Published on his own about page, an invited contact. SMS engineer, blogs as The Danger Zone | 08-31 |
+| `zzhai@blizzard.com` (Zhen Zhai) | Sissi | How ML Actually Lands in a AAA Pipeline, for 120 Students | Leads Blizzard central AI/ML ("Deepforge"), GDC speaker. accept_all 73 | 08-31 |
+| `jjohnson@blizzard.com` (Jessica Dru Johnson) | Sissi | The Cinematics Our Students Rewatch Frame by Frame | Sr Cinematic Artist. accept_all 71; @jesdru on X/IG as backup | 08-31 |
+| `jshrake@nvidia.com` (Justin Shrake) | Sissi | Real-Time Graphics Energy for 120 Students Building Overnight | NVIDIA LA. Valid 99. **Personalization is soft, strengthen with a specific before sending** | 08-31 |
+| `cecil@thatgamecompany.com` (Cecil Kim) | Sissi | From thatgamecompany's Worlds to ArtCenter's Classrooms to MOLTEN | Studio Art Director + ArtCenter professor, perfect fit. Valid 90 (ckim bounced) | 08-31 |
+| `stig@giantskull.com` (Stig Asmussen) | Sissi | Building a Story-First Studio in LA, Explained to 120 Students | Giant Skull CEO. Valid 99 | 08-31 |
+| `neil_druckmann@naughtydog.com` (Neil Druckmann) | Sissi | Spaces That Carry Story: An Invitation From 120 Student Builders | accept_all 71 but {first}_{last} pattern confirmed by other ND employees | 08-31 |
+| `cory.barlog@sony.com` (Cory Barlog) | Sissi | The Single Unbroken Shot, and 120 Students Who Studied It | **Promoted to Head of Creative, June 2026; no longer directing.** accept_all 74 | 08-31 |
+| `bill.ballew@dreamworks.com` (Bill Ballew) | Sissi | MoonRay Went Open Source and Our Students Noticed | DWA CTO, Glendale (bench activation). accept_all 70 | 08-31 |
+| `tfullerton@usc.edu` (Tracy Fullerton) | Sissi | The Game Innovation Lab's Students Are Building Something in October | **Now director emeritus** of USC Games, still faculty (EA Endowed Chair). Valid 96. Bench activation | 08-31 |
+
+**Not drafted from this batch:**
+
+- **Jeremy Ernst** (jernst@riotgames.com, valid 100) — **based in Kirkland WA, not
+  LA**; fails the LA rule. Keep only if remote judging opens up.
+- **Leah Rubin-Cadrain** — leah@snap.com verifies, but ZoomInfo and her own site
+  suggest she is **now at Meta**. Verify LinkedIn before any send.
+- **Lauren Cason** — **left Snap**; now Refract Studio, Santa Fe. Off-LA, dropped.
+- **James Iliff** — **left Survios day-to-day; now Founder, Mystic Pixel.** No findable
+  email; LinkedIn or @jimbo2go on X.
+
 ### Both events in one email
 
 | To | Cc | Subject | The ask | Drafted |
