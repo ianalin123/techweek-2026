@@ -344,7 +344,15 @@ brightdata(nancy), jonaswillett@gmail.
 **Replies received:**
 - **Asim Ahmed, Niantic Spatial (09-01):** unsure if he'll be in LA; says to submit the
   hackathon to their Academic and Community Partners program so his team can vet it.
-  That is an actionable next step.
+  **Reply drafted 09-01 (in Gmail drafts, in-thread, cc Sissi):** thanks him, says we
+  are submitting through the program page this week, pivots to INTERFACE since Niantic
+  Spatial is SF-based (VISION track, judge seat Sunday Oct 11, Scaniverse/NSDK access
+  works at either event), keeps the LA NAVIGATE seat open. **Program facts:** apply at
+  nianticspatial.com/academic-community-partner-with-us (form is JS-rendered, fill in
+  browser); limited pilot, case-by-case review; offers project-based Scaniverse access,
+  credits, showcase; explicitly no dedicated technical support. The draft commits us to
+  submitting "this week," so actually file the application before or right after
+  sending.
 - **Fil (fil@tech-week.com) replied 08-31** on the a16z thread (cc mchin@a16z.com).
 - **Bright Data thread is live** (nancy@ + noah@ + alexa@agihouse.org, ongoing 08-28 to 08-31).
 
