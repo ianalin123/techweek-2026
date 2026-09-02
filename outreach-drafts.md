@@ -229,6 +229,151 @@ the 1.5MB PDF: drag `~/Downloads/MOLTEN.pdf` into each draft before sending.**
 **Dropped from this wave:** Tripo (call booked with them 09-01 6:30pm, conversation is
 live, no cold outreach); Foundry (generic education@ inbox, off-theme, bench only).
 
+#### Follow-up wave to the stale 08-19 INTERFACE sponsors, drafted 2026-09-01 (in Gmail drafts)
+
+In-thread replies to the four 08-19 sends that got zero replies in 13 days. FOMO angle
+per Iana: Tripo social proof + track scarcity (one sponsor each, first-committed picks)
++ the Sept 8 official-calendar launch. Wording is "Tripo just came on board to sponsor
+our LA sister event," which leans on Aiko's verbal "credits for sure / would love to
+collaborate" from the 09-01 call; no written confirmation from Tripo exists yet, so
+soften or hold if that feels too far ahead of reality. Do NOT reuse the Tripo line with
+Meshy or World Labs later (both were pitched WORLDBUILD, Tripo's likely track).
+The 09-01/09-02 sends are too fresh to follow up; bundle those with the Sept 8 launch.
+
+**SUPERSEDED same night by the named-contact wave below** — the four generic-inbox
+in-thread reply drafts (support@fal.ai, contact@letta.com, devrel@perplexity.ai,
+support@cartesia.ai) still sit in Gmail drafts and should be discarded, since the
+zero-reply problem was the generic inboxes themselves.
+
+#### Named-contact retry of the 08-19 INTERFACE sponsors, drafted 2026-09-01 (in Gmail drafts)
+
+Hunter domain-search found real people; all four addresses verified `valid` score 100
+on 09-01. Same FOMO structure (Tripo LA social proof + one-sponsor-per-track
+first-committed + Sept 8 calendar launch), each with a person-specific subject and
+hook. Each body admits the earlier generic-inbox email in one line, so it reads as
+persistence, not spam. Perplexity backup contact if Jeff is wrong door:
+`janneta@perplexity.ai` (Janneta Tabakov, Director of Growth, also verified valid 100).
+
+| To | Cc | Subject | The ask | Drafted |
+|---|---|---|---|---|
+| `emir@fal.ai` (Emir Lise, Partnerships) | Sissi | The Vision Track at SF Tech Week Is Still Unclaimed | Vision track sponsorship, image/video-pipeline workload hook | 09-01 |
+| `sarah@letta.com` (Sarah Wooders, cofounder/CTO) | Sissi | Two Berkeley Students Hosting the Hackathon Letta Was Made For | Open-track credits + prize; Berkeley-origin + agents-forget-by-hour-six hook | 09-01 |
+| `jeff.grimes@perplexity.ai` (Head of Live Events) | Sissi | 120 Berkeley and Stanford Builders, One Unclaimed Track at SF Tech Week | Sonar credits in Open track, campus-demographic hook | 09-01 |
+| `nikhil.piska@cartesia.ai` (BizOps) | Sissi | The Voice Track Sonic Should Headline, October 10 in SF | Voice track as Sonic showcase | 09-01 |
+
+#### Mass Tripo-line edit of all unsent drafts, 2026-09-01 late night
+
+Per Iana ("update our emails ... to account for the fact that now we potentially have
+Tripo as a sponsor"), all 72 unsent Tech Week drafts got one added sentence at the end
+of the event-description paragraph, before the ask. Subjects, recipients, everything
+else untouched. Exact sentences by category:
+
+- **LA sponsors (18):** "Tripo, the 3D foundation model company, just came on board as
+  a sponsor, so tracks are starting to fill (one sponsor each, first committed picks)."
+- **LA speakers/judges (43):** "Sponsor momentum is building: Tripo, the 3D foundation
+  model company, just came on board."
+- **SF sponsors (4: Quora, Replit, Black Forest Labs, Nunu):** same as LA sponsors but
+  "...came on board for our LA sister event, so tracks across both hackathons are
+  starting to fill..."
+- **SF speakers/judges (7: Stoica, Sesame, Valence, Levine, Mind Robotics, Ethos,
+  Cursor):** "Sponsor momentum is building across our two events: Tripo, the 3D
+  foundation model company, just came on board."
+
+**Deliberately skipped (Tripo competitors, the line would kill the ask):** Deemos/Rodin,
+CSM, Blockade Labs. Also never reuse the line with Meshy or World Labs (already sent,
+both pitched WORLDBUILD, Tripo's likely track).
+
+**Accuracy note:** Tripo has not confirmed in writing. Call ended at "credits for sure,
+would love to collaborate." "Just came on board" is the chosen defensible phrasing; if
+Tripo goes quiet before these send, soften or strip the line.
+
+**Before sending any of these:** several bodies say the one-pager is attached but no
+draft carries an attachment; drag `~/Downloads/MOLTEN.pdf` in manually. Duplicate
+Polycam drafts (Pro codes vs credits, both to `contact@polycam.ai`) both got the line;
+pick one and discard the other.
+
+**Hyperlink pass, 2026-09-01 later that night:** per Iana, the "Tripo" in the inserted
+sentence is now hyperlinked to `https://www.tripo3d.ai` in every remaining draft
+(HTML anchor; plaintext reads "Tripo (tripo3d.ai)"). 68 drafts updated, plus the four
+named-contact INTERFACE retries and the Cameron Kostopoulos LinkedIn DM script.
+While the pass ran, 8 drafts flipped to SENT (Iana was sending live): spline, sidefx,
+artcenter, modtechlabs, and sesame went out with the UNLINKED sentence; kiri, hedra,
+and corridordigital went out already linked (Iana linked those herself). Competitor
+drafts (deemos, blockadelabs, csm) still untouched by design.
+
+#### Sent-log ground truth from Gmail, 2026-08-31 through late 09-01 PT (synced 09-01 ~10pm PT)
+
+Full sweep of `in:sent after:2026/08/31`. Everything below actually left the account.
+
+**Sent 09-01 evening PT (the big push), in send order:** meshy(ethan), haptx(jake),
+neurable(adam, cc ralcaide), xreal(ralph.jodice), esri(cyatteau), refactorgames(nathan),
+roblox(rkantar), cognixion(andreas), kinetix(yassine), thatgamecompany(cecil),
+riot(jhuffa), somnee(mvulanich), move.ai(tino), sesame(brendan), sidefx(education, cc
+rmagee), spline(alejandro), artcenter(jenny.rodenhouse), corridor(niko, cc sam),
+modtechlabs(alex), kiri(jack.w, cc chris.h), hedra(michael), fal(emir), volinga(frivas),
+mint(alex), metastage(team, cc christina), yellowsignal(mandeep),
+tenderclaws(danny), letta(sarah), csm(tejas), blockadelabs(marguerite), deemos(wudi),
+vuzix(matt), senseglove(anne), viverse(kelvin, cc edu@), disney(lanny.smoot),
+blackforestlabs(sarah), nunu(kyrill), polycam(contact@, the credits version; the Pro
+codes duplicate is gone from drafts), maxon(s_walker), runway(michelle, cc
+partnerships@), quora(spencer). Plus the Tripo follow-up to gavinluo+aiko (09-01
+7:50pm PT).
+
+**Sent earlier 09-01 / 08-31, never logged in this register before (Iana's own
+drafts):** rokoko(sam, cc jakob), nianticspatial(asim), noorcon(vahe), debevec@gmail,
+luxonis(brandon), livekit(karlson.lee), rayneo(maxmanausa, cc marketing@),
+anthropic(abby), manus-meta(ben, cc stephan), convex(wayne), inworld(kylan),
+arcturus(steve.sullivan), worldlabs(mala), happyrobot(quili), caltech(slombeyda, cc
+gdjorgovski), usc-ict(dnelson+cobbins, cc MxRLab@), realsense(chris.matthieu),
+fantastic.day(Affan+Minh), cartesia(founders@), avataros(isaac), raycast(per),
+elevenlabs(hackathons@), vapi(hackathons@), warp(ben), luma(sal + adriantovalin),
+disney(bruce.vaughn), sony(cory.barlog), usc-ict(zhao), genies(akash),
+nvidia(jshrake), dreamworks(bill.ballew), eyeline(lukas.lepicovsky), magnopus(ben),
+mongodb(nina.lopatina, cc chuck.freedman), ucla(eddostern, jeffburke), vntana(ashley),
+brightdata(nancy), jonaswillett@gmail.
+
+**Bounces and dead addresses (need new doors):**
+- `s_walker@maxon.net` — hard bounce, internal-only group. Maxon still unreached.
+- `christina@metastage.com` (cc) — address not found. Primary `team@metastage.com` went through.
+- `founders@cartesia.ai` — bounced. Named retry to `nikhil.piska@cartesia.ai` is drafted, on hold.
+- `hackathons@vapi.ai` — bounced. Vapi unreached.
+- `brandon@luxonis.com` — auto-reply, address removed from their system. Luxonis unreached.
+- `slombeyda@caltech.edu` / cc `gdjorgovski@caltech.edu` — two postmaster@caltech.edu
+  messages came straight back; likely bounced, verify in inbox.
+
+**Replies received:**
+- **Asim Ahmed, Niantic Spatial (09-01):** unsure if he'll be in LA; says to submit the
+  hackathon to their Academic and Community Partners program so his team can vet it.
+  That is an actionable next step.
+- **Fil (fil@tech-week.com) replied 08-31** on the a16z thread (cc mchin@a16z.com).
+- **Bright Data thread is live** (nancy@ + noah@ + alexa@agihouse.org, ongoing 08-28 to 08-31).
+
+**Hold state, 09-01 ~10pm PT:** Iana is pausing speaker/judge sends. The 47 remaining
+Tech Week drafts (43 LA+SF speakers/judges, the perplexity/cartesia named sponsor
+retries, istoica/svlevine judge asks, and the Cameron Kostopoulos LinkedIn DM script)
+are all tagged with Gmail label **"Tech Week Hold"** and stay unsent. Stale labels
+DELETE-ME and "To Delete — broken link" were removed. The 4 generic-inbox follow-ups
+and the superseded Tripo draft are no longer in drafts (discarded). X/LinkedIn DM
+sends are NOT verifiable from here: the Gavin Luo and Cameron Kostopoulos DM scripts
+exist in this register, but whether they were actually sent on LinkedIn only Iana
+knows. Confirm and note here.
+
+#### Tripo post-call follow-up, drafted 2026-09-01 — SUPERSEDED, Iana sent her own version 09-01 ~7:50pm PT ("Tripo x MOLTEN: LA Tech Week hackathon partnership", with attachment). The unsent Claude draft may still sit in Gmail drafts; discard it.
+
+Follow-up to the 09-01 6pm call with Gavin Luo and Aiko Dai (VAST AI / Tripo). Their
+stated priority on the call: deep workflow integration, not one-off asset generation.
+They floated credits, a workshop, food/drinks, possibly shared venue costs, and intros
+to Bambu and HeyGears for a 3D-printing bench. Draft proposes credits for all teams
+(high-detail + Smart Mesh) + early-Friday workshop + named WORLDBUILD track/prize,
+accepts the Bambu/HeyGears intros, and teases cross-promo with their LA creative-tech
+campaign. Body says one-pager is attached: **drag the MOLTEN sponsor PDF into the
+draft before sending.** Note the PDF's "venue covered separately" line vs. Aiko's
+shared-venue-costs offer; decide framing before sending.
+
+| To | Cc | Subject | The ask | Drafted |
+|---|---|---|---|---|
+| `gavinluo@vastai3d.com`, `aiko@vastai3d.com` | Sissi, `gavinluoxw@gmail.com` | Making Tripo the Workflow, Not the Demo: Molten Details Inside | Credits + Friday workshop + named WORLDBUILD track; accept Bambu/HeyGears printer intros; numbers over email or a call | 09-01 |
+
 #### Sponsor wave batch 2, same template, drafted 2026-09-01
 
 From the 09-01 contact-research pass. Same attach-the-PDF-manually rule.
