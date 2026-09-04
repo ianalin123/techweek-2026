@@ -2,10 +2,65 @@
 
 **Nothing here has been sent.** Sissi is cc'd on every one.
 
+## Reconciliation log 2026-09-04
+
+Reconciled against live Gmail (both `ianalin123@berkeley.edu` and `sissiwang@berkeley.edu`)
+after the Sep 2 evening + Sep 3 all-day mass outreach. What changed vs. the Aug 31 baseline
+plus the Sep 1 sent-log update:
+
+- **Mass MOLTEN LA sponsor / speaker / judge sends by Iana on Sep 2 evening → Sep 3 late
+  night.** Approximately 60 additional cold-outreach emails went out under the
+  "Berkeley students asking for..." subject pattern from Iana's account (cc Sissi) covering
+  F&B, merch, creator/media, robotics/humanoids, AI/creative-tools, and infra/compute
+  categories. Full list registered below under "MOLTEN mass sponsor blast, 2026-09-02→03".
+- **Mass INTERFACE SF sponsor / speaker / judge sends by Sissi on Sep 2 evening → Sep 3
+  morning.** Roughly 80 additional Sissi-authored, Iana-cc'd cold outreach in the "Berkeley
+  students asking..." pattern covering venue, F&B, merch, sensors, hardware, edge AI,
+  wearables, brain sensing, XR, robotics, compute/infra, and creator-media. Full list under
+  "INTERFACE mass sponsor blast, 2026-09-02→03".
+- **Founders Inc (Mike) live conversation** on hosting INTERFACE: he cannot provide
+  overnight access; Sissi confirmed we can shape schedule around it; Mike offered a call
+  same day. **Ball is with us.**
+- **Confirmed verbal-yes sponsors from Sep 1–2 Granola calls:** Tripo (Gavin Luo / Aiko
+  Dai, Sep 1 6:00pm), RealSense (Chris Matthieu / Michael Nielsen / Penny Malsch, Sep 2
+  3:30pm), Supercell (Jessica Jung, Sep 2 4:30pm — **no commitment**, exploratory only).
+- **Nine new inbound replies in the Sep 2→3 window** now have status: Miro (Sarah,
+  reply-sent), Kneron (Albert, we asked for call), SideFX/Houdini (Nicole, call booked
+  Tue Sep 8 10am), Volinga (Carin, call Fri Sep 4 1pm — meeting later canceled by us;
+  see below), Sensory (Todd, we answered), Ambarella (Monica + Maria, soft no with two
+  questions), Circular (Marion, redirected us to business@ inbox), Razer (Sarah Alkibsy,
+  call Tuesday), Skybox (Marguerite, we offered times), Polycam (routed internally, we
+  followed up), Ultralytics (Francesco looping Zinnia in), Pupil Labs (Will, offered
+  1–2 loaners), SHACK15 (Miranda, no fit; Sissi thanked and pivoted).
+- **Two new soft-nos:** South Park Commons (Arian: cannot host), SHACK15 (Miranda:
+  weekend not a fit → redirected us to Cerebral Valley).
+- **New scheduled meetings booked:** SideFX Houdini call Tue Sep 8 10am PT (Nicole,
+  Debra, Rob); USC ICT MxR Lab call Thu Sep 10 1pm PT (David Nelson, David Cobbins,
+  Aaron Aptaker).
+- **Bounces logged this window and dropped per user directive (do not chase):**
+  `cmazaira@volinga.ai` (address not found — the meeting invite bounced; Carin uses
+  `ext.cmazaira@volinga.ai` on the actual reply), `s_walker@maxon.net` (internal-only
+  group), `jsobolewski@celsius.com` (550 permanent failure), `leah@drinkolipop.com`
+  (mailbox full), `brandon@luxonis.com` (address removed), `christina@metastage.com`
+  (address not found), `chloe.saintil@vimeo.com` (auto-responder: no longer at Vimeo).
+  Follow-ups will not be drafted per Iana's 2026-09-04 directive.
+- **Two Iana Smart AI 100 Summit follow-ups sent 2026-09-04 late night:** BrewBird
+  (Alan, both events, coffee-cart pitch) and Neo4j (Yolande). These are second touches
+  from an in-person conversation, so they belong in the second-touches bucket.
+- **Grant reimbursement paperwork sent** by Iana Sep 2: W-9, signed agreement,
+  banking details sent to `corpacct@a16z.com` in the `a16z Tech Week grants` thread.
+  MOLTEN approved for up to $5,000.
+- **Read the "MOLTEN mass sponsor blast" and "INTERFACE mass sponsor blast" sections
+  below for the full list — the volume made per-row unnecessary noise for the previously
+  templated first waves.** Bounces and named replies broken out separately.
+
+The Aug 31 "The register" content and 2026-08-31 to 09-01 sent-log ground truth remain
+below unchanged; this log lays new state on top.
+
 ## The register
 
 Every Tech Week draft in Iana's Gmail, reconciled against the live mailbox on
-2026-08-28 and again on 2026-08-31. If it is not in this table it does not exist.
+2026-08-28, 2026-08-31, 2026-09-01, and 2026-09-04. If it is not in this table it does not exist.
 
 Dates below are the corrected ones: INTERFACE is Sat–Sun **Oct 10–11**, MOLTEN moved to
 Fri–Sat **Oct 16–17** on 2026-08-28.
@@ -560,6 +615,171 @@ sony.com.
 | To | Cc | Subject | The ask | Drafted |
 |---|---|---|---|---|
 | `alexa@agihouse.org` | Sissi | Thank You for the Bright Data Intro + Helping on September 19 | **New thread** (deliberately not a reply: the known thread is the Bright Data intro chain with Bright Data people on it), draft `r-4002712817002095721`. Closes the loop on the Nancy call and proposal, accepts the Sept 19 Living Internet volunteer offer for both of us, takes the BCI-founder intro offer | 08-31 |
+
+### Replies to inbound, drafted 2026-09-03
+
+Threaded replies, not cold outreach. Each sits in the existing Gmail thread. Sissi cc'd on
+all. Reconciled against the mailbox the same day: every inbound Tech Week email awaiting an
+answer now has a draft.
+
+| To | Cc | Thread / subject | What it answers | Draft |
+|---|---|---|---|---|
+| `sarah.fr@miro.com` | Sissi | Re: Berkeley students asking for Miro | Accepts Enterprise licenses **and** Meetups funding, asks for the hackathon templates. Confirms her pre-waived Luma requirement: RSVPs stay on Partiful, Miro added as Partiful co-host. Agrees to NPS survey + meetup data | `r6147484426223192801` |
+| `cs@robotis.com` (Mason) | Aaron Park, america@, Sissi | Re: Dynamixel servos | Answers his three numbered asks. **Q3 answered honestly: no referrer**, ROBOTIS was already on the list because DYNAMIXEL is the default in Berkeley labs. Commits to the sponsorship form | `r-3120091350929628855` |
+| `will@pupil-labs.com` | sales@, Sissi | Re: Pupil Labs hardware | He offered 1–2 loaner systems and asked for logistics + responsibility split **by email, not call**. Draft gives both, and flags honestly that the SF venue is unsigned so the ship-to address is TBD | `r-2118398482538943615` |
+| `randy.packer@dreamworks.com` | Bill Ballew, Sissi | Re: MoonRay Went Open Source | Bill handed off to Randy (Sr Manager, MoonRay + open source). Ask is flexible: talk Friday, judging Saturday, or a mentor hour | `r8857770288070796056` |
+| `mdamian@ambarella.com` | Monica Malone, Sissi | Re: Ambarella dev kits | A no-for-this-year with two real questions. Answers both: **no club affiliation**, we organize independently; cadence is spring next, offers to send dates early. Go Bears | `r2972015296687151366` |
+| `ext.cmazaira@volinga.ai` | — | Re: reschedule 15min | Confirms **1pm Friday Sept 4**. See action item below | `r-8872434589856013696` |
+| `business@circular.xyz` | Marion, Sissi | Developer access + hardware request | **New thread, not a reply.** Marion redirected us here from the Lucas address (Lucas has left). Asks for API access or loaner rings for the Neural/Touch tracks | `r1370432606431057289` |
+| `zia.espiritu@growthassistant.com` | hackathons@elevenlabs.io, Sissi | Re: VOICE Track Sponsorship | Courtesy close on a **won** sponsorship. Commits the participant CSV by **Mon Oct 13** (72h before MOLTEN) | `r-195283579165073072` |
+
+**Action attached to the Volinga draft:** the reply promises a calendar invite for 1pm Fri
+Sept 4. Nothing is booked yet. Book the cal.com slot before or as you send it.
+
+**Gold House is NOT in this table and does not need a reply.** A reconciliation pass first
+flagged Daniel Suh's Aug 27 message as seven days stale; that is wrong. Iana answered it
+four times through Sept 1, including the MOLTEN date correction to Fri–Sat Oct 16–17 with
+Saturday judging. The ball is with Daniel, Ted and Vanessa.
+
+### Confirmed sponsors (verbal yes from Sep 1–2 calls), 2026-09-04
+
+Ground truth from Granola meeting captures + Gmail. All still owe us paperwork or a
+formal confirm; treat "verbal yes" as directional, not binding.
+
+| Sponsor | Event(s) | Confirmed by | Date | Status |
+|---|---|---|---|---|
+| **Tripo (VAST AI)** | MOLTEN (WORLDBUILD) | Gavin Luo, Aiko Dai | Sep 1 6:00pm PT call | Iana sent tailored proposal 09-01 ~7:50pm. **Their move.** |
+| **RealSense** | INTERFACE (VISION) | Chris Matthieu, Michael Nielsen, Penny Malsch | Sep 2 3:30pm PT call ("Interface 24 Hour Hackathon") | New one-pager drafted at `events/la/one-pagers/realsense-proposal.md` (untracked, sibling to this reconciliation). **Ball with us to send follow-up.** |
+| **Supercell** | Undetermined | Jessica Jung | Sep 2 4:30pm PT call | **NO commitment.** Exploratory only; do not classify as a yes. |
+| **ElevenLabs** | INTERFACE (VOICE) | Zia Espiritu (Growth Assistant) | Confirmed prior; CSV due Mon Oct 13 | Won, courtesy-close draft `r-195283579165073072` |
+| **Miro** | MOLTEN | Sarah Fr (IRL Community events) | Sep 3 email | Enterprise licenses confirmed + Meetups funding pending our details. Iana replied Sep 3 11pm asking for templates and confirming Partiful. **Their move.** |
+| **Kneron** | INTERFACE | Albert (kneron.us) | Sep 3 email | "Very interested"; Sissi asked for a chat Sep 3 evening. **Their move to pick a slot.** |
+| **Circular** | INTERFACE (NEURAL/TOUCH) | Marion (redirected from Lucas) | Sep 3 email | Marion pointed us at `business@circular.xyz`; Iana sent developer-access + hardware ask Sep 3 3:41pm. **Their move.** |
+
+### MOLTEN mass sponsor blast, 2026-09-02 → 2026-09-03 (Iana sent, cc Sissi)
+
+The Sep 2 late-night through Sep 3 late-night push extended MOLTEN outreach to F&B, merch,
+creator/media, robotics/humanoids, AI + creative-tools, and infra/compute categories in the
+LA subject pattern `Berkeley students asking for {product}: official a16z LA Tech Week
+hackathon, Oct 16-17`. All from Iana's account, all with Sissi cc'd. All AWAITING REPLY
+unless noted. Grouped by category for compactness (row-per-row would balloon this file):
+
+**F&B / caffeine (17):** Verve coffee (Katie Kelso → OOO maternity, cc'd marketing@; also
+sent to marketing@vervecoffee.com), Blue Bottle (Ernest Leung), Alfred coffee bar (Becky),
+Sweetgreen (Katie Sheeran), Celsius (Joe Sobolewski — **BOUNCED, IGNORE PER USER
+2026-09-04**), OLIPOP (Leah — **BOUNCED mailbox full, IGNORE PER USER 2026-09-04**), Poppi
+(Arianna Bowman), Liquid Death (Christina), Guayaki (Briana Virella), Sticker Mule
+(Anthony), Owala FreeSip (marketing@), BAGGU (Emillie), Bombas (Michelle DeStein),
+Aviator Nation (Bianca).
+
+**Creator media / press (2):** Voices of VR (Kent), Ori Inbar (AWE, judge ask).
+
+**Robotics / humanoids (4):** Apptronik (Barry Phillips), 1X NEO (Bernt), Figure (Dana
+Berlin), Skild AI (Deepak Pathak).
+
+**AI creative + agent tools (18):** Runway (Michelle, cc partnerships@), Character.ai
+(Summer), Suno (Mikey), Rokid AR (marketing@), Krea (Victor), Windsurf (Parker Drew), Zed
+(Franciska), Fireworks (Peter), Cerebras (Andrew), Baseten (Mike Bilodeau), RunPod
+(Cameron McClendon), Chroma (Jeff), DigitalOcean (Sandhya Goswami), Fly.io (Annie),
+Cloudflare Workers AI (Ricky, cc rita@), Framer (Jorn), CrewAI (João), Netlify (Natalie
+Marovich), Pinecone (Jenna), Turso (Glauber), SambaNova (Vasanth Mohan), LlamaIndex
+(Jerry), Whimsical (Steve), Vimeo (Chloe Saintil — **BOUNCED auto-reply**; also to
+daid@bendingspoons.com), Devin/Cognition (Neil Spalding), Rive (Erik), Reflection AI
+(Misha), OpenAI credits (Maud), Ideogram (Mohammad), Play.ht (Mahmoud), LanceDB (Chang),
+Gamma (Jon).
+
+**Speaker / partner (3):** A24 (Jianna, spatial-storytelling partner ask), Precision
+Neuroscience (Elizabeth Widdicombe, speaker ask), Nathan Fisher / Voices of VR (Kent, see
+creator).
+
+Cadence: sends were spread ~1 min apart between 01:20 and 03:20 UTC on Sep 3. Nothing has
+replied yet other than the bounces above and Sarah Fr @ Miro (see confirmed-yes section).
+
+### INTERFACE mass sponsor blast, 2026-09-02 → 2026-09-03 (Sissi sent, cc Iana)
+
+Sissi drove the INTERFACE side under subject pattern `{Product/Company} x INTERFACE: a16z
+Tech Week student hackathon, Oct 10-11` **or** `Berkeley students asking for {ask}:
+official a16z SF Tech Week hackathon, Oct 10-11`. All AWAITING REPLY unless flagged.
+
+**Wearables / rings / smart fabric (6):** Movano (Michael Soule), Circular (Lucas Oblin →
+**REPLIED, redirected to Marion, Iana sent business@ ask** — see confirmed-yes), RingConn
+(Ashley Li), Zepp (Adam Austin), Nextiles (business@), Xenoma (Hiroaki Sakai), Oura
+(Iida). RingConn/Nextiles/Xenoma/Zepp/Movano AWAITING.
+
+**Brain sensing / EEG (5):** PiEEG (Mikhail), IDUN Guardian earbuds (Moritz), DSI /
+Wearable Sensing (Melissa), Bitbrain (Diego Apellaniz), NeuroSky (Catherine), Neurosity
+(support@), Emotiv (Geoff). All AWAITING.
+
+**Sensors / edge AI (11):** Bosch Sensortec (Marcellino Gemelli), pmdtechnologies
+(Sabrina Buxbaum), Novelda UWB (Rob Sharpe), STMicroelectronics (Fabio Romano), Wasatch
+Photonics (Daniel Bieg), Christie Digital (Monsi Cottrell), Kneron (Albert →
+**REPLIED YES; call requested**), BrainChip (Peter Made), Sensory (Todd Mozer →
+**REPLIED: SDK yes if free; Sissi answered SDK-only**), Synaptics (Jeff Lukanc), Ambarella
+(Monica Malone → **REPLIED SOFT NO — this year; Maria Damian cc, second reply Sep 3
+6:40pm reaffirms no**), Useful Sensors (Pete), Edge Impulse (Louis), Ultralytics
+(Francesco → **REPLIED YES, looping in Zinnia Global Event Manager; Sissi thanked Sep 2
+1:36pm**).
+
+**XR / smart glasses / haptics / mocap (11):** Frame / Brilliant Labs (Sam), Mentra
+(Cayden), Razer haptics (Eric Vezzoli → **REPLIED YES, Sarah Alkibsy + Yulia Simonova
+looped; call Tuesday next week; Sissi replied Sep 2 1:39pm confirming Tuesday**), Bambu
+Labs (Nina Yang), Trossen robot arm (Matt), Espressif ESP32 (Mahavir Jain), Raspberry Pi
+(Matt), SparkFun Qwiic (Blake Houchin), Val Town (Steve), Zed prize (Esther), Pupil Labs
+(Will → **REPLIED YES, 1–2 loaner units offered; Sissi responded with logistics; already
+in "Replies to inbound" table**), Tobii (Mike), AdHawk MindLink (Winter), Doublepoint
+(Ohto), Weart TouchDIVER (Guido Gioioso), SenseGlove Nova (Blanka), HaptX (Jake), Tanvas
+(Greg), Vicon mocap (James Lucas).
+
+**Compute / GPU / inference (7):** Baseten (Philip Kiely), Contextual AI (Jay), Cerebras
+(Manny Monge), Databricks (Josh Meyer), Fireworks (Arjun), Voxel51 FiftyOne (Jimmy
+Guerrero), Runway (Andrew), Decart (Danielle), Supabase (Craig), Browserbase (Charly),
+E2B (Tomas), Exa (Kyle), tldraw (Steve), Replit (Eleonora Pompeo), Rive (Erik), StackBlitz
+Bolt (Mallory), Google credits (Copeland).
+
+**Speakers / judges / talent-partners (6):** Nintendo (Sandra, speaker), Rune Labs (Priya,
+mentor), Gravity Sketch (Aurora), RealWear (Ben Wiltshire), Lynx (Stan), Cory Levy / Z
+Fellows (Cory → **REPLIED; Sissi answered**), Ideo (Jessica Hall / jhall@ideo.com →
+**REPLIED; Sissi answered**), Useful Sensors (Pete, speaker/judge).
+
+**Venue / hosting (6 Sissi + 1 Iana):** Founders Inc (Mike → **REPLIED: no overnight
+access; asked us to chat same day; Sissi accepted; awaiting call**), swissnex (Nathalie
+Minder, cc Camille Burki), SHACK15 (Miranda → **REPLIED SOFT NO on weekend; redirected to
+Cerebral Valley; Sissi thanked**), South Park Commons (Natalie → **REPLIED SOFT NO from
+Arian; Sissi thanked**), Public Works / publicsf (Nick, prior), The Marker (Kirk
+Thompson), Workshop Cafe (info@), Bespoke (contact@), SF Conservatory (Benjamin Brown),
+Melons Catering (Shara Barber, F&B), Boba Guys (Andrew), Souvla (Zephyr), Senor Sisig
+(Melanie), Wise Sons deli (Ani), Sightglass (Megan), Philz (Jessica Mitchell), Ritual
+(Jonathan), Topo Designs (Rick), Leuchtturm1917 (Liza Saberi), Hydro Flask (Leslie),
+Apliiq (Emily), Swag.com (John).
+
+**INTERFACE also-noted sponsors sent Sep 3 evening (Sissi):** Liveblocks (Steven),
+Neon (Taraneh), Robertet (Matthew), MANE (Catherine), Pear VC (Khalil), Cognixion
+(Meaghan), TLDR newsletter (Elyse), World Labs (Justin Johnson — separate ask from the
+existing MOLTEN `mala@` draft), Xtool (Romee → **REPLIED, Sissi in follow-up**), Kaedim
+(Konstantina → **REPLIED, handed off to Kathy → Sissi acknowledged**), Emerson David
+Horn (instruments, thread live), Viltrox lenses (pr@ → REPLIED, Sissi in follow-up),
+Teensy / PJRC (Paul → REPLIED, Sissi in follow-up), Rokoko (jakob@ → REPLIED, Sissi
+handed off).
+
+Cadence: Sissi sent between 05:00 and 12:00 UTC Sep 2 and again 09:00 UTC Sep 3. Any thread
+not explicitly marked REPLIED above is AWAITING REPLY.
+
+### Second touches, in-person follow-ups sent 2026-09-04
+
+| To | Cc | Subject | The ask | Sent |
+|---|---|---|---|---|
+| `alan@brewbird.com` | Sissi | Berkeley students following up on BrewBird for two Tech Week hackathons, October 10-11 and 16-17 | Post-Smart-AI-100-Summit warm follow-up; asks BrewBird to set up a cart at either or both events, offers face time. Attaches MOLTEN + INTERFACE sponsor PDFs | Sent 09-04 02:12 UTC |
+| `yolande.poirier@neo4j.com` | Sissi | Following up on hackathon fit from Smart AI 100 Summit | Post-Smart-AI-100-Summit warm follow-up on Tech Week fit for Neo4j | Sent 09-04 02:04 UTC |
+
+### Meetings scheduled from Sep 2–3 outreach
+
+| Sponsor / partner | When | Attendees (external) | Status |
+|---|---|---|---|
+| SideFX Houdini | Tue Sep 8 2026, 10:00–10:30am PT | Nicole Abernethy, Debra Isaac (replaced Rob Magee at Nicole's request), Rob Magee (originally) | Accepted; Iana updated invite Sep 3 |
+| USC ICT MxR Lab | Thu Sep 10 2026, 1:00–1:30pm PT | David Nelson, David Cobbins, Aaron Aptaker | Accepted by Nelson + Aptaker; Cobbins TBD |
+| Volinga | Fri Sep 4 2026, 1:00–1:30pm PT | Carin Mazaira | **Invite bounced to `cmazaira@volinga.ai` and was canceled by Iana; a new invite was sent to `ext.cmazaira@volinga.ai` and Carin ACCEPTED** |
+| Razer Sensa haptics | Tuesday, next week (TBD slot) | Sarah Alkibsy, Yulia Simonova, Eric Vezzoli | Sissi confirmed Tuesday; time TBD |
+| Kneron | TBD | Albert (kneron.us) | Sissi asked, waiting for slot |
 
 ### Removed on 2026-08-28
 
